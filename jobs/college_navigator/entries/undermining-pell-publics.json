@@ -1,0 +1,4174 @@
+[
+  {
+    "id":138558,
+    "name":"Abraham Baldwin Agricultural College",
+    "latitude":31.5,
+    "longitude":-83.5,
+    "state":"GA"
+  },
+  {
+    "id":126182,
+    "name":"Adams State University",
+    "latitude":37.5,
+    "longitude":-105.9000015,
+    "state":"CO"
+  },
+  {
+    "id":100654,
+    "name":"Alabama A & M University",
+    "latitude":34.79999924,
+    "longitude":-86.59999847,
+    "state":"AL"
+  },
+  {
+    "id":100724,
+    "name":"Alabama State University",
+    "latitude":32.40000153,
+    "longitude":-86.30000305,
+    "state":"AL"
+  },
+  {
+    "id":138716,
+    "name":"Albany State University",
+    "latitude":31.60000038,
+    "longitude":-84.09999847,
+    "state":"GA"
+  },
+  {
+    "id":175342,
+    "name":"Alcorn State University",
+    "latitude":31.89999962,
+    "longitude":-91.09999847,
+    "state":"MS"
+  },
+  {
+    "id":222831,
+    "name":"Angelo State University",
+    "latitude":31.39999962,
+    "longitude":-100.5,
+    "state":"TX"
+  },
+  {
+    "id":197869,
+    "name":"Appalachian State University",
+    "latitude":36.20000076,
+    "longitude":-81.69999695,
+    "state":"NC"
+  },
+  {
+    "id":104151,
+    "name":"Arizona State University",
+    "latitude":33.40000153,
+    "longitude":-111.9000015,
+    "state":"AZ"
+  },
+  {
+    "id":106458,
+    "name":"Arkansas State University-Main Campus",
+    "latitude":35.79999924,
+    "longitude":-90.69999695,
+    "state":"AR"
+  },
+  {
+    "id":106467,
+    "name":"Arkansas Tech University",
+    "latitude":35.29999924,
+    "longitude":-93.09999847,
+    "state":"AR"
+  },
+  {
+    "id":138789,
+    "name":"Armstrong Atlantic State University",
+    "latitude":32,
+    "longitude":-81.19999695,
+    "state":"GA"
+  },
+  {
+    "id":100858,
+    "name":"Auburn University",
+    "latitude":32.59999847,
+    "longitude":-85.5,
+    "state":"AL"
+  },
+  {
+    "id":100830,
+    "name":"Auburn University at Montgomery",
+    "latitude":32.40000153,
+    "longitude":-86.19999695,
+    "state":"AL"
+  },
+  {
+    "id":138983,
+    "name":"Augusta State University",
+    "latitude":33.5,
+    "longitude":-82,
+    "state":"GA"
+  },
+  {
+    "id":219602,
+    "name":"Austin Peay State University",
+    "latitude":36.5,
+    "longitude":-87.40000153,
+    "state":"TN"
+  },
+  {
+    "id":150136,
+    "name":"Ball State University",
+    "latitude":40.20000076,
+    "longitude":-85.40000153,
+    "state":"IN"
+  },
+  {
+    "id":234669,
+    "name":"Bellevue College",
+    "latitude":47.59999847,
+    "longitude":-122.0999985,
+    "state":"WA"
+  },
+  {
+    "id":173124,
+    "name":"Bemidji State University",
+    "latitude":47.5,
+    "longitude":-94.90000153,
+    "state":"MN"
+  },
+  {
+    "id":200022,
+    "name":"Bismarck State College",
+    "latitude":46.79999924,
+    "longitude":-100.8000031,
+    "state":"ND"
+  },
+  {
+    "id":219046,
+    "name":"Black Hills State University",
+    "latitude":44.5,
+    "longitude":-103.9000015,
+    "state":"SD"
+  },
+  {
+    "id":211158,
+    "name":"Bloomsburg University of Pennsylvania",
+    "latitude":41,
+    "longitude":-76.40000153,
+    "state":"PA"
+  },
+  {
+    "id":237215,
+    "name":"Bluefield State College",
+    "latitude":37.29999924,
+    "longitude":-81.19999695,
+    "state":"WV"
+  },
+  {
+    "id":142115,
+    "name":"Boise State University",
+    "latitude":43.59999847,
+    "longitude":-116.1999969,
+    "state":"ID"
+  },
+  {
+    "id":162007,
+    "name":"Bowie State University",
+    "latitude":39,
+    "longitude":-76.80000305,
+    "state":"MD"
+  },
+  {
+    "id":201441,
+    "name":"Bowling Green State University-Main Campus",
+    "latitude":41.40000153,
+    "longitude":-83.59999847,
+    "state":"OH"
+  },
+  {
+    "id":223506,
+    "name":"Brazosport College",
+    "latitude":29,
+    "longitude":-95.40000153,
+    "state":"TX"
+  },
+  {
+    "id":165024,
+    "name":"Bridgewater State University",
+    "latitude":42,
+    "longitude":-71,
+    "state":"MA"
+  },
+  {
+    "id":110422,
+    "name":"California Polytechnic State University-San Luis Obispo",
+    "latitude":35.29999924,
+    "longitude":-120.6999969,
+    "state":"CA"
+  },
+  {
+    "id":110529,
+    "name":"California State Polytechnic University-Pomona",
+    "latitude":34.09999847,
+    "longitude":-117.8000031,
+    "state":"CA"
+  },
+  {
+    "id":110486,
+    "name":"California State University-Bakersfield",
+    "latitude":35.40000153,
+    "longitude":-119.0999985,
+    "state":"CA"
+  },
+  {
+    "id":441937,
+    "name":"California State University-Channel Islands",
+    "latitude":34.20000076,
+    "longitude":-119,
+    "state":"CA"
+  },
+  {
+    "id":110538,
+    "name":"California State University-Chico",
+    "latitude":39.70000076,
+    "longitude":-121.8000031,
+    "state":"CA"
+  },
+  {
+    "id":110547,
+    "name":"California State University-Dominguez Hills",
+    "latitude":33.90000153,
+    "longitude":-118.3000031,
+    "state":"CA"
+  },
+  {
+    "id":110574,
+    "name":"California State University-East Bay",
+    "latitude":37.70000076,
+    "longitude":-122.0999985,
+    "state":"CA"
+  },
+  {
+    "id":110556,
+    "name":"California State University-Fresno",
+    "latitude":36.79999924,
+    "longitude":-119.6999969,
+    "state":"CA"
+  },
+  {
+    "id":110565,
+    "name":"California State University-Fullerton",
+    "latitude":33.90000153,
+    "longitude":-117.9000015,
+    "state":"CA"
+  },
+  {
+    "id":110583,
+    "name":"California State University-Long Beach",
+    "latitude":33.79999924,
+    "longitude":-118.0999985,
+    "state":"CA"
+  },
+  {
+    "id":110592,
+    "name":"California State University-Los Angeles",
+    "latitude":34.09999847,
+    "longitude":-118.1999969,
+    "state":"CA"
+  },
+  {
+    "id":409698,
+    "name":"California State University-Monterey Bay",
+    "latitude":36.70000076,
+    "longitude":-121.8000031,
+    "state":"CA"
+  },
+  {
+    "id":110608,
+    "name":"California State University-Northridge",
+    "latitude":34.20000076,
+    "longitude":-118.5,
+    "state":"CA"
+  },
+  {
+    "id":110510,
+    "name":"California State University-San Bernardino",
+    "latitude":34.20000076,
+    "longitude":-117.3000031,
+    "state":"CA"
+  },
+  {
+    "id":366711,
+    "name":"California State University-San Marcos",
+    "latitude":33.09999847,
+    "longitude":-117.1999969,
+    "state":"CA"
+  },
+  {
+    "id":110495,
+    "name":"California State University-Stanislaus",
+    "latitude":37.5,
+    "longitude":-120.9000015,
+    "state":"CA"
+  },
+  {
+    "id":211361,
+    "name":"California University of Pennsylvania",
+    "latitude":40.09999847,
+    "longitude":-79.90000153,
+    "state":"PA"
+  },
+  {
+    "id":206914,
+    "name":"Cameron University",
+    "latitude":34.59999847,
+    "longitude":-98.40000153,
+    "state":"OK"
+  },
+  {
+    "id":230834,
+    "name":"Castleton State College",
+    "latitude":43.59999847,
+    "longitude":-73.19999695,
+    "state":"VT"
+  },
+  {
+    "id":128771,
+    "name":"Central Connecticut State University",
+    "latitude":41.70000076,
+    "longitude":-72.80000305,
+    "state":"CT"
+  },
+  {
+    "id":169248,
+    "name":"Central Michigan University",
+    "latitude":43.59999847,
+    "longitude":-84.80000305,
+    "state":"MI"
+  },
+  {
+    "id":201690,
+    "name":"Central State University",
+    "latitude":39.70000076,
+    "longitude":-83.90000153,
+    "state":"OH"
+  },
+  {
+    "id":234827,
+    "name":"Central Washington University",
+    "latitude":47,
+    "longitude":-120.5,
+    "state":"WA"
+  },
+  {
+    "id":180948,
+    "name":"Chadron State College",
+    "latitude":42.79999924,
+    "longitude":-103,
+    "state":"NE"
+  },
+  {
+    "id":211608,
+    "name":"Cheyney University of Pennsylvania",
+    "latitude":39.90000153,
+    "longitude":-75.5,
+    "state":"PA"
+  },
+  {
+    "id":144005,
+    "name":"Chicago State University",
+    "latitude":41.70000076,
+    "longitude":-87.59999847,
+    "state":"IL"
+  },
+  {
+    "id":133021,
+    "name":"Chipola College",
+    "latitude":30.79999924,
+    "longitude":-85.19999695,
+    "state":"FL"
+  },
+  {
+    "id":231712,
+    "name":"Christopher Newport University",
+    "latitude":37.09999847,
+    "longitude":-76.5,
+    "state":"VA"
+  },
+  {
+    "id":211644,
+    "name":"Clarion University of Pennsylvania",
+    "latitude":41.20000076,
+    "longitude":-79.40000153,
+    "state":"PA"
+  },
+  {
+    "id":139311,
+    "name":"Clayton  State University",
+    "latitude":33.59999847,
+    "longitude":-84.30000305,
+    "state":"GA"
+  },
+  {
+    "id":217882,
+    "name":"Clemson University",
+    "latitude":34.70000076,
+    "longitude":-82.80000305,
+    "state":"SC"
+  },
+  {
+    "id":202134,
+    "name":"Cleveland State University",
+    "latitude":41.5,
+    "longitude":-81.69999695,
+    "state":"OH"
+  },
+  {
+    "id":218724,
+    "name":"Coastal Carolina University",
+    "latitude":33.79999924,
+    "longitude":-79,
+    "state":"SC"
+  },
+  {
+    "id":132851,
+    "name":"College of Central Florida",
+    "latitude":29.20000076,
+    "longitude":-82.19999695,
+    "state":"FL"
+  },
+  {
+    "id":217819,
+    "name":"College of Charleston",
+    "latitude":32.79999924,
+    "longitude":-79.90000153,
+    "state":"SC"
+  },
+  {
+    "id":182005,
+    "name":"College of Southern Nevada",
+    "latitude":36.20000076,
+    "longitude":-115.1999969,
+    "state":"NV"
+  },
+  {
+    "id":190558,
+    "name":"College of Staten Island CUNY",
+    "latitude":40.59999847,
+    "longitude":-74.09999847,
+    "state":"NY"
+  },
+  {
+    "id":231624,
+    "name":"College of William and Mary",
+    "latitude":37.29999924,
+    "longitude":-76.69999695,
+    "state":"VA"
+  },
+  {
+    "id":127556,
+    "name":"Colorado Mesa University",
+    "latitude":39.09999847,
+    "longitude":-108.5,
+    "state":"CO"
+  },
+  {
+    "id":126711,
+    "name":"Colorado Mountain College",
+    "latitude":39.5,
+    "longitude":-107.3000031,
+    "state":"CO"
+  },
+  {
+    "id":126775,
+    "name":"Colorado School of Mines",
+    "latitude":39.79999924,
+    "longitude":-105.1999969,
+    "state":"CO"
+  },
+  {
+    "id":126818,
+    "name":"Colorado State University-Fort Collins",
+    "latitude":40.59999847,
+    "longitude":-105.0999985,
+    "state":"CO"
+  },
+  {
+    "id":128106,
+    "name":"Colorado State University-Pueblo",
+    "latitude":38.29999924,
+    "longitude":-104.5999985,
+    "state":"CO"
+  },
+  {
+    "id":139366,
+    "name":"Columbus State University",
+    "latitude":32.5,
+    "longitude":-84.90000153,
+    "state":"GA"
+  },
+  {
+    "id":237330,
+    "name":"Concord University",
+    "latitude":37.40000153,
+    "longitude":-81,
+    "state":"WV"
+  },
+  {
+    "id":162283,
+    "name":"Coppin State University",
+    "latitude":39.29999924,
+    "longitude":-76.69999695,
+    "state":"MD"
+  },
+  {
+    "id":190512,
+    "name":"CUNY Bernard M Baruch College",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "state":"NY"
+  },
+  {
+    "id":190549,
+    "name":"CUNY Brooklyn College",
+    "latitude":40.59999847,
+    "longitude":-74,
+    "state":"NY"
+  },
+  {
+    "id":190567,
+    "name":"CUNY City College",
+    "latitude":40.79999924,
+    "longitude":-74,
+    "state":"NY"
+  },
+  {
+    "id":190594,
+    "name":"CUNY Hunter College",
+    "latitude":40.79999924,
+    "longitude":-74,
+    "state":"NY"
+  },
+  {
+    "id":190637,
+    "name":"CUNY Lehman College",
+    "latitude":40.90000153,
+    "longitude":-73.90000153,
+    "state":"NY"
+  },
+  {
+    "id":190646,
+    "name":"CUNY Medgar Evers College",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "state":"NY"
+  },
+  {
+    "id":190655,
+    "name":"CUNY New York City College of Technology",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "state":"NY"
+  },
+  {
+    "id":190664,
+    "name":"CUNY Queens College",
+    "latitude":40.70000076,
+    "longitude":-73.80000305,
+    "state":"NY"
+  },
+  {
+    "id":190691,
+    "name":"CUNY York College",
+    "latitude":40.70000076,
+    "longitude":-73.80000305,
+    "state":"NY"
+  },
+  {
+    "id":219082,
+    "name":"Dakota State University",
+    "latitude":44,
+    "longitude":-97.09999847,
+    "state":"SD"
+  },
+  {
+    "id":139463,
+    "name":"Dalton State College",
+    "latitude":34.79999924,
+    "longitude":-85,
+    "state":"GA"
+  },
+  {
+    "id":133386,
+    "name":"Daytona State College",
+    "latitude":29.20000076,
+    "longitude":-81.09999847,
+    "state":"FL"
+  },
+  {
+    "id":130934,
+    "name":"Delaware State University",
+    "latitude":39.20000076,
+    "longitude":-75.5,
+    "state":"DE"
+  },
+  {
+    "id":175616,
+    "name":"Delta State University",
+    "latitude":33.70000076,
+    "longitude":-90.69999695,
+    "state":"MS"
+  },
+  {
+    "id":200059,
+    "name":"Dickinson State University",
+    "latitude":46.90000153,
+    "longitude":-102.8000031,
+    "state":"ND"
+  },
+  {
+    "id":105297,
+    "name":"Dine College",
+    "latitude":36.29999924,
+    "longitude":-109.1999969,
+    "state":"AZ"
+  },
+  {
+    "id":230171,
+    "name":"Dixie State University",
+    "latitude":37.09999847,
+    "longitude":-113.5999985,
+    "state":"UT"
+  },
+  {
+    "id":198464,
+    "name":"East Carolina University",
+    "latitude":35.59999847,
+    "longitude":-77.40000153,
+    "state":"NC"
+  },
+  {
+    "id":207041,
+    "name":"East Central University",
+    "latitude":34.79999924,
+    "longitude":-96.69999695,
+    "state":"OK"
+  },
+  {
+    "id":212115,
+    "name":"East Stroudsburg University of Pennsylvania",
+    "latitude":41,
+    "longitude":-75.19999695,
+    "state":"PA"
+  },
+  {
+    "id":220075,
+    "name":"East Tennessee State University",
+    "latitude":36.29999924,
+    "longitude":-82.40000153,
+    "state":"TN"
+  },
+  {
+    "id":129215,
+    "name":"Eastern Connecticut State University",
+    "latitude":41.70000076,
+    "longitude":-72.19999695,
+    "state":"CT"
+  },
+  {
+    "id":144892,
+    "name":"Eastern Illinois University",
+    "latitude":39.5,
+    "longitude":-88.19999695,
+    "state":"IL"
+  },
+  {
+    "id":156620,
+    "name":"Eastern Kentucky University",
+    "latitude":37.70000076,
+    "longitude":-84.30000305,
+    "state":"KY"
+  },
+  {
+    "id":169798,
+    "name":"Eastern Michigan University",
+    "latitude":42.20000076,
+    "longitude":-83.59999847,
+    "state":"MI"
+  },
+  {
+    "id":187648,
+    "name":"Eastern New Mexico University-Main Campus",
+    "latitude":34.20000076,
+    "longitude":-103.3000031,
+    "state":"NM"
+  },
+  {
+    "id":208646,
+    "name":"Eastern Oregon University",
+    "latitude":45.29999924,
+    "longitude":-118.0999985,
+    "state":"OR"
+  },
+  {
+    "id":235097,
+    "name":"Eastern Washington University",
+    "latitude":47.5,
+    "longitude":-117.5999985,
+    "state":"WA"
+  },
+  {
+    "id":212160,
+    "name":"Edinboro University of Pennsylvania",
+    "latitude":41.90000153,
+    "longitude":-80.09999847,
+    "state":"PA"
+  },
+  {
+    "id":133508,
+    "name":"Edison State College",
+    "latitude":26.60000038,
+    "longitude":-81.90000153,
+    "state":"FL"
+  },
+  {
+    "id":198507,
+    "name":"Elizabeth City State University",
+    "latitude":36.29999924,
+    "longitude":-76.19999695,
+    "state":"NC"
+  },
+  {
+    "id":155025,
+    "name":"Emporia State University",
+    "latitude":38.40000153,
+    "longitude":-96.19999695,
+    "state":"KS"
+  },
+  {
+    "id":237367,
+    "name":"Fairmont State University",
+    "latitude":39.5,
+    "longitude":-80.19999695,
+    "state":"WV"
+  },
+  {
+    "id":198543,
+    "name":"Fayetteville State University",
+    "latitude":35.09999847,
+    "longitude":-78.90000153,
+    "state":"NC"
+  },
+  {
+    "id":169910,
+    "name":"Ferris State University",
+    "latitude":43.70000076,
+    "longitude":-85.5,
+    "state":"MI"
+  },
+  {
+    "id":165820,
+    "name":"Fitchburg State University",
+    "latitude":42.59999847,
+    "longitude":-71.80000305,
+    "state":"MA"
+  },
+  {
+    "id":133650,
+    "name":"Florida Agricultural and Mechanical University",
+    "latitude":30.39999962,
+    "longitude":-84.30000305,
+    "state":"FL"
+  },
+  {
+    "id":133669,
+    "name":"Florida Atlantic University",
+    "latitude":26.39999962,
+    "longitude":-80.09999847,
+    "state":"FL"
+  },
+  {
+    "id":433660,
+    "name":"Florida Gulf Coast University",
+    "latitude":26.5,
+    "longitude":-81.80000305,
+    "state":"FL"
+  },
+  {
+    "id":133951,
+    "name":"Florida International University",
+    "latitude":25.79999924,
+    "longitude":-80.40000153,
+    "state":"FL"
+  },
+  {
+    "id":133702,
+    "name":"Florida State College at Jacksonville",
+    "latitude":30.29999924,
+    "longitude":-81.69999695,
+    "state":"FL"
+  },
+  {
+    "id":134097,
+    "name":"Florida State University",
+    "latitude":30.39999962,
+    "longitude":-84.30000305,
+    "state":"FL"
+  },
+  {
+    "id":155061,
+    "name":"Fort Hays State University",
+    "latitude":38.90000153,
+    "longitude":-99.30000305,
+    "state":"KS"
+  },
+  {
+    "id":127185,
+    "name":"Fort Lewis College",
+    "latitude":37.29999924,
+    "longitude":-107.9000015,
+    "state":"CO"
+  },
+  {
+    "id":139719,
+    "name":"Fort Valley State University",
+    "latitude":32.5,
+    "longitude":-83.90000153,
+    "state":"GA"
+  },
+  {
+    "id":165866,
+    "name":"Framingham State University",
+    "latitude":42.29999924,
+    "longitude":-71.40000153,
+    "state":"MA"
+  },
+  {
+    "id":218061,
+    "name":"Francis Marion University",
+    "latitude":34.20000076,
+    "longitude":-79.69999695,
+    "state":"SC"
+  },
+  {
+    "id":162584,
+    "name":"Frostburg State University",
+    "latitude":39.70000076,
+    "longitude":-78.90000153,
+    "state":"MD"
+  },
+  {
+    "id":139773,
+    "name":"Gainesville State College",
+    "latitude":34.20000076,
+    "longitude":-83.90000153,
+    "state":"GA"
+  },
+  {
+    "id":232186,
+    "name":"George Mason University",
+    "latitude":38.79999924,
+    "longitude":-77.30000305,
+    "state":"VA"
+  },
+  {
+    "id":139861,
+    "name":"Georgia College and State University",
+    "latitude":33.09999847,
+    "longitude":-83.19999695,
+    "state":"GA"
+  },
+  {
+    "id":447689,
+    "name":"Georgia Gwinnett College",
+    "latitude":34,
+    "longitude":-84,
+    "state":"GA"
+  },
+  {
+    "id":139755,
+    "name":"Georgia Institute of Technology-Main Campus",
+    "latitude":33.79999924,
+    "longitude":-84.40000153,
+    "state":"GA"
+  },
+  {
+    "id":139931,
+    "name":"Georgia Southern University",
+    "latitude":32.40000153,
+    "longitude":-81.80000305,
+    "state":"GA"
+  },
+  {
+    "id":139764,
+    "name":"Georgia Southwestern State University",
+    "latitude":32.09999847,
+    "longitude":-84.19999695,
+    "state":"GA"
+  },
+  {
+    "id":139940,
+    "name":"Georgia State University",
+    "latitude":33.79999924,
+    "longitude":-84.40000153,
+    "state":"GA"
+  },
+  {
+    "id":237385,
+    "name":"Glenville State College",
+    "latitude":38.90000153,
+    "longitude":-80.80000305,
+    "state":"WV"
+  },
+  {
+    "id":139968,
+    "name":"Gordon State College",
+    "latitude":33,
+    "longitude":-84.19999695,
+    "state":"GA"
+  },
+  {
+    "id":159009,
+    "name":"Grambling State University",
+    "latitude":32.5,
+    "longitude":-92.69999695,
+    "state":"LA"
+  },
+  {
+    "id":170082,
+    "name":"Grand Valley State University",
+    "latitude":43,
+    "longitude":-85.90000153,
+    "state":"MI"
+  },
+  {
+    "id":183257,
+    "name":"Granite State College",
+    "latitude":43.20000076,
+    "longitude":-71.5,
+    "state":"NH"
+  },
+  {
+    "id":182306,
+    "name":"Great Basin College",
+    "latitude":40.79999924,
+    "longitude":-115.8000031,
+    "state":"NV"
+  },
+  {
+    "id":177551,
+    "name":"Harris-Stowe State University",
+    "latitude":38.59999847,
+    "longitude":-90.19999695,
+    "state":"MO"
+  },
+  {
+    "id":107071,
+    "name":"Henderson State University",
+    "latitude":34.09999847,
+    "longitude":-93.09999847,
+    "state":"AR"
+  },
+  {
+    "id":115755,
+    "name":"Humboldt State University",
+    "latitude":40.90000153,
+    "longitude":-124.0999985,
+    "state":"CA"
+  },
+  {
+    "id":142276,
+    "name":"Idaho State University",
+    "latitude":42.90000153,
+    "longitude":-112.4000015,
+    "state":"ID"
+  },
+  {
+    "id":145813,
+    "name":"Illinois State University",
+    "latitude":40.5,
+    "longitude":-89,
+    "state":"IL"
+  },
+  {
+    "id":134608,
+    "name":"Indian River State College",
+    "latitude":27.39999962,
+    "longitude":-80.40000153,
+    "state":"FL"
+  },
+  {
+    "id":151324,
+    "name":"Indiana State University",
+    "latitude":39.5,
+    "longitude":-87.40000153,
+    "state":"IN"
+  },
+  {
+    "id":213020,
+    "name":"Indiana University of Pennsylvania-Main Campus",
+    "latitude":40.59999847,
+    "longitude":-79.19999695,
+    "state":"PA"
+  },
+  {
+    "id":151351,
+    "name":"Indiana University-Bloomington",
+    "latitude":39.20000076,
+    "longitude":-86.5,
+    "state":"IN"
+  },
+  {
+    "id":151388,
+    "name":"Indiana University-East",
+    "latitude":39.90000153,
+    "longitude":-84.90000153,
+    "state":"IN"
+  },
+  {
+    "id":151333,
+    "name":"Indiana University-Kokomo",
+    "latitude":40.5,
+    "longitude":-86.09999847,
+    "state":"IN"
+  },
+  {
+    "id":151360,
+    "name":"Indiana University-Northwest",
+    "latitude":41.59999847,
+    "longitude":-87.30000305,
+    "state":"IN"
+  },
+  {
+    "id":151102,
+    "name":"Indiana University-Purdue University-Fort Wayne",
+    "latitude":41.09999847,
+    "longitude":-85.09999847,
+    "state":"IN"
+  },
+  {
+    "id":151111,
+    "name":"Indiana University-Purdue University-Indianapolis",
+    "latitude":39.79999924,
+    "longitude":-86.19999695,
+    "state":"IN"
+  },
+  {
+    "id":151342,
+    "name":"Indiana University-South Bend",
+    "latitude":41.70000076,
+    "longitude":-86.19999695,
+    "state":"IN"
+  },
+  {
+    "id":151379,
+    "name":"Indiana University-Southeast",
+    "latitude":38.29999924,
+    "longitude":-85.80000305,
+    "state":"IN"
+  },
+  {
+    "id":153603,
+    "name":"Iowa State University",
+    "latitude":42,
+    "longitude":-93.59999847,
+    "state":"IA"
+  },
+  {
+    "id":175856,
+    "name":"Jackson State University",
+    "latitude":32.29999924,
+    "longitude":-90.19999695,
+    "state":"MS"
+  },
+  {
+    "id":101480,
+    "name":"Jacksonville State University",
+    "latitude":33.79999924,
+    "longitude":-85.80000305,
+    "state":"AL"
+  },
+  {
+    "id":232423,
+    "name":"James Madison University",
+    "latitude":38.40000153,
+    "longitude":-78.90000153,
+    "state":"VA"
+  },
+  {
+    "id":230913,
+    "name":"Johnson State College",
+    "latitude":44.59999847,
+    "longitude":-72.69999695,
+    "state":"VT"
+  },
+  {
+    "id":155399,
+    "name":"Kansas State University",
+    "latitude":39.20000076,
+    "longitude":-96.59999847,
+    "state":"KS"
+  },
+  {
+    "id":185262,
+    "name":"Kean University",
+    "latitude":40.70000076,
+    "longitude":-74.19999695,
+    "state":"NJ"
+  },
+  {
+    "id":183062,
+    "name":"Keene State College",
+    "latitude":42.90000153,
+    "longitude":-72.30000305,
+    "state":"NH"
+  },
+  {
+    "id":140164,
+    "name":"Kennesaw State University",
+    "latitude":34,
+    "longitude":-84.59999847,
+    "state":"GA"
+  },
+  {
+    "id":203447,
+    "name":"Kent State University at Ashtabula",
+    "latitude":41.90000153,
+    "longitude":-80.80000305,
+    "state":"OH"
+  },
+  {
+    "id":203456,
+    "name":"Kent State University at East Liverpool",
+    "latitude":40.59999847,
+    "longitude":-80.59999847,
+    "state":"OH"
+  },
+  {
+    "id":203526,
+    "name":"Kent State University at Geauga",
+    "latitude":41.5,
+    "longitude":-81.09999847,
+    "state":"OH"
+  },
+  {
+    "id":203517,
+    "name":"Kent State University at Kent",
+    "latitude":41.09999847,
+    "longitude":-81.30000305,
+    "state":"OH"
+  },
+  {
+    "id":203492,
+    "name":"Kent State University at Salem",
+    "latitude":40.90000153,
+    "longitude":-80.80000305,
+    "state":"OH"
+  },
+  {
+    "id":203465,
+    "name":"Kent State University at Stark",
+    "latitude":40.90000153,
+    "longitude":-81.40000153,
+    "state":"OH"
+  },
+  {
+    "id":203474,
+    "name":"Kent State University at Trumbull",
+    "latitude":41.29999924,
+    "longitude":-80.80000305,
+    "state":"OH"
+  },
+  {
+    "id":203483,
+    "name":"Kent State University at Tuscarawas",
+    "latitude":40.5,
+    "longitude":-81.40000153,
+    "state":"OH"
+  },
+  {
+    "id":157058,
+    "name":"Kentucky State University",
+    "latitude":38.20000076,
+    "longitude":-84.90000153,
+    "state":"KY"
+  },
+  {
+    "id":213349,
+    "name":"Kutztown University of Pennsylvania",
+    "latitude":40.5,
+    "longitude":-75.80000305,
+    "state":"PA"
+  },
+  {
+    "id":170639,
+    "name":"Lake Superior State University",
+    "latitude":46.5,
+    "longitude":-84.40000153,
+    "state":"MI"
+  },
+  {
+    "id":226091,
+    "name":"Lamar University",
+    "latitude":30,
+    "longitude":-94.09999847,
+    "state":"TX"
+  },
+  {
+    "id":218229,
+    "name":"Lander University",
+    "latitude":34.20000076,
+    "longitude":-82.19999695,
+    "state":"SC"
+  },
+  {
+    "id":207209,
+    "name":"Langston University",
+    "latitude":35.90000153,
+    "longitude":-97.30000305,
+    "state":"OK"
+  },
+  {
+    "id":142328,
+    "name":"Lewis-Clark State College",
+    "latitude":46.40000153,
+    "longitude":-117,
+    "state":"ID"
+  },
+  {
+    "id":177940,
+    "name":"Lincoln University",
+    "latitude":38.59999847,
+    "longitude":-92.19999695,
+    "state":"MO"
+  },
+  {
+    "id":213598,
+    "name":"Lincoln University of Pennsylvania",
+    "latitude":39.79999924,
+    "longitude":-75.90000153,
+    "state":"PA"
+  },
+  {
+    "id":213613,
+    "name":"Lock Haven University",
+    "latitude":41.09999847,
+    "longitude":-77.5,
+    "state":"PA"
+  },
+  {
+    "id":232566,
+    "name":"Longwood University",
+    "latitude":37.29999924,
+    "longitude":-78.40000153,
+    "state":"VA"
+  },
+  {
+    "id":159391,
+    "name":"Louisiana State University and Agricultural & Mechanical College",
+    "latitude":30.60000038,
+    "longitude":-91.19999695,
+    "state":"LA"
+  },
+  {
+    "id":159382,
+    "name":"Louisiana State University-Alexandria",
+    "latitude":31.20000076,
+    "longitude":-92.40000153,
+    "state":"LA"
+  },
+  {
+    "id":159416,
+    "name":"Louisiana State University-Shreveport",
+    "latitude":32.40000153,
+    "longitude":-93.69999695,
+    "state":"LA"
+  },
+  {
+    "id":159647,
+    "name":"Louisiana Tech University",
+    "latitude":32.5,
+    "longitude":-92.59999847,
+    "state":"LA"
+  },
+  {
+    "id":230931,
+    "name":"Lyndon State College",
+    "latitude":44.5,
+    "longitude":-72,
+    "state":"VT"
+  },
+  {
+    "id":140322,
+    "name":"Macon State College",
+    "latitude":32.79999924,
+    "longitude":-83.69999695,
+    "state":"GA"
+  },
+  {
+    "id":238263,
+    "name":"Madison Area Technical College",
+    "latitude":43.09999847,
+    "longitude":-89.30000305,
+    "state":"WI"
+  },
+  {
+    "id":161299,
+    "name":"Maine Maritime Academy",
+    "latitude":44.40000153,
+    "longitude":-68.80000305,
+    "state":"ME"
+  },
+  {
+    "id":213783,
+    "name":"Mansfield University of Pennsylvania",
+    "latitude":41.79999924,
+    "longitude":-77.09999847,
+    "state":"PA"
+  },
+  {
+    "id":237525,
+    "name":"Marshall University",
+    "latitude":38.40000153,
+    "longitude":-82.40000153,
+    "state":"WV"
+  },
+  {
+    "id":166674,
+    "name":"Massachusetts College of Art and Design",
+    "latitude":42.29999924,
+    "longitude":-71.09999847,
+    "state":"MA"
+  },
+  {
+    "id":167288,
+    "name":"Massachusetts College of Liberal Arts",
+    "latitude":42.70000076,
+    "longitude":-73.09999847,
+    "state":"MA"
+  },
+  {
+    "id":200226,
+    "name":"Mayville State University",
+    "latitude":47.5,
+    "longitude":-97.30000305,
+    "state":"ND"
+  },
+  {
+    "id":159717,
+    "name":"McNeese State University",
+    "latitude":30.20000076,
+    "longitude":-93.19999695,
+    "state":"LA"
+  },
+  {
+    "id":174020,
+    "name":"Metropolitan State University",
+    "latitude":45,
+    "longitude":-93.09999847,
+    "state":"MN"
+  },
+  {
+    "id":127565,
+    "name":"Metropolitan State University of Denver",
+    "latitude":39.70000076,
+    "longitude":-105,
+    "state":"CO"
+  },
+  {
+    "id":204006,
+    "name":"Miami University-Hamilton",
+    "latitude":39.40000153,
+    "longitude":-84.59999847,
+    "state":"OH"
+  },
+  {
+    "id":204015,
+    "name":"Miami University-Middletown",
+    "latitude":39.5,
+    "longitude":-84.40000153,
+    "state":"OH"
+  },
+  {
+    "id":204024,
+    "name":"Miami University-Oxford",
+    "latitude":39.5,
+    "longitude":-84.69999695,
+    "state":"OH"
+  },
+  {
+    "id":171100,
+    "name":"Michigan State University",
+    "latitude":42.70000076,
+    "longitude":-84.5,
+    "state":"MI"
+  },
+  {
+    "id":171128,
+    "name":"Michigan Technological University",
+    "latitude":47.09999847,
+    "longitude":-88.5,
+    "state":"MI"
+  },
+  {
+    "id":140483,
+    "name":"Middle Georgia College",
+    "latitude":32.40000153,
+    "longitude":-83.30000305,
+    "state":"GA"
+  },
+  {
+    "id":220978,
+    "name":"Middle Tennessee State University",
+    "latitude":35.79999924,
+    "longitude":-86.40000153,
+    "state":"TN"
+  },
+  {
+    "id":226806,
+    "name":"Midland College",
+    "latitude":32,
+    "longitude":-102.0999985,
+    "state":"TX"
+  },
+  {
+    "id":226833,
+    "name":"Midwestern State University",
+    "latitude":33.90000153,
+    "longitude":-98.5,
+    "state":"TX"
+  },
+  {
+    "id":214041,
+    "name":"Millersville University of Pennsylvania",
+    "latitude":40,
+    "longitude":-76.40000153,
+    "state":"PA"
+  },
+  {
+    "id":173920,
+    "name":"Minnesota State University-Mankato",
+    "latitude":44.09999847,
+    "longitude":-94,
+    "state":"MN"
+  },
+  {
+    "id":174358,
+    "name":"Minnesota State University-Moorhead",
+    "latitude":46.90000153,
+    "longitude":-96.80000305,
+    "state":"MN"
+  },
+  {
+    "id":200253,
+    "name":"Minot State University",
+    "latitude":48.20000076,
+    "longitude":-101.3000031,
+    "state":"ND"
+  },
+  {
+    "id":176080,
+    "name":"Mississippi State University",
+    "latitude":33.5,
+    "longitude":-88.80000305,
+    "state":"MS"
+  },
+  {
+    "id":176035,
+    "name":"Mississippi University for Women",
+    "latitude":33.5,
+    "longitude":-88.40000153,
+    "state":"MS"
+  },
+  {
+    "id":176044,
+    "name":"Mississippi Valley State University",
+    "latitude":33.5,
+    "longitude":-90.30000305,
+    "state":"MS"
+  },
+  {
+    "id":178341,
+    "name":"Missouri Southern State University",
+    "latitude":37.09999847,
+    "longitude":-94.5,
+    "state":"MO"
+  },
+  {
+    "id":179566,
+    "name":"Missouri State University-Springfield",
+    "latitude":37.20000076,
+    "longitude":-93.30000305,
+    "state":"MO"
+  },
+  {
+    "id":178411,
+    "name":"Missouri University of Science and Technology",
+    "latitude":38,
+    "longitude":-91.80000305,
+    "state":"MO"
+  },
+  {
+    "id":178387,
+    "name":"Missouri Western State University",
+    "latitude":39.79999924,
+    "longitude":-94.80000305,
+    "state":"MO"
+  },
+  {
+    "id":180461,
+    "name":"Montana State University",
+    "latitude":45.70000076,
+    "longitude":-111,
+    "state":"MT"
+  },
+  {
+    "id":180179,
+    "name":"Montana State University-Billings",
+    "latitude":45.79999924,
+    "longitude":-108.5,
+    "state":"MT"
+  },
+  {
+    "id":180522,
+    "name":"Montana State University-Northern",
+    "latitude":48.5,
+    "longitude":-109.6999969,
+    "state":"MT"
+  },
+  {
+    "id":180416,
+    "name":"Montana Tech of the University of Montana",
+    "latitude":46,
+    "longitude":-112.5999985,
+    "state":"MT"
+  },
+  {
+    "id":185590,
+    "name":"Montclair State University",
+    "latitude":40.90000153,
+    "longitude":-74.19999695,
+    "state":"NJ"
+  },
+  {
+    "id":157386,
+    "name":"Morehead State University",
+    "latitude":38.20000076,
+    "longitude":-83.40000153,
+    "state":"KY"
+  },
+  {
+    "id":163453,
+    "name":"Morgan State University",
+    "latitude":39.29999924,
+    "longitude":-76.59999847,
+    "state":"MD"
+  },
+  {
+    "id":196051,
+    "name":"Morrisville State College",
+    "latitude":42.90000153,
+    "longitude":-75.59999847,
+    "state":"NY"
+  },
+  {
+    "id":157401,
+    "name":"Murray State University",
+    "latitude":36.59999847,
+    "longitude":-88.30000305,
+    "state":"KY"
+  },
+  {
+    "id":441900,
+    "name":"Nevada State College",
+    "latitude":36,
+    "longitude":-114.9000015,
+    "state":"NV"
+  },
+  {
+    "id":262129,
+    "name":"New College of Florida",
+    "latitude":27.39999962,
+    "longitude":-82.59999847,
+    "state":"FL"
+  },
+  {
+    "id":185129,
+    "name":"New Jersey City University",
+    "latitude":40.70000076,
+    "longitude":-74.09999847,
+    "state":"NJ"
+  },
+  {
+    "id":185828,
+    "name":"New Jersey Institute of Technology",
+    "latitude":40.70000076,
+    "longitude":-74.19999695,
+    "state":"NJ"
+  },
+  {
+    "id":187897,
+    "name":"New Mexico Highlands University",
+    "latitude":35.59999847,
+    "longitude":-105.1999969,
+    "state":"NM"
+  },
+  {
+    "id":187967,
+    "name":"New Mexico Institute of Mining and Technology",
+    "latitude":34.09999847,
+    "longitude":-106.9000015,
+    "state":"NM"
+  },
+  {
+    "id":188030,
+    "name":"New Mexico State University-Main Campus",
+    "latitude":32.29999924,
+    "longitude":-106.6999969,
+    "state":"NM"
+  },
+  {
+    "id":159966,
+    "name":"Nicholls State University",
+    "latitude":29.79999924,
+    "longitude":-90.80000305,
+    "state":"LA"
+  },
+  {
+    "id":232937,
+    "name":"Norfolk State University",
+    "latitude":36.79999924,
+    "longitude":-76.30000305,
+    "state":"VA"
+  },
+  {
+    "id":199102,
+    "name":"North Carolina A & T State University",
+    "latitude":36.09999847,
+    "longitude":-79.80000305,
+    "state":"NC"
+  },
+  {
+    "id":199157,
+    "name":"North Carolina Central University",
+    "latitude":36,
+    "longitude":-78.90000153,
+    "state":"NC"
+  },
+  {
+    "id":199193,
+    "name":"North Carolina State University at Raleigh",
+    "latitude":35.79999924,
+    "longitude":-78.69999695,
+    "state":"NC"
+  },
+  {
+    "id":200332,
+    "name":"North Dakota State University-Main Campus",
+    "latitude":46.90000153,
+    "longitude":-96.80000305,
+    "state":"ND"
+  },
+  {
+    "id":147776,
+    "name":"Northeastern Illinois University",
+    "latitude":42,
+    "longitude":-87.69999695,
+    "state":"IL"
+  },
+  {
+    "id":207263,
+    "name":"Northeastern State University",
+    "latitude":35.90000153,
+    "longitude":-95,
+    "state":"OK"
+  },
+  {
+    "id":105330,
+    "name":"Northern Arizona University",
+    "latitude":35.20000076,
+    "longitude":-111.6999969,
+    "state":"AZ"
+  },
+  {
+    "id":147703,
+    "name":"Northern Illinois University",
+    "latitude":41.90000153,
+    "longitude":-88.80000305,
+    "state":"IL"
+  },
+  {
+    "id":157447,
+    "name":"Northern Kentucky University",
+    "latitude":39,
+    "longitude":-84.5,
+    "state":"KY"
+  },
+  {
+    "id":171456,
+    "name":"Northern Michigan University",
+    "latitude":46.59999847,
+    "longitude":-87.40000153,
+    "state":"MI"
+  },
+  {
+    "id":188058,
+    "name":"Northern New Mexico College",
+    "latitude":36,
+    "longitude":-106.0999985,
+    "state":"NM"
+  },
+  {
+    "id":219259,
+    "name":"Northern State University",
+    "latitude":45.5,
+    "longitude":-98.5,
+    "state":"SD"
+  },
+  {
+    "id":136233,
+    "name":"Northwest Florida State College",
+    "latitude":30.5,
+    "longitude":-86.5,
+    "state":"FL"
+  },
+  {
+    "id":380377,
+    "name":"Northwest Indian College",
+    "latitude":48.79999924,
+    "longitude":-122.5999985,
+    "state":"WA"
+  },
+  {
+    "id":178624,
+    "name":"Northwest Missouri State University",
+    "latitude":40.40000153,
+    "longitude":-94.90000153,
+    "state":"MO"
+  },
+  {
+    "id":207306,
+    "name":"Northwestern Oklahoma State University",
+    "latitude":36.79999924,
+    "longitude":-98.69999695,
+    "state":"OK"
+  },
+  {
+    "id":160038,
+    "name":"Northwestern State University of Louisiana",
+    "latitude":31.79999924,
+    "longitude":-93.09999847,
+    "state":"LA"
+  },
+  {
+    "id":171571,
+    "name":"Oakland University",
+    "latitude":42.70000076,
+    "longitude":-83.19999695,
+    "state":"MI"
+  },
+  {
+    "id":204671,
+    "name":"Ohio State University-Lima Campus",
+    "latitude":40.70000076,
+    "longitude":-84,
+    "state":"OH"
+  },
+  {
+    "id":204796,
+    "name":"Ohio State University-Main Campus",
+    "latitude":40,
+    "longitude":-83,
+    "state":"OH"
+  },
+  {
+    "id":204680,
+    "name":"Ohio State University-Mansfield Campus",
+    "latitude":40.79999924,
+    "longitude":-82.59999847,
+    "state":"OH"
+  },
+  {
+    "id":204699,
+    "name":"Ohio State University-Marion Campus",
+    "latitude":40.59999847,
+    "longitude":-83.09999847,
+    "state":"OH"
+  },
+  {
+    "id":204705,
+    "name":"Ohio State University-Newark Campus",
+    "latitude":40.09999847,
+    "longitude":-82.40000153,
+    "state":"OH"
+  },
+  {
+    "id":204820,
+    "name":"Ohio University-Chillicothe Campus",
+    "latitude":39.29999924,
+    "longitude":-83,
+    "state":"OH"
+  },
+  {
+    "id":204802,
+    "name":"Ohio University-Eastern Campus",
+    "latitude":40.09999847,
+    "longitude":-81,
+    "state":"OH"
+  },
+  {
+    "id":204848,
+    "name":"Ohio University-Lancaster Campus",
+    "latitude":39.70000076,
+    "longitude":-82.59999847,
+    "state":"OH"
+  },
+  {
+    "id":204857,
+    "name":"Ohio University-Main Campus",
+    "latitude":39.29999924,
+    "longitude":-82.09999847,
+    "state":"OH"
+  },
+  {
+    "id":204839,
+    "name":"Ohio University-Southern Campus",
+    "latitude":38.5,
+    "longitude":-82.69999695,
+    "state":"OH"
+  },
+  {
+    "id":204866,
+    "name":"Ohio University-Zanesville Campus",
+    "latitude":40,
+    "longitude":-82,
+    "state":"OH"
+  },
+  {
+    "id":207351,
+    "name":"Oklahoma Panhandle State University",
+    "latitude":36.59999847,
+    "longitude":-101.5999985,
+    "state":"OK"
+  },
+  {
+    "id":207564,
+    "name":"Oklahoma State University Institute of Technology",
+    "latitude":35.59999847,
+    "longitude":-95.90000153,
+    "state":"OK"
+  },
+  {
+    "id":207388,
+    "name":"Oklahoma State University-Main Campus",
+    "latitude":36.09999847,
+    "longitude":-97.09999847,
+    "state":"OK"
+  },
+  {
+    "id":207397,
+    "name":"Oklahoma State University-Oklahoma City",
+    "latitude":35.5,
+    "longitude":-97.59999847,
+    "state":"OK"
+  },
+  {
+    "id":232982,
+    "name":"Old Dominion University",
+    "latitude":36.90000153,
+    "longitude":-76.30000305,
+    "state":"VA"
+  },
+  {
+    "id":236188,
+    "name":"Olympic College",
+    "latitude":47.59999847,
+    "longitude":-122.5999985,
+    "state":"WA"
+  },
+  {
+    "id":209506,
+    "name":"Oregon Institute of Technology",
+    "latitude":42.29999924,
+    "longitude":-121.8000031,
+    "state":"OR"
+  },
+  {
+    "id":209542,
+    "name":"Oregon State University",
+    "latitude":44.59999847,
+    "longitude":-123.3000031,
+    "state":"OR"
+  },
+  {
+    "id":236258,
+    "name":"Peninsula College",
+    "latitude":48.09999847,
+    "longitude":-123.4000015,
+    "state":"WA"
+  },
+  {
+    "id":366252,
+    "name":"Pennsylvania College of Technology",
+    "latitude":41.20000076,
+    "longitude":-77,
+    "state":"PA"
+  },
+  {
+    "id":214777,
+    "name":"Pennsylvania State University-Main Campus",
+    "latitude":40.79999924,
+    "longitude":-77.90000153,
+    "state":"PA"
+  },
+  {
+    "id":214801,
+    "name":"Pennsylvania State University-Penn State Abington",
+    "latitude":40.09999847,
+    "longitude":-75.09999847,
+    "state":"PA"
+  },
+  {
+    "id":214689,
+    "name":"Pennsylvania State University-Penn State Altoona",
+    "latitude":40.5,
+    "longitude":-78.40000153,
+    "state":"PA"
+  },
+  {
+    "id":214698,
+    "name":"Pennsylvania State University-Penn State Beaver",
+    "latitude":40.70000076,
+    "longitude":-80.30000305,
+    "state":"PA"
+  },
+  {
+    "id":214704,
+    "name":"Pennsylvania State University-Penn State Berks",
+    "latitude":40.40000153,
+    "longitude":-76,
+    "state":"PA"
+  },
+  {
+    "id":214731,
+    "name":"Pennsylvania State University-Penn State Brandywine",
+    "latitude":39.90000153,
+    "longitude":-75.40000153,
+    "state":"PA"
+  },
+  {
+    "id":214740,
+    "name":"Pennsylvania State University-Penn State Dubois",
+    "latitude":41.09999847,
+    "longitude":-78.80000305,
+    "state":"PA"
+  },
+  {
+    "id":214591,
+    "name":"Pennsylvania State University-Penn State Erie-Behrend College",
+    "latitude":42.09999847,
+    "longitude":-80,
+    "state":"PA"
+  },
+  {
+    "id":214759,
+    "name":"Pennsylvania State University-Penn State Fayette- Eberly",
+    "latitude":39.90000153,
+    "longitude":-79.69999695,
+    "state":"PA"
+  },
+  {
+    "id":214786,
+    "name":"Pennsylvania State University-Penn State Greater Allegheny",
+    "latitude":40.29999924,
+    "longitude":-79.80000305,
+    "state":"PA"
+  },
+  {
+    "id":214713,
+    "name":"Pennsylvania State University-Penn State Harrisburg",
+    "latitude":40.20000076,
+    "longitude":-76.69999695,
+    "state":"PA"
+  },
+  {
+    "id":214768,
+    "name":"Pennsylvania State University-Penn State Hazleton",
+    "latitude":41,
+    "longitude":-76,
+    "state":"PA"
+  },
+  {
+    "id":214670,
+    "name":"Pennsylvania State University-Penn State Lehigh Valley",
+    "latitude":40.59999847,
+    "longitude":-75.40000153,
+    "state":"PA"
+  },
+  {
+    "id":214795,
+    "name":"Pennsylvania State University-Penn State Mont Alto",
+    "latitude":39.79999924,
+    "longitude":-77.5,
+    "state":"PA"
+  },
+  {
+    "id":214625,
+    "name":"Pennsylvania State University-Penn State New Kensington",
+    "latitude":40.59999847,
+    "longitude":-79.69999695,
+    "state":"PA"
+  },
+  {
+    "id":214810,
+    "name":"Pennsylvania State University-Penn State Schuylkill",
+    "latitude":40.59999847,
+    "longitude":-76.19999695,
+    "state":"PA"
+  },
+  {
+    "id":214634,
+    "name":"Pennsylvania State University-Penn State Shenango",
+    "latitude":41.20000076,
+    "longitude":-80.5,
+    "state":"PA"
+  },
+  {
+    "id":214643,
+    "name":"Pennsylvania State University-Penn State Wilkes-Barre",
+    "latitude":41.29999924,
+    "longitude":-76,
+    "state":"PA"
+  },
+  {
+    "id":214652,
+    "name":"Pennsylvania State University-Penn State Worthington Scranton",
+    "latitude":41.40000153,
+    "longitude":-75.59999847,
+    "state":"PA"
+  },
+  {
+    "id":214829,
+    "name":"Pennsylvania State University-Penn State York",
+    "latitude":40,
+    "longitude":-76.69999695,
+    "state":"PA"
+  },
+  {
+    "id":136473,
+    "name":"Pensacola State College",
+    "latitude":30.5,
+    "longitude":-87.19999695,
+    "state":"FL"
+  },
+  {
+    "id":181534,
+    "name":"Peru State College",
+    "latitude":40.5,
+    "longitude":-95.69999695,
+    "state":"NE"
+  },
+  {
+    "id":155681,
+    "name":"Pittsburg State University",
+    "latitude":37.40000153,
+    "longitude":-94.69999695,
+    "state":"KS"
+  },
+  {
+    "id":183080,
+    "name":"Plymouth State University",
+    "latitude":43.79999924,
+    "longitude":-71.69999695,
+    "state":"NH"
+  },
+  {
+    "id":209807,
+    "name":"Portland State University",
+    "latitude":45.5,
+    "longitude":-122.6999969,
+    "state":"OR"
+  },
+  {
+    "id":227526,
+    "name":"Prairie View A & M University",
+    "latitude":30.10000038,
+    "longitude":-96,
+    "state":"TX"
+  },
+  {
+    "id":152248,
+    "name":"Purdue University-Calumet Campus",
+    "latitude":41.59999847,
+    "longitude":-87.5,
+    "state":"IN"
+  },
+  {
+    "id":243780,
+    "name":"Purdue University-Main Campus",
+    "latitude":40.40000153,
+    "longitude":-86.90000153,
+    "state":"IN"
+  },
+  {
+    "id":152266,
+    "name":"Purdue University-North Central Campus",
+    "latitude":41.59999847,
+    "longitude":-86.90000153,
+    "state":"IN"
+  },
+  {
+    "id":233277,
+    "name":"Radford University",
+    "latitude":37.09999847,
+    "longitude":-80.5,
+    "state":"VA"
+  },
+  {
+    "id":186201,
+    "name":"Ramapo College of New Jersey",
+    "latitude":41,
+    "longitude":-74.09999847,
+    "state":"NJ"
+  },
+  {
+    "id":217420,
+    "name":"Rhode Island College",
+    "latitude":41.79999924,
+    "longitude":-71.5,
+    "state":"RI"
+  },
+  {
+    "id":207661,
+    "name":"Rogers State University",
+    "latitude":36.29999924,
+    "longitude":-95.59999847,
+    "state":"OK"
+  },
+  {
+    "id":184782,
+    "name":"Rowan University",
+    "latitude":39.70000076,
+    "longitude":-75.09999847,
+    "state":"NJ"
+  },
+  {
+    "id":186371,
+    "name":"Rutgers University-Camden",
+    "latitude":39.90000153,
+    "longitude":-75.09999847,
+    "state":"NJ"
+  },
+  {
+    "id":186380,
+    "name":"Rutgers University-New Brunswick",
+    "latitude":40.5,
+    "longitude":-74.5,
+    "state":"NJ"
+  },
+  {
+    "id":186399,
+    "name":"Rutgers University-Newark",
+    "latitude":40.70000076,
+    "longitude":-74.19999695,
+    "state":"NJ"
+  },
+  {
+    "id":172051,
+    "name":"Saginaw Valley State University",
+    "latitude":43.59999847,
+    "longitude":-84,
+    "state":"MI"
+  },
+  {
+    "id":174783,
+    "name":"Saint Cloud State University",
+    "latitude":45.59999847,
+    "longitude":-94.19999695,
+    "state":"MN"
+  },
+  {
+    "id":167729,
+    "name":"Salem State University",
+    "latitude":42.5,
+    "longitude":-70.90000153,
+    "state":"MA"
+  },
+  {
+    "id":163851,
+    "name":"Salisbury University",
+    "latitude":38.29999924,
+    "longitude":-75.59999847,
+    "state":"MD"
+  },
+  {
+    "id":227881,
+    "name":"Sam Houston State University",
+    "latitude":30.70000076,
+    "longitude":-95.59999847,
+    "state":"TX"
+  },
+  {
+    "id":122409,
+    "name":"San Diego State University",
+    "latitude":32.79999924,
+    "longitude":-117.0999985,
+    "state":"CA"
+  },
+  {
+    "id":122597,
+    "name":"San Francisco State University",
+    "latitude":37.70000076,
+    "longitude":-122.5,
+    "state":"CA"
+  },
+  {
+    "id":122755,
+    "name":"San Jose State University",
+    "latitude":37.29999924,
+    "longitude":-121.9000015,
+    "state":"CA"
+  },
+  {
+    "id":140960,
+    "name":"Savannah State University",
+    "latitude":32,
+    "longitude":-81.09999847,
+    "state":"GA"
+  },
+  {
+    "id":205443,
+    "name":"Shawnee State University",
+    "latitude":38.70000076,
+    "longitude":-83,
+    "state":"OH"
+  },
+  {
+    "id":237792,
+    "name":"Shepherd University",
+    "latitude":39.40000153,
+    "longitude":-77.80000305,
+    "state":"WV"
+  },
+  {
+    "id":216010,
+    "name":"Shippensburg University of Pennsylvania",
+    "latitude":40.09999847,
+    "longitude":-77.5,
+    "state":"PA"
+  },
+  {
+    "id":216038,
+    "name":"Slippery Rock University of Pennsylvania",
+    "latitude":41.09999847,
+    "longitude":-80.09999847,
+    "state":"PA"
+  },
+  {
+    "id":123572,
+    "name":"Sonoma State University",
+    "latitude":38.29999924,
+    "longitude":-122.6999969,
+    "state":"CA"
+  },
+  {
+    "id":218733,
+    "name":"South Carolina State University",
+    "latitude":33.5,
+    "longitude":-80.90000153,
+    "state":"SC"
+  },
+  {
+    "id":219347,
+    "name":"South Dakota School of Mines and Technology",
+    "latitude":44.09999847,
+    "longitude":-103.1999969,
+    "state":"SD"
+  },
+  {
+    "id":219356,
+    "name":"South Dakota State University",
+    "latitude":44.29999924,
+    "longitude":-96.80000305,
+    "state":"SD"
+  },
+  {
+    "id":409315,
+    "name":"South Texas College",
+    "latitude":26.20000076,
+    "longitude":-98.30000305,
+    "state":"TX"
+  },
+  {
+    "id":179557,
+    "name":"Southeast Missouri State University",
+    "latitude":37.29999924,
+    "longitude":-89.5,
+    "state":"MO"
+  },
+  {
+    "id":160612,
+    "name":"Southeastern Louisiana University",
+    "latitude":30.5,
+    "longitude":-90.5,
+    "state":"LA"
+  },
+  {
+    "id":207847,
+    "name":"Southeastern Oklahoma State University",
+    "latitude":34,
+    "longitude":-96.40000153,
+    "state":"OK"
+  },
+  {
+    "id":107983,
+    "name":"Southern Arkansas University Main Campus",
+    "latitude":33.29999924,
+    "longitude":-93.19999695,
+    "state":"AR"
+  },
+  {
+    "id":130493,
+    "name":"Southern Connecticut State University",
+    "latitude":41.29999924,
+    "longitude":-72.90000153,
+    "state":"CT"
+  },
+  {
+    "id":149222,
+    "name":"Southern Illinois University-Carbondale",
+    "latitude":37.70000076,
+    "longitude":-89.19999695,
+    "state":"IL"
+  },
+  {
+    "id":149231,
+    "name":"Southern Illinois University-Edwardsville",
+    "latitude":38.79999924,
+    "longitude":-90,
+    "state":"IL"
+  },
+  {
+    "id":210146,
+    "name":"Southern Oregon University",
+    "latitude":42.20000076,
+    "longitude":-122.6999969,
+    "state":"OR"
+  },
+  {
+    "id":141097,
+    "name":"Southern Polytechnic State University",
+    "latitude":33.90000153,
+    "longitude":-84.5,
+    "state":"GA"
+  },
+  {
+    "id":160621,
+    "name":"Southern University and A & M College",
+    "latitude":30.5,
+    "longitude":-91.19999695,
+    "state":"LA"
+  },
+  {
+    "id":160630,
+    "name":"Southern University at New Orleans",
+    "latitude":30,
+    "longitude":-90,
+    "state":"LA"
+  },
+  {
+    "id":230603,
+    "name":"Southern Utah University",
+    "latitude":37.70000076,
+    "longitude":-113.0999985,
+    "state":"UT"
+  },
+  {
+    "id":175078,
+    "name":"Southwest Minnesota State University",
+    "latitude":44.5,
+    "longitude":-95.80000305,
+    "state":"MN"
+  },
+  {
+    "id":207865,
+    "name":"Southwestern Oklahoma State University",
+    "latitude":35.5,
+    "longitude":-98.69999695,
+    "state":"OK"
+  },
+  {
+    "id":163912,
+    "name":"St Mary's College of Maryland",
+    "latitude":38.20000076,
+    "longitude":-76.40000153,
+    "state":"MD"
+  },
+  {
+    "id":137078,
+    "name":"St Petersburg College",
+    "latitude":27.89999962,
+    "longitude":-82.69999695,
+    "state":"FL"
+  },
+  {
+    "id":196176,
+    "name":"State University of New York at New Paltz",
+    "latitude":41.70000076,
+    "longitude":-74.09999847,
+    "state":"NY"
+  },
+  {
+    "id":228431,
+    "name":"Stephen F Austin State University",
+    "latitude":31.60000038,
+    "longitude":-94.59999847,
+    "state":"TX"
+  },
+  {
+    "id":228501,
+    "name":"Sul Ross State University",
+    "latitude":30.39999962,
+    "longitude":-103.6999969,
+    "state":"TX"
+  },
+  {
+    "id":196060,
+    "name":"SUNY at Albany",
+    "latitude":42.70000076,
+    "longitude":-73.80000305,
+    "state":"NY"
+  },
+  {
+    "id":196079,
+    "name":"SUNY at Binghamton",
+    "latitude":42.09999847,
+    "longitude":-76,
+    "state":"NY"
+  },
+  {
+    "id":196158,
+    "name":"SUNY at Fredonia",
+    "latitude":42.5,
+    "longitude":-79.30000305,
+    "state":"NY"
+  },
+  {
+    "id":196219,
+    "name":"SUNY at Purchase College",
+    "latitude":41,
+    "longitude":-73.69999695,
+    "state":"NY"
+  },
+  {
+    "id":196121,
+    "name":"SUNY College at Brockport",
+    "latitude":43.20000076,
+    "longitude":-77.90000153,
+    "state":"NY"
+  },
+  {
+    "id":196149,
+    "name":"SUNY College at Cortland",
+    "latitude":42.59999847,
+    "longitude":-76.19999695,
+    "state":"NY"
+  },
+  {
+    "id":196167,
+    "name":"SUNY College at Geneseo",
+    "latitude":42.79999924,
+    "longitude":-77.80000305,
+    "state":"NY"
+  },
+  {
+    "id":196237,
+    "name":"SUNY College at Old Westbury",
+    "latitude":40.79999924,
+    "longitude":-73.59999847,
+    "state":"NY"
+  },
+  {
+    "id":196194,
+    "name":"SUNY College at Oswego",
+    "latitude":43.5,
+    "longitude":-76.5,
+    "state":"NY"
+  },
+  {
+    "id":196246,
+    "name":"SUNY College at Plattsburgh",
+    "latitude":44.70000076,
+    "longitude":-73.5,
+    "state":"NY"
+  },
+  {
+    "id":196200,
+    "name":"SUNY College at Potsdam",
+    "latitude":44.70000076,
+    "longitude":-75,
+    "state":"NY"
+  },
+  {
+    "id":196264,
+    "name":"SUNY Empire State College",
+    "latitude":43.09999847,
+    "longitude":-73.80000305,
+    "state":"NY"
+  },
+  {
+    "id":196112,
+    "name":"SUNY Institute of Technology at Utica-Rome",
+    "latitude":43.09999847,
+    "longitude":-75.19999695,
+    "state":"NY"
+  },
+  {
+    "id":196185,
+    "name":" SUNY Oneonta",
+    "latitude":42.5,
+    "longitude":-75.09999847,
+    "state":"NY"
+  },
+  {
+    "id":228529,
+    "name":"Tarleton State University",
+    "latitude":32.20000076,
+    "longitude":-98.19999695,
+    "state":"TX"
+  },
+  {
+    "id":216339,
+    "name":"Temple University",
+    "latitude":40,
+    "longitude":-75.19999695,
+    "state":"PA"
+  },
+  {
+    "id":221838,
+    "name":"Tennessee State University",
+    "latitude":36.20000076,
+    "longitude":-86.80000305,
+    "state":"TN"
+  },
+  {
+    "id":221847,
+    "name":"Tennessee Technological University",
+    "latitude":36.20000076,
+    "longitude":-85.5,
+    "state":"TN"
+  },
+  {
+    "id":226152,
+    "name":"Texas A & M International University",
+    "latitude":27.60000038,
+    "longitude":-99.40000153,
+    "state":"TX"
+  },
+  {
+    "id":228723,
+    "name":"Texas A & M University-College Station",
+    "latitude":30.60000038,
+    "longitude":-96.30000305,
+    "state":"TX"
+  },
+  {
+    "id":224554,
+    "name":"Texas A & M University-Commerce",
+    "latitude":33.20000076,
+    "longitude":-95.90000153,
+    "state":"TX"
+  },
+  {
+    "id":224147,
+    "name":"Texas A & M University-Corpus Christi",
+    "latitude":27.70000076,
+    "longitude":-97.30000305,
+    "state":"TX"
+  },
+  {
+    "id":228714,
+    "name":"Texas A & M University-Galveston",
+    "latitude":29.29999924,
+    "longitude":-94.80000305,
+    "state":"TX"
+  },
+  {
+    "id":228705,
+    "name":"Texas A & M University-Kingsville",
+    "latitude":27.5,
+    "longitude":-97.90000153,
+    "state":"TX"
+  },
+  {
+    "id":224545,
+    "name":"Texas A & M University-Texarkana",
+    "latitude":33.5,
+    "longitude":-94.09999847,
+    "state":"TX"
+  },
+  {
+    "id":229063,
+    "name":"Texas Southern University",
+    "latitude":29.70000076,
+    "longitude":-95.40000153,
+    "state":"TX"
+  },
+  {
+    "id":228459,
+    "name":"Texas State University",
+    "latitude":29.89999962,
+    "longitude":-97.90000153,
+    "state":"TX"
+  },
+  {
+    "id":229115,
+    "name":"Texas Tech University",
+    "latitude":33.59999847,
+    "longitude":-101.9000015,
+    "state":"TX"
+  },
+  {
+    "id":229179,
+    "name":"Texas Woman's University",
+    "latitude":33.20000076,
+    "longitude":-97.09999847,
+    "state":"TX"
+  },
+  {
+    "id":187134,
+    "name":"The College of New Jersey",
+    "latitude":40.29999924,
+    "longitude":-74.80000305,
+    "state":"NJ"
+  },
+  {
+    "id":235167,
+    "name":"The Evergreen State College",
+    "latitude":47.09999847,
+    "longitude":-123,
+    "state":"WA"
+  },
+  {
+    "id":186876,
+    "name":"The Richard Stockton College of New Jersey",
+    "latitude":39.5,
+    "longitude":-74.5,
+    "state":"NJ"
+  },
+  {
+    "id":100751,
+    "name":"The University of Alabama",
+    "latitude":33.20000076,
+    "longitude":-87.5,
+    "state":"AL"
+  },
+  {
+    "id":180489,
+    "name":"The University of Montana",
+    "latitude":46.90000153,
+    "longitude":-114,
+    "state":"MT"
+  },
+  {
+    "id":180692,
+    "name":"The University of Montana-Western",
+    "latitude":45.20000076,
+    "longitude":-112.5999985,
+    "state":"MT"
+  },
+  {
+    "id":221740,
+    "name":"The University of Tennessee-Chattanooga",
+    "latitude":35,
+    "longitude":-85.30000305,
+    "state":"TN"
+  },
+  {
+    "id":221759,
+    "name":"The University of Tennessee-Knoxville",
+    "latitude":36,
+    "longitude":-83.90000153,
+    "state":"TN"
+  },
+  {
+    "id":221768,
+    "name":"The University of Tennessee-Martin",
+    "latitude":36.29999924,
+    "longitude":-88.90000153,
+    "state":"TN"
+  },
+  {
+    "id":228769,
+    "name":"The University of Texas at Arlington",
+    "latitude":32.70000076,
+    "longitude":-97.09999847,
+    "state":"TX"
+  },
+  {
+    "id":228778,
+    "name":"The University of Texas at Austin",
+    "latitude":30.29999924,
+    "longitude":-97.69999695,
+    "state":"TX"
+  },
+  {
+    "id":227377,
+    "name":"The University of Texas at Brownsville",
+    "latitude":25.89999962,
+    "longitude":-97.5,
+    "state":"TX"
+  },
+  {
+    "id":228787,
+    "name":"The University of Texas at Dallas",
+    "latitude":33,
+    "longitude":-96.69999695,
+    "state":"TX"
+  },
+  {
+    "id":228796,
+    "name":"The University of Texas at El Paso",
+    "latitude":31.79999924,
+    "longitude":-106.5,
+    "state":"TX"
+  },
+  {
+    "id":229027,
+    "name":"The University of Texas at San Antonio",
+    "latitude":29.60000038,
+    "longitude":-98.59999847,
+    "state":"TX"
+  },
+  {
+    "id":228802,
+    "name":"The University of Texas at Tyler",
+    "latitude":32.29999924,
+    "longitude":-95.19999695,
+    "state":"TX"
+  },
+  {
+    "id":229018,
+    "name":"The University of Texas of the Permian Basin",
+    "latitude":31.89999962,
+    "longitude":-102.3000031,
+    "state":"TX"
+  },
+  {
+    "id":227368,
+    "name":"The University of Texas-Pan American",
+    "latitude":26.29999924,
+    "longitude":-98.19999695,
+    "state":"TX"
+  },
+  {
+    "id":233897,
+    "name":"The University of Virginia's College at Wise",
+    "latitude":37,
+    "longitude":-82.59999847,
+    "state":"VA"
+  },
+  {
+    "id":138354,
+    "name":"The University of West Florida",
+    "latitude":30.5,
+    "longitude":-87.19999695,
+    "state":"FL"
+  },
+  {
+    "id":164076,
+    "name":"Towson University",
+    "latitude":39.40000153,
+    "longitude":-76.59999847,
+    "state":"MD"
+  },
+  {
+    "id":102368,
+    "name":"Troy University",
+    "latitude":31.79999924,
+    "longitude":-86,
+    "state":"AL"
+  },
+  {
+    "id":178615,
+    "name":"Truman State University",
+    "latitude":40.20000076,
+    "longitude":-92.59999847,
+    "state":"MO"
+  },
+  {
+    "id":196088,
+    "name":"University at Buffalo",
+    "latitude":43,
+    "longitude":-78.80000305,
+    "state":"NY"
+  },
+  {
+    "id":200800,
+    "name":"University of Akron Main Campus",
+    "latitude":41.09999847,
+    "longitude":-81.5,
+    "state":"OH"
+  },
+  {
+    "id":100663,
+    "name":"University of Alabama at Birmingham",
+    "latitude":33.5,
+    "longitude":-86.80000305,
+    "state":"AL"
+  },
+  {
+    "id":100706,
+    "name":"University of Alabama in Huntsville",
+    "latitude":34.70000076,
+    "longitude":-86.59999847,
+    "state":"AL"
+  },
+  {
+    "id":102553,
+    "name":"University of Alaska Anchorage",
+    "latitude":61.20000076,
+    "longitude":-149.8000031,
+    "state":"AK"
+  },
+  {
+    "id":102614,
+    "name":"University of Alaska Fairbanks",
+    "latitude":64.90000153,
+    "longitude":-147.8000031,
+    "state":"AK"
+  },
+  {
+    "id":102632,
+    "name":"University of Alaska Southeast",
+    "latitude":58.40000153,
+    "longitude":-134.6000061,
+    "state":"AK"
+  },
+  {
+    "id":104179,
+    "name":"University of Arizona",
+    "latitude":32.20000076,
+    "longitude":-111,
+    "state":"AZ"
+  },
+  {
+    "id":106397,
+    "name":"University of Arkansas",
+    "latitude":36.09999847,
+    "longitude":-94.19999695,
+    "state":"AR"
+  },
+  {
+    "id":106245,
+    "name":"University of Arkansas at Little Rock",
+    "latitude":34.70000076,
+    "longitude":-92.30000305,
+    "state":"AR"
+  },
+  {
+    "id":106485,
+    "name":"University of Arkansas at Monticello",
+    "latitude":33.59999847,
+    "longitude":-91.80000305,
+    "state":"AR"
+  },
+  {
+    "id":106412,
+    "name":"University of Arkansas at Pine Bluff",
+    "latitude":34.20000076,
+    "longitude":-92,
+    "state":"AR"
+  },
+  {
+    "id":108092,
+    "name":"University of Arkansas-Fort Smith",
+    "latitude":35.40000153,
+    "longitude":-94.40000153,
+    "state":"AR"
+  },
+  {
+    "id":161873,
+    "name":"University of Baltimore",
+    "latitude":39.29999924,
+    "longitude":-76.59999847,
+    "state":"MD"
+  },
+  {
+    "id":110635,
+    "name":"University of California-Berkeley",
+    "latitude":37.90000153,
+    "longitude":-122.3000031,
+    "state":"CA"
+  },
+  {
+    "id":110644,
+    "name":"University of California-Davis",
+    "latitude":38.5,
+    "longitude":-121.8000031,
+    "state":"CA"
+  },
+  {
+    "id":110653,
+    "name":"University of California-Irvine",
+    "latitude":33.59999847,
+    "longitude":-117.8000031,
+    "state":"CA"
+  },
+  {
+    "id":110662,
+    "name":"University of California-Los Angeles",
+    "latitude":34.09999847,
+    "longitude":-118.4000015,
+    "state":"CA"
+  },
+  {
+    "id":445188,
+    "name":"University of California-Merced",
+    "latitude":37.40000153,
+    "longitude":-120.4000015,
+    "state":"CA"
+  },
+  {
+    "id":110671,
+    "name":"University of California-Riverside",
+    "latitude":34,
+    "longitude":-117.3000031,
+    "state":"CA"
+  },
+  {
+    "id":110680,
+    "name":"University of California-San Diego",
+    "latitude":32.90000153,
+    "longitude":-117.1999969,
+    "state":"CA"
+  },
+  {
+    "id":110705,
+    "name":"University of California-Santa Barbara",
+    "latitude":34.40000153,
+    "longitude":-119.8000031,
+    "state":"CA"
+  },
+  {
+    "id":110714,
+    "name":"University of California-Santa Cruz",
+    "latitude":37,
+    "longitude":-122.0999985,
+    "state":"CA"
+  },
+  {
+    "id":106704,
+    "name":"University of Central Arkansas",
+    "latitude":35.09999847,
+    "longitude":-92.5,
+    "state":"AR"
+  },
+  {
+    "id":132903,
+    "name":"University of Central Florida",
+    "latitude":28.60000038,
+    "longitude":-81.19999695,
+    "state":"FL"
+  },
+  {
+    "id":176965,
+    "name":"University of Central Missouri",
+    "latitude":38.79999924,
+    "longitude":-93.69999695,
+    "state":"MO"
+  },
+  {
+    "id":206941,
+    "name":"University of Central Oklahoma",
+    "latitude":35.70000076,
+    "longitude":-97.5,
+    "state":"OK"
+  },
+  {
+    "id":201955,
+    "name":"University of Cincinnati-Blue Ash College",
+    "latitude":39.20000076,
+    "longitude":-84.40000153,
+    "state":"OH"
+  },
+  {
+    "id":201946,
+    "name":"University of Cincinnati-Clermont College",
+    "latitude":39.09999847,
+    "longitude":-84.19999695,
+    "state":"OH"
+  },
+  {
+    "id":201885,
+    "name":"University of Cincinnati-Main Campus",
+    "latitude":39.09999847,
+    "longitude":-84.5,
+    "state":"OH"
+  },
+  {
+    "id":126614,
+    "name":"University of Colorado Boulder",
+    "latitude":40,
+    "longitude":-105.3000031,
+    "state":"CO"
+  },
+  {
+    "id":126580,
+    "name":"University of Colorado Colorado Springs",
+    "latitude":38.90000153,
+    "longitude":-104.8000031,
+    "state":"CO"
+  },
+  {
+    "id":126562,
+    "name":"University of Colorado Denver",
+    "latitude":39.70000076,
+    "longitude":-105,
+    "state":"CO"
+  },
+  {
+    "id":129020,
+    "name":"University of Connecticut",
+    "latitude":41.79999924,
+    "longitude":-72.19999695,
+    "state":"CT"
+  },
+  {
+    "id":436827,
+    "name":"University of Connecticut-Avery Point",
+    "latitude":41.29999924,
+    "longitude":-72.09999847,
+    "state":"CT"
+  },
+  {
+    "id":436836,
+    "name":"University of Connecticut-Stamford",
+    "latitude":41.09999847,
+    "longitude":-73.5,
+    "state":"CT"
+  },
+  {
+    "id":130943,
+    "name":"University of Delaware",
+    "latitude":39.70000076,
+    "longitude":-75.80000305,
+    "state":"DE"
+  },
+  {
+    "id":134130,
+    "name":"University of Florida",
+    "latitude":29.60000038,
+    "longitude":-82.40000153,
+    "state":"FL"
+  },
+  {
+    "id":139959,
+    "name":"University of Georgia",
+    "latitude":34,
+    "longitude":-83.40000153,
+    "state":"GA"
+  },
+  {
+    "id":141565,
+    "name":"University of Hawaii at Hilo",
+    "latitude":19.70000076,
+    "longitude":-155.1000061,
+    "state":"HI"
+  },
+  {
+    "id":141574,
+    "name":"University of Hawaii at Manoa",
+    "latitude":21.29999924,
+    "longitude":-157.8000031,
+    "state":"HI"
+  },
+  {
+    "id":141839,
+    "name":"University of Hawaii Maui College",
+    "latitude":20.89999962,
+    "longitude":-156.5,
+    "state":"HI"
+  },
+  {
+    "id":141981,
+    "name":"University of Hawaii-West Oahu",
+    "latitude":21.39999962,
+    "longitude":-158.1000061,
+    "state":"HI"
+  },
+  {
+    "id":225511,
+    "name":"University of Houston",
+    "latitude":29.70000076,
+    "longitude":-95.30000305,
+    "state":"TX"
+  },
+  {
+    "id":225432,
+    "name":"University of Houston-Downtown",
+    "latitude":29.79999924,
+    "longitude":-95.40000153,
+    "state":"TX"
+  },
+  {
+    "id":225502,
+    "name":"University of Houston-Victoria",
+    "latitude":28.79999924,
+    "longitude":-97,
+    "state":"TX"
+  },
+  {
+    "id":142285,
+    "name":"University of Idaho",
+    "latitude":46.70000076,
+    "longitude":-117,
+    "state":"ID"
+  },
+  {
+    "id":145600,
+    "name":"University of Illinois at Chicago",
+    "latitude":41.90000153,
+    "longitude":-87.69999695,
+    "state":"IL"
+  },
+  {
+    "id":148654,
+    "name":"University of Illinois at Springfield",
+    "latitude":39.70000076,
+    "longitude":-89.59999847,
+    "state":"IL"
+  },
+  {
+    "id":145637,
+    "name":"University of Illinois at Urbana-Champaign",
+    "latitude":40.09999847,
+    "longitude":-88.19999695,
+    "state":"IL"
+  },
+  {
+    "id":153658,
+    "name":"University of Iowa",
+    "latitude":41.70000076,
+    "longitude":-91.5,
+    "state":"IA"
+  },
+  {
+    "id":155317,
+    "name":"University of Kansas",
+    "latitude":39,
+    "longitude":-95.19999695,
+    "state":"KS"
+  },
+  {
+    "id":157085,
+    "name":"University of Kentucky",
+    "latitude":38,
+    "longitude":-84.5,
+    "state":"KY"
+  },
+  {
+    "id":160658,
+    "name":"University of Louisiana at Lafayette",
+    "latitude":30.20000076,
+    "longitude":-92,
+    "state":"LA"
+  },
+  {
+    "id":159993,
+    "name":"University of Louisiana at Monroe",
+    "latitude":32.5,
+    "longitude":-92.09999847,
+    "state":"LA"
+  },
+  {
+    "id":157289,
+    "name":"University of Louisville",
+    "latitude":38.20000076,
+    "longitude":-85.80000305,
+    "state":"KY"
+  },
+  {
+    "id":161253,
+    "name":"University of Maine",
+    "latitude":44.90000153,
+    "longitude":-68.69999695,
+    "state":"ME"
+  },
+  {
+    "id":161217,
+    "name":"University of Maine at Augusta",
+    "latitude":44.29999924,
+    "longitude":-69.80000305,
+    "state":"ME"
+  },
+  {
+    "id":161226,
+    "name":"University of Maine at Farmington",
+    "latitude":44.70000076,
+    "longitude":-70.09999847,
+    "state":"ME"
+  },
+  {
+    "id":161235,
+    "name":"University of Maine at Fort Kent",
+    "latitude":47.29999924,
+    "longitude":-68.59999847,
+    "state":"ME"
+  },
+  {
+    "id":161244,
+    "name":"University of Maine at Machias",
+    "latitude":44.70000076,
+    "longitude":-67.5,
+    "state":"ME"
+  },
+  {
+    "id":161341,
+    "name":"University of Maine at Presque Isle",
+    "latitude":46.70000076,
+    "longitude":-68,
+    "state":"ME"
+  },
+  {
+    "id":232681,
+    "name":"University of Mary Washington",
+    "latitude":38.29999924,
+    "longitude":-77.5,
+    "state":"VA"
+  },
+  {
+    "id":163338,
+    "name":"University of Maryland Eastern Shore",
+    "latitude":38.20000076,
+    "longitude":-75.69999695,
+    "state":"MD"
+  },
+  {
+    "id":163268,
+    "name":"University of Maryland-Baltimore County",
+    "latitude":39.29999924,
+    "longitude":-76.69999695,
+    "state":"MD"
+  },
+  {
+    "id":163286,
+    "name":"University of Maryland-College Park",
+    "latitude":39,
+    "longitude":-76.90000153,
+    "state":"MD"
+  },
+  {
+    "id":166629,
+    "name":"University of Massachusetts-Amherst",
+    "latitude":42.40000153,
+    "longitude":-72.5,
+    "state":"MA"
+  },
+  {
+    "id":166638,
+    "name":"University of Massachusetts-Boston",
+    "latitude":42.29999924,
+    "longitude":-71,
+    "state":"MA"
+  },
+  {
+    "id":167987,
+    "name":"University of Massachusetts-Dartmouth",
+    "latitude":41.59999847,
+    "longitude":-71,
+    "state":"MA"
+  },
+  {
+    "id":166513,
+    "name":"University of Massachusetts-Lowell",
+    "latitude":42.70000076,
+    "longitude":-71.30000305,
+    "state":"MA"
+  },
+  {
+    "id":220862,
+    "name":"University of Memphis",
+    "latitude":35.09999847,
+    "longitude":-90,
+    "state":"TN"
+  },
+  {
+    "id":170976,
+    "name":"University of Michigan-Ann Arbor",
+    "latitude":42.29999924,
+    "longitude":-83.69999695,
+    "state":"MI"
+  },
+  {
+    "id":171137,
+    "name":"University of Michigan-Dearborn",
+    "latitude":42.29999924,
+    "longitude":-83.19999695,
+    "state":"MI"
+  },
+  {
+    "id":171146,
+    "name":"University of Michigan-Flint",
+    "latitude":43,
+    "longitude":-83.69999695,
+    "state":"MI"
+  },
+  {
+    "id":174075,
+    "name":"University of Minnesota-Crookston",
+    "latitude":47.79999924,
+    "longitude":-96.59999847,
+    "state":"MN"
+  },
+  {
+    "id":174233,
+    "name":"University of Minnesota-Duluth",
+    "latitude":46.79999924,
+    "longitude":-92.09999847,
+    "state":"MN"
+  },
+  {
+    "id":174251,
+    "name":"University of Minnesota-Morris",
+    "latitude":45.59999847,
+    "longitude":-95.90000153,
+    "state":"MN"
+  },
+  {
+    "id":456959,
+    "name":"University of Minnesota-Rochester",
+    "latitude":44,
+    "longitude":-92.5,
+    "state":"MN"
+  },
+  {
+    "id":174066,
+    "name":"University of Minnesota-Twin Cities",
+    "latitude":45,
+    "longitude":-93.19999695,
+    "state":"MN"
+  },
+  {
+    "id":176017,
+    "name":"University of Mississippi",
+    "latitude":34.40000153,
+    "longitude":-89.5,
+    "state":"MS"
+  },
+  {
+    "id":178396,
+    "name":"University of Missouri-Columbia",
+    "latitude":38.90000153,
+    "longitude":-92.30000305,
+    "state":"MO"
+  },
+  {
+    "id":178402,
+    "name":"University of Missouri-Kansas City",
+    "latitude":39,
+    "longitude":-94.59999847,
+    "state":"MO"
+  },
+  {
+    "id":178420,
+    "name":"University of Missouri-St Louis",
+    "latitude":38.70000076,
+    "longitude":-90.30000305,
+    "state":"MO"
+  },
+  {
+    "id":101709,
+    "name":"University of Montevallo",
+    "latitude":33.09999847,
+    "longitude":-86.90000153,
+    "state":"AL"
+  },
+  {
+    "id":181215,
+    "name":"University of Nebraska at Kearney",
+    "latitude":40.70000076,
+    "longitude":-99.09999847,
+    "state":"NE"
+  },
+  {
+    "id":181394,
+    "name":"University of Nebraska at Omaha",
+    "latitude":41.29999924,
+    "longitude":-96,
+    "state":"NE"
+  },
+  {
+    "id":181464,
+    "name":"University of Nebraska-Lincoln",
+    "latitude":40.79999924,
+    "longitude":-96.69999695,
+    "state":"NE"
+  },
+  {
+    "id":182281,
+    "name":"University of Nevada-Las Vegas",
+    "latitude":36.09999847,
+    "longitude":-115.0999985,
+    "state":"NV"
+  },
+  {
+    "id":182290,
+    "name":"University of Nevada-Reno",
+    "latitude":39.5,
+    "longitude":-119.8000031,
+    "state":"NV"
+  },
+  {
+    "id":183071,
+    "name":"University of New Hampshire at Manchester",
+    "latitude":43,
+    "longitude":-71.5,
+    "state":"NH"
+  },
+  {
+    "id":183044,
+    "name":"University of New Hampshire-Main Campus",
+    "latitude":43.09999847,
+    "longitude":-70.90000153,
+    "state":"NH"
+  },
+  {
+    "id":187985,
+    "name":"University of New Mexico-Main Campus",
+    "latitude":35.09999847,
+    "longitude":-106.5999985,
+    "state":"NM"
+  },
+  {
+    "id":159939,
+    "name":"University of New Orleans",
+    "latitude":30,
+    "longitude":-90.09999847,
+    "state":"LA"
+  },
+  {
+    "id":101879,
+    "name":"University of North Alabama",
+    "latitude":34.79999924,
+    "longitude":-87.69999695,
+    "state":"AL"
+  },
+  {
+    "id":199111,
+    "name":"University of North Carolina at Asheville",
+    "latitude":35.59999847,
+    "longitude":-82.59999847,
+    "state":"NC"
+  },
+  {
+    "id":199120,
+    "name":"University of North Carolina at Chapel Hill",
+    "latitude":35.90000153,
+    "longitude":-79.09999847,
+    "state":"NC"
+  },
+  {
+    "id":199139,
+    "name":"University of North Carolina at Charlotte",
+    "latitude":35.29999924,
+    "longitude":-80.69999695,
+    "state":"NC"
+  },
+  {
+    "id":199148,
+    "name":"University of North Carolina at Greensboro",
+    "latitude":36.09999847,
+    "longitude":-79.80000305,
+    "state":"NC"
+  },
+  {
+    "id":199281,
+    "name":"University of North Carolina at Pembroke",
+    "latitude":34.70000076,
+    "longitude":-79.19999695,
+    "state":"NC"
+  },
+  {
+    "id":199184,
+    "name":"University of North Carolina School of the Arts",
+    "latitude":36.09999847,
+    "longitude":-80.19999695,
+    "state":"NC"
+  },
+  {
+    "id":199218,
+    "name":"University of North Carolina Wilmington",
+    "latitude":34.20000076,
+    "longitude":-77.90000153,
+    "state":"NC"
+  },
+  {
+    "id":200280,
+    "name":"University of North Dakota",
+    "latitude":47.90000153,
+    "longitude":-97.09999847,
+    "state":"ND"
+  },
+  {
+    "id":136172,
+    "name":"University of North Florida",
+    "latitude":30.29999924,
+    "longitude":-81.5,
+    "state":"FL"
+  },
+  {
+    "id":227216,
+    "name":"University of North Texas",
+    "latitude":33.20000076,
+    "longitude":-97.19999695,
+    "state":"TX"
+  },
+  {
+    "id":127741,
+    "name":"University of Northern Colorado",
+    "latitude":40.40000153,
+    "longitude":-104.6999969,
+    "state":"CO"
+  },
+  {
+    "id":154095,
+    "name":"University of Northern Iowa",
+    "latitude":42.5,
+    "longitude":-92.5,
+    "state":"IA"
+  },
+  {
+    "id":207500,
+    "name":"University of Oklahoma-Norman Campus",
+    "latitude":35.20000076,
+    "longitude":-97.40000153,
+    "state":"OK"
+  },
+  {
+    "id":209551,
+    "name":"University of Oregon",
+    "latitude":44,
+    "longitude":-123.0999985,
+    "state":"OR"
+  },
+  {
+    "id":215266,
+    "name":"University of Pittsburgh-Bradford",
+    "latitude":41.90000153,
+    "longitude":-78.69999695,
+    "state":"PA"
+  },
+  {
+    "id":215275,
+    "name":"University of Pittsburgh-Greensburg",
+    "latitude":40.29999924,
+    "longitude":-79.5,
+    "state":"PA"
+  },
+  {
+    "id":215284,
+    "name":"University of Pittsburgh-Johnstown",
+    "latitude":40.29999924,
+    "longitude":-78.80000305,
+    "state":"PA"
+  },
+  {
+    "id":215293,
+    "name":"University of Pittsburgh-Pittsburgh Campus",
+    "latitude":40.40000153,
+    "longitude":-80,
+    "state":"PA"
+  },
+  {
+    "id":217484,
+    "name":"University of Rhode Island",
+    "latitude":41.5,
+    "longitude":-71.5,
+    "state":"RI"
+  },
+  {
+    "id":207722,
+    "name":"University of Science and Arts of Oklahoma",
+    "latitude":35,
+    "longitude":-98,
+    "state":"OK"
+  },
+  {
+    "id":102094,
+    "name":"University of South Alabama",
+    "latitude":30.70000076,
+    "longitude":-88.19999695,
+    "state":"AL"
+  },
+  {
+    "id":218645,
+    "name":"University of South Carolina-Aiken",
+    "latitude":33.59999847,
+    "longitude":-81.80000305,
+    "state":"SC"
+  },
+  {
+    "id":218654,
+    "name":"University of South Carolina-Beaufort",
+    "latitude":32.29999924,
+    "longitude":-81,
+    "state":"SC"
+  },
+  {
+    "id":218663,
+    "name":"University of South Carolina-Columbia",
+    "latitude":34,
+    "longitude":-81,
+    "state":"SC"
+  },
+  {
+    "id":218742,
+    "name":"University of South Carolina-Upstate",
+    "latitude":35,
+    "longitude":-82,
+    "state":"SC"
+  },
+  {
+    "id":219471,
+    "name":"University of South Dakota",
+    "latitude":42.79999924,
+    "longitude":-96.90000153,
+    "state":"SD"
+  },
+  {
+    "id":137351,
+    "name":"University of South Florida-Main Campus",
+    "latitude":28.10000038,
+    "longitude":-82.40000153,
+    "state":"FL"
+  },
+  {
+    "id":448840,
+    "name":"University of South Florida-St Petersburg",
+    "latitude":27.79999924,
+    "longitude":-82.59999847,
+    "state":"FL"
+  },
+  {
+    "id":151306,
+    "name":"University of Southern Indiana",
+    "latitude":38,
+    "longitude":-87.69999695,
+    "state":"IN"
+  },
+  {
+    "id":161554,
+    "name":"University of Southern Maine",
+    "latitude":43.70000076,
+    "longitude":-70.30000305,
+    "state":"ME"
+  },
+  {
+    "id":176372,
+    "name":"University of Southern Mississippi",
+    "latitude":31.29999924,
+    "longitude":-89.30000305,
+    "state":"MS"
+  },
+  {
+    "id":131399,
+    "name":"University of the District of Columbia",
+    "latitude":38.90000153,
+    "longitude":-77.09999847,
+    "state":"DC"
+  },
+  {
+    "id":206084,
+    "name":"University of Toledo",
+    "latitude":41.70000076,
+    "longitude":-83.59999847,
+    "state":"OH"
+  },
+  {
+    "id":230764,
+    "name":"University of Utah",
+    "latitude":40.79999924,
+    "longitude":-111.8000031,
+    "state":"UT"
+  },
+  {
+    "id":231174,
+    "name":"University of Vermont",
+    "latitude":44.5,
+    "longitude":-73.19999695,
+    "state":"VT"
+  },
+  {
+    "id":234076,
+    "name":"University of Virginia-Main Campus",
+    "latitude":38,
+    "longitude":-78.5,
+    "state":"VA"
+  },
+  {
+    "id":377555,
+    "name":"University of Washington-Bothell Campus",
+    "latitude":47.79999924,
+    "longitude":-122.1999969,
+    "state":"WA"
+  },
+  {
+    "id":236948,
+    "name":"University of Washington-Seattle Campus",
+    "latitude":47.70000076,
+    "longitude":-122.3000031,
+    "state":"WA"
+  },
+  {
+    "id":377564,
+    "name":"University of Washington-Tacoma Campus",
+    "latitude":47.20000076,
+    "longitude":-122.4000015,
+    "state":"WA"
+  },
+  {
+    "id":101587,
+    "name":"University of West Alabama",
+    "latitude":32.59999847,
+    "longitude":-88.19999695,
+    "state":"AL"
+  },
+  {
+    "id":141334,
+    "name":"University of West Georgia",
+    "latitude":33.59999847,
+    "longitude":-85.09999847,
+    "state":"GA"
+  },
+  {
+    "id":240268,
+    "name":"University of Wisconsin-Eau Claire",
+    "latitude":44.79999924,
+    "longitude":-91.5,
+    "state":"WI"
+  },
+  {
+    "id":240277,
+    "name":"University of Wisconsin-Green Bay",
+    "latitude":44.5,
+    "longitude":-87.90000153,
+    "state":"WI"
+  },
+  {
+    "id":240329,
+    "name":"University of Wisconsin-La Crosse",
+    "latitude":43.79999924,
+    "longitude":-91.19999695,
+    "state":"WI"
+  },
+  {
+    "id":240444,
+    "name":"University of Wisconsin-Madison",
+    "latitude":43.09999847,
+    "longitude":-89.40000153,
+    "state":"WI"
+  },
+  {
+    "id":240453,
+    "name":"University of Wisconsin-Milwaukee",
+    "latitude":43.09999847,
+    "longitude":-87.90000153,
+    "state":"WI"
+  },
+  {
+    "id":240365,
+    "name":"University of Wisconsin-Oshkosh",
+    "latitude":44,
+    "longitude":-88.5,
+    "state":"WI"
+  },
+  {
+    "id":240374,
+    "name":"University of Wisconsin-Parkside",
+    "latitude":42.59999847,
+    "longitude":-87.90000153,
+    "state":"WI"
+  },
+  {
+    "id":240462,
+    "name":"University of Wisconsin-Platteville",
+    "latitude":42.70000076,
+    "longitude":-90.5,
+    "state":"WI"
+  },
+  {
+    "id":240471,
+    "name":"University of Wisconsin-River Falls",
+    "latitude":44.90000153,
+    "longitude":-92.59999847,
+    "state":"WI"
+  },
+  {
+    "id":240480,
+    "name":"University of Wisconsin-Stevens Point",
+    "latitude":44.5,
+    "longitude":-89.59999847,
+    "state":"WI"
+  },
+  {
+    "id":240417,
+    "name":"University of Wisconsin-Stout",
+    "latitude":44.90000153,
+    "longitude":-91.90000153,
+    "state":"WI"
+  },
+  {
+    "id":240426,
+    "name":"University of Wisconsin-Superior",
+    "latitude":46.70000076,
+    "longitude":-92.09999847,
+    "state":"WI"
+  },
+  {
+    "id":240189,
+    "name":"University of Wisconsin-Whitewater",
+    "latitude":42.79999924,
+    "longitude":-88.69999695,
+    "state":"WI"
+  },
+  {
+    "id":240727,
+    "name":"University of Wyoming",
+    "latitude":41.29999924,
+    "longitude":-105.5999985,
+    "state":"WY"
+  },
+  {
+    "id":230728,
+    "name":"Utah State University",
+    "latitude":41.70000076,
+    "longitude":-111.8000031,
+    "state":"UT"
+  },
+  {
+    "id":230737,
+    "name":"Utah Valley University",
+    "latitude":40.29999924,
+    "longitude":-111.6999969,
+    "state":"UT"
+  },
+  {
+    "id":141264,
+    "name":"Valdosta State University",
+    "latitude":30.79999924,
+    "longitude":-83.30000305,
+    "state":"GA"
+  },
+  {
+    "id":200572,
+    "name":"Valley City State University",
+    "latitude":46.90000153,
+    "longitude":-98,
+    "state":"ND"
+  },
+  {
+    "id":231165,
+    "name":"Vermont Technical College",
+    "latitude":43.90000153,
+    "longitude":-72.59999847,
+    "state":"VT"
+  },
+  {
+    "id":152637,
+    "name":"Vincennes University",
+    "latitude":38.70000076,
+    "longitude":-87.5,
+    "state":"IN"
+  },
+  {
+    "id":234030,
+    "name":"Virginia Commonwealth University",
+    "latitude":37.5,
+    "longitude":-77.5,
+    "state":"VA"
+  },
+  {
+    "id":233921,
+    "name":"Virginia Polytechnic Institute and State University",
+    "latitude":37.20000076,
+    "longitude":-80.40000153,
+    "state":"VA"
+  },
+  {
+    "id":234155,
+    "name":"Virginia State University",
+    "latitude":37.20000076,
+    "longitude":-77.40000153,
+    "state":"VA"
+  },
+  {
+    "id":156082,
+    "name":"Washburn University",
+    "latitude":39,
+    "longitude":-95.69999695,
+    "state":"KS"
+  },
+  {
+    "id":236939,
+    "name":"Washington State University",
+    "latitude":46.70000076,
+    "longitude":-117.1999969,
+    "state":"WA"
+  },
+  {
+    "id":181783,
+    "name":"Wayne State College",
+    "latitude":42.20000076,
+    "longitude":-97,
+    "state":"NE"
+  },
+  {
+    "id":172644,
+    "name":"Wayne State University",
+    "latitude":42.40000153,
+    "longitude":-83.09999847,
+    "state":"MI"
+  },
+  {
+    "id":230782,
+    "name":"Weber State University",
+    "latitude":41.20000076,
+    "longitude":-111.9000015,
+    "state":"UT"
+  },
+  {
+    "id":216764,
+    "name":"West Chester University of Pennsylvania",
+    "latitude":39.90000153,
+    "longitude":-75.59999847,
+    "state":"PA"
+  },
+  {
+    "id":237932,
+    "name":"West Liberty University",
+    "latitude":40.20000076,
+    "longitude":-80.59999847,
+    "state":"WV"
+  },
+  {
+    "id":229814,
+    "name":"West Texas A & M University",
+    "latitude":35,
+    "longitude":-101.9000015,
+    "state":"TX"
+  },
+  {
+    "id":237899,
+    "name":"West Virginia State University",
+    "latitude":38.40000153,
+    "longitude":-81.80000305,
+    "state":"WV"
+  },
+  {
+    "id":238032,
+    "name":"West Virginia University",
+    "latitude":39.59999847,
+    "longitude":-80,
+    "state":"WV"
+  },
+  {
+    "id":237686,
+    "name":"West Virginia University at Parkersburg",
+    "latitude":39.20000076,
+    "longitude":-81.5,
+    "state":"WV"
+  },
+  {
+    "id":237950,
+    "name":"West Virginia University Institute of Technology",
+    "latitude":38.20000076,
+    "longitude":-81.30000305,
+    "state":"WV"
+  },
+  {
+    "id":200004,
+    "name":"Western Carolina University",
+    "latitude":35.29999924,
+    "longitude":-83.09999847,
+    "state":"NC"
+  },
+  {
+    "id":130776,
+    "name":"Western Connecticut State University",
+    "latitude":41.40000153,
+    "longitude":-73.40000153,
+    "state":"CT"
+  },
+  {
+    "id":149772,
+    "name":"Western Illinois University",
+    "latitude":40.5,
+    "longitude":-90.69999695,
+    "state":"IL"
+  },
+  {
+    "id":157951,
+    "name":"Western Kentucky University",
+    "latitude":37,
+    "longitude":-86.5,
+    "state":"KY"
+  },
+  {
+    "id":172699,
+    "name":"Western Michigan University",
+    "latitude":42.29999924,
+    "longitude":-85.59999847,
+    "state":"MI"
+  },
+  {
+    "id":182564,
+    "name":"Western Nevada College",
+    "latitude":39.20000076,
+    "longitude":-119.8000031,
+    "state":"NV"
+  },
+  {
+    "id":188304,
+    "name":"Western New Mexico University",
+    "latitude":32.79999924,
+    "longitude":-108.3000031,
+    "state":"NM"
+  },
+  {
+    "id":210429,
+    "name":"Western Oregon University",
+    "latitude":44.90000153,
+    "longitude":-123.1999969,
+    "state":"OR"
+  },
+  {
+    "id":128391,
+    "name":"Western State Colorado University",
+    "latitude":38.5,
+    "longitude":-106.9000015,
+    "state":"CO"
+  },
+  {
+    "id":237011,
+    "name":"Western Washington University",
+    "latitude":48.70000076,
+    "longitude":-122.5,
+    "state":"WA"
+  },
+  {
+    "id":168263,
+    "name":"Westfield State University",
+    "latitude":42.09999847,
+    "longitude":-72.80000305,
+    "state":"MA"
+  },
+  {
+    "id":156125,
+    "name":"Wichita State University",
+    "latitude":37.70000076,
+    "longitude":-97.30000305,
+    "state":"KS"
+  },
+  {
+    "id":187444,
+    "name":"William Paterson University of New Jersey",
+    "latitude":40.90000153,
+    "longitude":-74.19999695,
+    "state":"NJ"
+  },
+  {
+    "id":175272,
+    "name":"Winona State University",
+    "latitude":44,
+    "longitude":-91.59999847,
+    "state":"MN"
+  },
+  {
+    "id":199999,
+    "name":"Winston-Salem State University",
+    "latitude":36.09999847,
+    "longitude":-80.19999695,
+    "state":"NC"
+  },
+  {
+    "id":218964,
+    "name":"Winthrop University",
+    "latitude":34.90000153,
+    "longitude":-81,
+    "state":"SC"
+  },
+  {
+    "id":168430,
+    "name":"Worcester State University",
+    "latitude":42.29999924,
+    "longitude":-71.80000305,
+    "state":"MA"
+  },
+  {
+    "id":206604,
+    "name":"Wright State University-Main Campus",
+    "latitude":39.79999924,
+    "longitude":-84.09999847,
+    "state":"OH"
+  },
+  {
+    "id":206695,
+    "name":"Youngstown State University",
+    "latitude":41.09999847,
+    "longitude":-80.59999847,
+    "state":"OH"
+  },
+  {
+    "id":null,
+    "name":"Mesa State College",
+    "latitude":null,
+    "longitude":null,
+    "state":"CO"
+  },
+  {
+    "id":null,
+    "name":"Sinta Gleska University",
+    "latitude":null,
+    "longitude":null,
+    "state":"SD"
+  },
+  {
+    "id":null,
+    "name":"State University of New York at Farmingdale",
+    "latitude":null,
+    "longitude":null,
+    "state":"NY"
+  },
+  {
+    "id":null,
+    "name":"State University of New York at Stony Brook",
+    "latitude":null,
+    "longitude":null,
+    "state":"NY"
+  },
+  {
+    "id":null,
+    "name":"SUNY College at Buffalo",
+    "latitude":null,
+    "longitude":null,
+    "state":"NY"
+  },
+  {
+    "id":null,
+    "name":"Califonia State University-Sacramento",
+    "latitude":null,
+    "longitude":null,
+    "state":"CA"
+  },
+  {
+    "id":null,
+    "name":"North Georgia College & State University",
+    "latitude":null,
+    "longitude":null,
+    "state":"GA"
+  },
+  {
+    "id":null,
+    "name":"Salish Kootenai College",
+    "latitude":null,
+    "longitude":null,
+    "state":"MT"
+  }
+]

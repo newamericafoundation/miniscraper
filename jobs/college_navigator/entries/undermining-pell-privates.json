@@ -1,0 +1,5791 @@
+[
+  {
+    "id":222178,
+    "name":"Abilene Christian University",
+    "latitude":32.5,
+    "longitude":-99.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":188429,
+    "name":"Adelphi University",
+    "latitude":40.70000076,
+    "longitude":-73.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168528,
+    "name":"Adrian College",
+    "latitude":41.90000153,
+    "longitude":-84.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":138600,
+    "name":"Agnes Scott College",
+    "latitude":33.79999924,
+    "longitude":-84.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":128498,
+    "name":"Albertus Magnus College",
+    "latitude":41.29999924,
+    "longitude":-72.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168546,
+    "name":"Albion College",
+    "latitude":42.20000076,
+    "longitude":-84.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":210571,
+    "name":"Albright College",
+    "latitude":40.40000153,
+    "longitude":-75.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":237118,
+    "name":"Alderson Broaddus University",
+    "latitude":39.20000076,
+    "longitude":-80,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":188641,
+    "name":"Alfred University",
+    "latitude":42.29999924,
+    "longitude":-77.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":210669,
+    "name":"Allegheny College",
+    "latitude":41.59999847,
+    "longitude":-80.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168591,
+    "name":"Alma College",
+    "latitude":43.40000153,
+    "longitude":-84.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":210775,
+    "name":"Alvernia University",
+    "latitude":40.29999924,
+    "longitude":-75.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":238193,
+    "name":"Alverno College",
+    "latitude":43,
+    "longitude":-88,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164447,
+    "name":"American International College",
+    "latitude":42.09999847,
+    "longitude":-72.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":131159,
+    "name":"American University",
+    "latitude":38.90000153,
+    "longitude":-77.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164465,
+    "name":"Amherst College",
+    "latitude":42.40000153,
+    "longitude":-72.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217633,
+    "name":"Anderson University",
+    "latitude":34.5,
+    "longitude":-82.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168740,
+    "name":"Andrews University",
+    "latitude":42,
+    "longitude":-86.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164492,
+    "name":"Anna Maria College",
+    "latitude":42.29999924,
+    "longitude":-71.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":211088,
+    "name":"Arcadia University                ",
+    "latitude":40.09999847,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":106306,
+    "name":"Arkansas Baptist College",
+    "latitude":34.70000076,
+    "longitude":-92.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":109651,
+    "name":"Art Center College of Design",
+    "latitude":34.20000076,
+    "longitude":-118.1999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":156213,
+    "name":"Asbury University",
+    "latitude":37.90000153,
+    "longitude":-84.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164562,
+    "name":"Assumption College",
+    "latitude":42.29999924,
+    "longitude":-71.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":173045,
+    "name":"Augsburg College",
+    "latitude":45,
+    "longitude":-93.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":143084,
+    "name":"Augustana College",
+    "latitude":41.5,
+    "longitude":-90.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":219000,
+    "name":"Augustana College",
+    "latitude":43.5,
+    "longitude":-96.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":143118,
+    "name":"Aurora University",
+    "latitude":41.79999924,
+    "longitude":-88.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":222983,
+    "name":"Austin College",
+    "latitude":33.59999847,
+    "longitude":-96.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":446048,
+    "name":"Ave Maria University",
+    "latitude":26.29999924,
+    "longitude":-81.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":231420,
+    "name":"Averett University",
+    "latitude":36.59999847,
+    "longitude":-79.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":109785,
+    "name":"Azusa Pacific University",
+    "latitude":34.09999847,
+    "longitude":-117.9000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164580,
+    "name":"Babson College",
+    "latitude":42.29999924,
+    "longitude":-71.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":206817,
+    "name":"Bacone College",
+    "latitude":35.79999924,
+    "longitude":-95.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168847,
+    "name":"Baker College of Flint",
+    "latitude":43,
+    "longitude":-83.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154688,
+    "name":"Baker University",
+    "latitude":38.79999924,
+    "longitude":-95.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":201195,
+    "name":"Baldwin Wallace University",
+    "latitude":41.40000153,
+    "longitude":-81.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":211024,
+    "name":"Baptist Bible College & Seminary of Pennsylvania",
+    "latitude":41.5,
+    "longitude":-75.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":219639,
+    "name":"Baptist Memorial College of Health Sciences",
+    "latitude":35.09999847,
+    "longitude":-90,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":189088,
+    "name":"Bard College",
+    "latitude":42,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":189097,
+    "name":"Barnard College",
+    "latitude":40.79999924,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":132471,
+    "name":"Barry University",
+    "latitude":25.89999962,
+    "longitude":-80.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":197911,
+    "name":"Barton College",
+    "latitude":35.70000076,
+    "longitude":-77.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":160977,
+    "name":"Bates College",
+    "latitude":44.09999847,
+    "longitude":-70.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164632,
+    "name":"Bay Path College",
+    "latitude":42.09999847,
+    "longitude":-72.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":223232,
+    "name":"Baylor University",
+    "latitude":31.5,
+    "longitude":-97.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164720,
+    "name":"Becker College",
+    "latitude":42.29999924,
+    "longitude":-71.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":175421,
+    "name":"Belhaven University",
+    "latitude":32.29999924,
+    "longitude":-90.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":156286,
+    "name":"Bellarmine University",
+    "latitude":38.20000076,
+    "longitude":-85.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":180814,
+    "name":"Bellevue University",
+    "latitude":41.20000076,
+    "longitude":-95.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":197984,
+    "name":"Belmont Abbey College",
+    "latitude":35.29999924,
+    "longitude":-81,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":219709,
+    "name":"Belmont University",
+    "latitude":36.09999847,
+    "longitude":-86.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":238333,
+    "name":"Beloit College",
+    "latitude":42.5,
+    "longitude":-89,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217721,
+    "name":"Benedict College",
+    "latitude":34,
+    "longitude":-81,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154712,
+    "name":"Benedictine College",
+    "latitude":39.59999847,
+    "longitude":-95.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":145619,
+    "name":"Benedictine University",
+    "latitude":41.79999924,
+    "longitude":-88.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":230816,
+    "name":"Bennington College",
+    "latitude":42.90000153,
+    "longitude":-73.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164739,
+    "name":"Bentley University",
+    "latitude":42.40000153,
+    "longitude":-71.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164748,
+    "name":"Berklee College of Music",
+    "latitude":42.29999924,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":139144,
+    "name":"Berry College",
+    "latitude":34.29999924,
+    "longitude":-85.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":237181,
+    "name":"Bethany College",
+    "latitude":40.20000076,
+    "longitude":-80.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":173142,
+    "name":"Bethany Lutheran College",
+    "latitude":44.20000076,
+    "longitude":-94,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":150145,
+    "name":"Bethel College-Indiana",
+    "latitude":41.70000076,
+    "longitude":-86.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":173160,
+    "name":"Bethel University",
+    "latitude":45.09999847,
+    "longitude":-93.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":219718,
+    "name":"Bethel University",
+    "latitude":36.09999847,
+    "longitude":-88.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":132602,
+    "name":"Bethune-Cookman University",
+    "latitude":29.20000076,
+    "longitude":-81,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":110097,
+    "name":"Biola University",
+    "latitude":33.90000153,
+    "longitude":-118,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":100937,
+    "name":"Birmingham Southern College",
+    "latitude":33.5,
+    "longitude":-86.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":183822,
+    "name":"Bloomfield College",
+    "latitude":40.79999924,
+    "longitude":-74.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":231554,
+    "name":"Bluefield College",
+    "latitude":37.20000076,
+    "longitude":-81.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":201371,
+    "name":"Bluffton University",
+    "latitude":40.90000153,
+    "longitude":-83.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":189413,
+    "name":"Boricua College",
+    "latitude":40.79999924,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164872,
+    "name":"Boston Architectural College",
+    "latitude":42.29999924,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164924,
+    "name":"Boston College",
+    "latitude":42.29999924,
+    "longitude":-71.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164988,
+    "name":"Boston University",
+    "latitude":42.29999924,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":161004,
+    "name":"Bowdoin College",
+    "latitude":43.90000153,
+    "longitude":-70,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":143358,
+    "name":"Bradley University",
+    "latitude":40.70000076,
+    "longitude":-89.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":165015,
+    "name":"Brandeis University",
+    "latitude":42.40000153,
+    "longitude":-71.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":139199,
+    "name":"Brenau University",
+    "latitude":34.29999924,
+    "longitude":-83.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":152992,
+    "name":"Briar Cliff University",
+    "latitude":42.5,
+    "longitude":-96.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217156,
+    "name":"Brown University",
+    "latitude":41.79999924,
+    "longitude":-71.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":219790,
+    "name":"Bryan College-Dayton",
+    "latitude":35.5,
+    "longitude":-85,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217165,
+    "name":"Bryant University",
+    "latitude":41.90000153,
+    "longitude":-71.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":211273,
+    "name":"Bryn Mawr College",
+    "latitude":40,
+    "longitude":-75.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":211291,
+    "name":"Bucknell University",
+    "latitude":41,
+    "longitude":-76.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153001,
+    "name":"Buena Vista University",
+    "latitude":42.59999847,
+    "longitude":-95.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":150163,
+    "name":"Butler University",
+    "latitude":39.79999924,
+    "longitude":-86.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154721,
+    "name":"Bethany College",
+    "latitude":38.59999847,
+    "longitude":-97.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":458113,
+    "name":"Bethel College",
+    "latitude":37,
+    "longitude":-76.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":211352,
+    "name":"Cabrini College",
+    "latitude":40.09999847,
+    "longitude":-75.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":183910,
+    "name":"Caldwell College",
+    "latitude":40.79999924,
+    "longitude":-74.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":110361,
+    "name":"California Baptist University",
+    "latitude":33.90000153,
+    "longitude":-117.4000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":110370,
+    "name":"California College of the Arts",
+    "latitude":37.79999924,
+    "longitude":-122.4000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":110404,
+    "name":"California Institute of Technology",
+    "latitude":34.09999847,
+    "longitude":-118.0999985,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":111081,
+    "name":"California Institute of the Arts",
+    "latitude":34.40000153,
+    "longitude":-118.5999985,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":110413,
+    "name":"California Lutheran University",
+    "latitude":34.20000076,
+    "longitude":-118.9000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":150172,
+    "name":"Calumet College of Saint Joseph",
+    "latitude":41.70000076,
+    "longitude":-87.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":169080,
+    "name":"Calvin College",
+    "latitude":42.90000153,
+    "longitude":-85.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":165167,
+    "name":"Cambridge College",
+    "latitude":42.40000153,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198136,
+    "name":"Campbell University",
+    "latitude":35.40000153,
+    "longitude":-78.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":156365,
+    "name":"Campbellsville University",
+    "latitude":37.29999924,
+    "longitude":-85.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":189705,
+    "name":"Canisius College",
+    "latitude":42.90000153,
+    "longitude":-78.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":201548,
+    "name":"Capital University",
+    "latitude":40,
+    "longitude":-82.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":162061,
+    "name":"Capitol College",
+    "latitude":39,
+    "longitude":-76.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":238430,
+    "name":"Cardinal Stritch University",
+    "latitude":43.09999847,
+    "longitude":-87.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":173258,
+    "name":"Carleton College",
+    "latitude":44.5,
+    "longitude":-93.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":211431,
+    "name":"Carlow University",
+    "latitude":40.40000153,
+    "longitude":-80,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":211440,
+    "name":"Carnegie Mellon University",
+    "latitude":40.40000153,
+    "longitude":-79.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":180106,
+    "name":"Carroll College",
+    "latitude":46.59999847,
+    "longitude":-112,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":238458,
+    "name":"Carroll University",
+    "latitude":43,
+    "longitude":-88.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":219806,
+    "name":"Carson-Newman University",
+    "latitude":36.09999847,
+    "longitude":-83.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":238476,
+    "name":"Carthage College",
+    "latitude":42.59999847,
+    "longitude":-87.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":201645,
+    "name":"Case Western Reserve University",
+    "latitude":41.5,
+    "longitude":-81.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198215,
+    "name":"Catawba College",
+    "latitude":35.70000076,
+    "longitude":-80.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":131283,
+    "name":"Catholic University of America",
+    "latitude":38.90000153,
+    "longitude":-77,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":189848,
+    "name":"Cazenovia College",
+    "latitude":42.90000153,
+    "longitude":-75.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":211468,
+    "name":"Cedar Crest College",
+    "latitude":40.59999847,
+    "longitude":-75.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":201654,
+    "name":"Cedarville University",
+    "latitude":39.79999924,
+    "longitude":-83.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":183974,
+    "name":"Centenary College",
+    "latitude":40.79999924,
+    "longitude":-74.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":158477,
+    "name":"Centenary College of Louisiana",
+    "latitude":32.5,
+    "longitude":-93.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154855,
+    "name":"Central Christian College of Kansas",
+    "latitude":38.40000153,
+    "longitude":-97.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153108,
+    "name":"Central College",
+    "latitude":41.40000153,
+    "longitude":-92.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":176947,
+    "name":"Central Methodist University-College of Liberal Arts and Sciences",
+    "latitude":39.20000076,
+    "longitude":-92.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":156408,
+    "name":"Centre College",
+    "latitude":37.59999847,
+    "longitude":-84.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":230852,
+    "name":"Champlain College",
+    "latitude":44.5,
+    "longitude":-73.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":111948,
+    "name":"Chapman University",
+    "latitude":33.79999924,
+    "longitude":-117.9000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217688,
+    "name":"Charleston Southern University",
+    "latitude":33,
+    "longitude":-80.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":211556,
+    "name":"Chatham University",
+    "latitude":40.40000153,
+    "longitude":-79.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":211583,
+    "name":"Chestnut Hill College",
+    "latitude":40.09999847,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198303,
+    "name":"Chowan University",
+    "latitude":36.40000153,
+    "longitude":-77.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":201858,
+    "name":"Cincinnati Christian University",
+    "latitude":39.09999847,
+    "longitude":-84.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217873,
+    "name":"Claflin University",
+    "latitude":33.5,
+    "longitude":-80.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":112260,
+    "name":"Claremont McKenna College",
+    "latitude":34.09999847,
+    "longitude":-117.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":138947,
+    "name":"Clark Atlanta University",
+    "latitude":33.70000076,
+    "longitude":-84.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":165334,
+    "name":"Clark University",
+    "latitude":42.29999924,
+    "longitude":-71.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153126,
+    "name":"Clarke University",
+    "latitude":42.5,
+    "longitude":-90.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":180832,
+    "name":"Clarkson College",
+    "latitude":41.29999924,
+    "longitude":-96,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":190044,
+    "name":"Clarkson University",
+    "latitude":44.70000076,
+    "longitude":-75,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153144,
+    "name":"Coe College",
+    "latitude":42,
+    "longitude":-91.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217907,
+    "name":"Coker College",
+    "latitude":34.40000153,
+    "longitude":-80.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":161086,
+    "name":"Colby College",
+    "latitude":44.59999847,
+    "longitude":-69.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":182634,
+    "name":"Colby-Sawyer College",
+    "latitude":43.40000153,
+    "longitude":-72,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":190099,
+    "name":"Colgate University",
+    "latitude":42.79999924,
+    "longitude":-75.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":169442,
+    "name":"College for Creative Studies",
+    "latitude":42.40000153,
+    "longitude":-83.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":193399,
+    "name":"College of Mount Saint Vincent",
+    "latitude":40.90000153,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":204200,
+    "name":"College of Mount St Joseph",
+    "latitude":39.09999847,
+    "longitude":-84.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":167394,
+    "name":"College of Our Lady of the Elms",
+    "latitude":42.09999847,
+    "longitude":-72.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":174747,
+    "name":"College of Saint Benedict",
+    "latitude":45.59999847,
+    "longitude":-94.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":186618,
+    "name":"College of Saint Elizabeth",
+    "latitude":40.79999924,
+    "longitude":-74.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":181604,
+    "name":"College of Saint Mary",
+    "latitude":41.20000076,
+    "longitude":-96,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":166124,
+    "name":"College of the Holy Cross",
+    "latitude":42.20000076,
+    "longitude":-71.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":178697,
+    "name":"College of the Ozarks",
+    "latitude":36.59999847,
+    "longitude":-93.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":174932,
+    "name":"College of Visual Arts",
+    "latitude":44.90000153,
+    "longitude":-93.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":126669,
+    "name":"Colorado Christian University",
+    "latitude":39.70000076,
+    "longitude":-105.0999985,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":126678,
+    "name":"Colorado College",
+    "latitude":38.79999924,
+    "longitude":-104.8000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":177065,
+    "name":"Columbia College",
+    "latitude":39,
+    "longitude":-92.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217934,
+    "name":"Columbia College",
+    "latitude":34.09999847,
+    "longitude":-81,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":144281,
+    "name":"Columbia College-Chicago",
+    "latitude":41.90000153,
+    "longitude":-87.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":190150,
+    "name":"Columbia University in the City of New York",
+    "latitude":40.79999924,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":202170,
+    "name":"Columbus College of Art and Design",
+    "latitude":40,
+    "longitude":-83,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":173300,
+    "name":"Concordia College at Moorhead",
+    "latitude":46.90000153,
+    "longitude":-96.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":190248,
+    "name":"Concordia College-New York",
+    "latitude":40.90000153,
+    "longitude":-73.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":112075,
+    "name":"Concordia University-Irvine",
+    "latitude":33.70000076,
+    "longitude":-117.8000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":180984,
+    "name":"Concordia University-Nebraska",
+    "latitude":40.90000153,
+    "longitude":-97.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":208488,
+    "name":"Concordia University-Portland",
+    "latitude":45.59999847,
+    "longitude":-122.5999985,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":173328,
+    "name":"Concordia University-Saint Paul",
+    "latitude":45,
+    "longitude":-93.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":238616,
+    "name":"Concordia University-Wisconsin",
+    "latitude":43.29999924,
+    "longitude":-87.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":128902,
+    "name":"Connecticut College",
+    "latitude":41.40000153,
+    "longitude":-72.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217961,
+    "name":"Converse College",
+    "latitude":35,
+    "longitude":-81.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":190372,
+    "name":"Cooper Union for the Advancement of Science and Art",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":210331,
+    "name":"Corban University",
+    "latitude":44.90000153,
+    "longitude":-123,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153162,
+    "name":"Cornell College",
+    "latitude":41.90000153,
+    "longitude":-91.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":190415,
+    "name":"Cornell University",
+    "latitude":42.40000153,
+    "longitude":-76.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":170037,
+    "name":"Cornerstone University",
+    "latitude":43,
+    "longitude":-85.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":235024,
+    "name":"Cornish College of the Arts",
+    "latitude":47.59999847,
+    "longitude":-122.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":139393,
+    "name":"Covenant College",
+    "latitude":35,
+    "longitude":-85.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":181002,
+    "name":"Creighton University",
+    "latitude":41.29999924,
+    "longitude":-95.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":174862,
+    "name":"Crown College",
+    "latitude":44.90000153,
+    "longitude":-93.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":190503,
+    "name":"Culinary Institute of America",
+    "latitude":41.70000076,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":177144,
+    "name":"Culver-Stockton College",
+    "latitude":40.09999847,
+    "longitude":-91.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":219949,
+    "name":"Cumberland University",
+    "latitude":36.20000076,
+    "longitude":-86.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":165529,
+    "name":"Curry College",
+    "latitude":42.20000076,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":219091,
+    "name":"Dakota Wesleyan University",
+    "latitude":43.70000076,
+    "longitude":-98,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":224226,
+    "name":"Dallas Baptist University",
+    "latitude":32.70000076,
+    "longitude":-96.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":182670,
+    "name":"Dartmouth College",
+    "latitude":43.70000076,
+    "longitude":-72.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":169479,
+    "name":"Davenport University",
+    "latitude":42.79999924,
+    "longitude":-85.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198385,
+    "name":"Davidson College",
+    "latitude":35.5,
+    "longitude":-80.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":237358,
+    "name":"Davis & Elkins College",
+    "latitude":38.90000153,
+    "longitude":-79.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":165574,
+    "name":"Dean College",
+    "latitude":42.09999847,
+    "longitude":-71.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":202514,
+    "name":"Defiance College",
+    "latitude":41.29999924,
+    "longitude":-84.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":211981,
+    "name":"Delaware Valley College",
+    "latitude":40.29999924,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":202523,
+    "name":"Denison University",
+    "latitude":40.09999847,
+    "longitude":-82.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":144740,
+    "name":"DePaul University",
+    "latitude":41.90000153,
+    "longitude":-87.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":150400,
+    "name":"DePauw University",
+    "latitude":39.59999847,
+    "longitude":-86.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":210739,
+    "name":"DeSales University",
+    "latitude":40.5,
+    "longitude":-75.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":212009,
+    "name":"Dickinson College",
+    "latitude":40.20000076,
+    "longitude":-77.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":158802,
+    "name":"Dillard University",
+    "latitude":30,
+    "longitude":-90.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":181020,
+    "name":"Doane College-Crete",
+    "latitude":40.59999847,
+    "longitude":-96.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":190761,
+    "name":"Dominican College of Blauvelt",
+    "latitude":41.09999847,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":148496,
+    "name":"Dominican University",
+    "latitude":41.90000153,
+    "longitude":-87.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":113698,
+    "name":"Dominican University of California",
+    "latitude":38,
+    "longitude":-122.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153250,
+    "name":"Dordt College",
+    "latitude":43.09999847,
+    "longitude":-96.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":190770,
+    "name":"Dowling College",
+    "latitude":40.70000076,
+    "longitude":-73.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153269,
+    "name":"Drake University",
+    "latitude":41.59999847,
+    "longitude":-93.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":184348,
+    "name":"Drew University",
+    "latitude":40.79999924,
+    "longitude":-74.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":212054,
+    "name":"Drexel University",
+    "latitude":40,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":177214,
+    "name":"Drury University",
+    "latitude":37.20000076,
+    "longitude":-93.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198419,
+    "name":"Duke University",
+    "latitude":36,
+    "longitude":-78.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":175227,
+    "name":"Dunwoody College of Technology",
+    "latitude":45,
+    "longitude":-93.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":212106,
+    "name":"Duquesne University",
+    "latitude":40.40000153,
+    "longitude":-80,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":190716,
+    "name":"D'Youville College",
+    "latitude":42.90000153,
+    "longitude":-78.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":150455,
+    "name":"Earlham College",
+    "latitude":39.79999924,
+    "longitude":-84.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":224527,
+    "name":"East Texas Baptist University",
+    "latitude":32.59999847,
+    "longitude":-94.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":232043,
+    "name":"Eastern Mennonite University",
+    "latitude":38.5,
+    "longitude":-78.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":165644,
+    "name":"Eastern Nazarene College",
+    "latitude":42.29999924,
+    "longitude":-71,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":212133,
+    "name":"Eastern University",
+    "latitude":40.09999847,
+    "longitude":-75.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":133492,
+    "name":"Eckerd College",
+    "latitude":27.70000076,
+    "longitude":-82.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":238661,
+    "name":"Edgewood College",
+    "latitude":43.09999847,
+    "longitude":-89.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":133526,
+    "name":"Edward Waters College",
+    "latitude":30.29999924,
+    "longitude":-81.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":212197,
+    "name":"Elizabethtown College",
+    "latitude":40.20000076,
+    "longitude":-76.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":144962,
+    "name":"Elmhurst College",
+    "latitude":41.90000153,
+    "longitude":-87.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":190983,
+    "name":"Elmira College",
+    "latitude":42.09999847,
+    "longitude":-76.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198516,
+    "name":"Elon University",
+    "latitude":36.09999847,
+    "longitude":-79.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":165662,
+    "name":"Emerson College",
+    "latitude":42.40000153,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":139630,
+    "name":"Emmanuel College",
+    "latitude":34.29999924,
+    "longitude":-83.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":165671,
+    "name":"Emmanuel College",
+    "latitude":42.29999924,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":232025,
+    "name":"Emory & Henry College",
+    "latitude":36.79999924,
+    "longitude":-81.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":139658,
+    "name":"Emory University",
+    "latitude":33.79999924,
+    "longitude":-84.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":165699,
+    "name":"Endicott College",
+    "latitude":42.59999847,
+    "longitude":-70.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217998,
+    "name":"Erskine College",
+    "latitude":34.29999924,
+    "longitude":-82.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":144971,
+    "name":"Eureka College",
+    "latitude":40.70000076,
+    "longitude":-89.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":177339,
+    "name":"Evangel University",
+    "latitude":37.20000076,
+    "longitude":-93.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":129242,
+    "name":"Fairfield University",
+    "latitude":41.20000076,
+    "longitude":-73.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":184694,
+    "name":"Fairleigh Dickinson University-College at Florham",
+    "latitude":40.79999924,
+    "longitude":-74.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":184603,
+    "name":"Fairleigh Dickinson University-Metropolitan Campus",
+    "latitude":40.90000153,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":101189,
+    "name":"Faulkner University",
+    "latitude":32.40000153,
+    "longitude":-86.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":184612,
+    "name":"Felician College",
+    "latitude":40.90000153,
+    "longitude":-74.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":232089,
+    "name":"Ferrum College",
+    "latitude":36.90000153,
+    "longitude":-80,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":133711,
+    "name":"Flagler College-St Augustine",
+    "latitude":29.89999962,
+    "longitude":-81.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":133881,
+    "name":"Florida Institute of Technology",
+    "latitude":28.10000038,
+    "longitude":-80.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":133979,
+    "name":"Florida Memorial University",
+    "latitude":25.89999962,
+    "longitude":-80.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":134079,
+    "name":"Florida Southern College",
+    "latitude":28,
+    "longitude":-81.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":177418,
+    "name":"Fontbonne University",
+    "latitude":38.59999847,
+    "longitude":-90.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":191241,
+    "name":"Fordham University",
+    "latitude":40.90000153,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":205957,
+    "name":"Franciscan University of Steubenville",
+    "latitude":40.40000153,
+    "longitude":-80.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":212577,
+    "name":"Franklin and Marshall College",
+    "latitude":40,
+    "longitude":-76.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":150604,
+    "name":"Franklin College",
+    "latitude":39.5,
+    "longitude":-86,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":182795,
+    "name":"Franklin Pierce University",
+    "latitude":42.79999924,
+    "longitude":-72.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":202806,
+    "name":"Franklin University",
+    "latitude":40,
+    "longitude":-83,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":220215,
+    "name":"Freed-Hardeman University",
+    "latitude":35.40000153,
+    "longitude":-88.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":114813,
+    "name":"Fresno Pacific University",
+    "latitude":36.70000076,
+    "longitude":-119.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":155089,
+    "name":"Friends University",
+    "latitude":37.70000076,
+    "longitude":-97.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":218070,
+    "name":"Furman University",
+    "latitude":34.90000153,
+    "longitude":-82.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":131450,
+    "name":"Gallaudet University",
+    "latitude":38.90000153,
+    "longitude":-77,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":212601,
+    "name":"Gannon University",
+    "latitude":42.09999847,
+    "longitude":-80.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198561,
+    "name":"Gardner-Webb University",
+    "latitude":35.20000076,
+    "longitude":-81.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":212656,
+    "name":"Geneva College",
+    "latitude":40.79999924,
+    "longitude":-80.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":208822,
+    "name":"George Fox University",
+    "latitude":45.29999924,
+    "longitude":-123,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":131469,
+    "name":"George Washington University",
+    "latitude":38.90000153,
+    "longitude":-77,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":156745,
+    "name":"Georgetown College",
+    "latitude":38.20000076,
+    "longitude":-84.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":131496,
+    "name":"Georgetown University",
+    "latitude":38.90000153,
+    "longitude":-77.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":184773,
+    "name":"Georgian Court University",
+    "latitude":40.09999847,
+    "longitude":-74.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":212674,
+    "name":"Gettysburg College",
+    "latitude":39.79999924,
+    "longitude":-77.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":130989,
+    "name":"Goldey-Beacom College",
+    "latitude":39.70000076,
+    "longitude":-75.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":235316,
+    "name":"Gonzaga University",
+    "latitude":47.70000076,
+    "longitude":-117.4000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":165936,
+    "name":"Gordon College",
+    "latitude":42.59999847,
+    "longitude":-70.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":150668,
+    "name":"Goshen College",
+    "latitude":41.59999847,
+    "longitude":-85.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":162654,
+    "name":"Goucher College",
+    "latitude":39.40000153,
+    "longitude":-76.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":150677,
+    "name":"Grace College and Theological Seminary",
+    "latitude":41.20000076,
+    "longitude":-85.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153366,
+    "name":"Graceland University-Lamoni",
+    "latitude":40.59999847,
+    "longitude":-93.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153375,
+    "name":"Grand View University",
+    "latitude":41.59999847,
+    "longitude":-93.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198598,
+    "name":"Greensboro College",
+    "latitude":36.09999847,
+    "longitude":-79.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":145372,
+    "name":"Greenville College",
+    "latitude":38.90000153,
+    "longitude":-89.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153384,
+    "name":"Grinnell College",
+    "latitude":41.70000076,
+    "longitude":-92.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198613,
+    "name":"Guilford College",
+    "latitude":36.09999847,
+    "longitude":-79.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":173647,
+    "name":"Gustavus Adolphus College",
+    "latitude":44.29999924,
+    "longitude":-94,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":212832,
+    "name":"Gwynedd Mercy University",
+    "latitude":40.20000076,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":191515,
+    "name":"Hamilton College",
+    "latitude":43,
+    "longitude":-75.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":173665,
+    "name":"Hamline University",
+    "latitude":45,
+    "longitude":-93.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":232256,
+    "name":"Hampden-Sydney College",
+    "latitude":37.20000076,
+    "longitude":-78.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":166018,
+    "name":"Hampshire College",
+    "latitude":42.29999924,
+    "longitude":-72.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":232265,
+    "name":"Hampton University",
+    "latitude":37,
+    "longitude":-76.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":177542,
+    "name":"Hannibal-LaGrange University",
+    "latitude":39.70000076,
+    "longitude":-91.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":150756,
+    "name":"Hanover College",
+    "latitude":38.70000076,
+    "longitude":-85.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":107044,
+    "name":"Harding University",
+    "latitude":35.20000076,
+    "longitude":-91.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":225247,
+    "name":"Hardin-Simmons University",
+    "latitude":32.5,
+    "longitude":-99.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":191533,
+    "name":"Hartwick College",
+    "latitude":42.5,
+    "longitude":-75.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":166027,
+    "name":"Harvard University",
+    "latitude":42.40000153,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":115409,
+    "name":"Harvey Mudd College",
+    "latitude":34.09999847,
+    "longitude":-117.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":181127,
+    "name":"Hastings College",
+    "latitude":40.59999847,
+    "longitude":-98.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":212911,
+    "name":"Haverford College",
+    "latitude":40,
+    "longitude":-75.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":203085,
+    "name":"Heidelberg University",
+    "latitude":41.09999847,
+    "longitude":-83.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":107080,
+    "name":"Hendrix College",
+    "latitude":35.09999847,
+    "longitude":-92.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":235422,
+    "name":"Heritage University",
+    "latitude":46.40000153,
+    "longitude":-120.4000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198695,
+    "name":"High Point University",
+    "latitude":36,
+    "longitude":-80,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":191621,
+    "name":"Hilbert College",
+    "latitude":42.79999924,
+    "longitude":-78.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":203128,
+    "name":"Hiram College",
+    "latitude":41.29999924,
+    "longitude":-81.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":191630,
+    "name":"Hobart William Smith Colleges",
+    "latitude":42.90000153,
+    "longitude":-77,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":367884,
+    "name":"Hodges University",
+    "latitude":26.29999924,
+    "longitude":-81.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":191649,
+    "name":"Hofstra University",
+    "latitude":40.70000076,
+    "longitude":-73.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":232308,
+    "name":"Hollins University",
+    "latitude":37.40000153,
+    "longitude":-79.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":212984,
+    "name":"Holy Family University",
+    "latitude":40.09999847,
+    "longitude":-75,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":115728,
+    "name":"Holy Names University",
+    "latitude":37.79999924,
+    "longitude":-122.1999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":162760,
+    "name":"Hood College",
+    "latitude":39.40000153,
+    "longitude":-77.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":170301,
+    "name":"Hope College",
+    "latitude":42.79999924,
+    "longitude":-86.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":120537,
+    "name":"Hope International University",
+    "latitude":33.90000153,
+    "longitude":-117.9000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":191676,
+    "name":"Houghton College",
+    "latitude":42.40000153,
+    "longitude":-78.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":225399,
+    "name":"Houston Baptist University",
+    "latitude":29.70000076,
+    "longitude":-95.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":225548,
+    "name":"Howard Payne University",
+    "latitude":31.70000076,
+    "longitude":-99,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":131520,
+    "name":"Howard University",
+    "latitude":38.90000153,
+    "longitude":-77,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":115773,
+    "name":"Humphreys College-Stockton and Modesto Campuses",
+    "latitude":38,
+    "longitude":-121.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":101435,
+    "name":"Huntingdon College",
+    "latitude":32.40000153,
+    "longitude":-86.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":150941,
+    "name":"Huntington University",
+    "latitude":40.90000153,
+    "longitude":-85.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":161165,
+    "name":"Husson University",
+    "latitude":44.79999924,
+    "longitude":-68.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":225575,
+    "name":"Huston-Tillotson University",
+    "latitude":30.29999924,
+    "longitude":-97.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":145691,
+    "name":"Illinois College",
+    "latitude":39.70000076,
+    "longitude":-90.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":145725,
+    "name":"Illinois Institute of Technology",
+    "latitude":41.79999924,
+    "longitude":-87.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":145646,
+    "name":"Illinois Wesleyan University",
+    "latitude":40.5,
+    "longitude":-89,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213011,
+    "name":"Immaculata University",
+    "latitude":40,
+    "longitude":-75.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":151290,
+    "name":"Indiana Institute of Technology",
+    "latitude":41.09999847,
+    "longitude":-85.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":151801,
+    "name":"Indiana Wesleyan University",
+    "latitude":40.5,
+    "longitude":-85.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":191931,
+    "name":"Iona College",
+    "latitude":40.90000153,
+    "longitude":-73.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":191968,
+    "name":"Ithaca College",
+    "latitude":42.40000153,
+    "longitude":-76.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":134945,
+    "name":"Jacksonville University",
+    "latitude":30.39999962,
+    "longitude":-81.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":231837,
+    "name":"Jefferson College of Health Sciences",
+    "latitude":37.29999924,
+    "longitude":-79.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":107141,
+    "name":"John Brown University",
+    "latitude":36.20000076,
+    "longitude":-94.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":203368,
+    "name":"John Carroll University",
+    "latitude":41.5,
+    "longitude":-81.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":162928,
+    "name":"Johns Hopkins University",
+    "latitude":39.29999924,
+    "longitude":-76.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":439288,
+    "name":"Johnson & Wales University-Denver",
+    "latitude":39.70000076,
+    "longitude":-104.9000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217235,
+    "name":"Johnson & Wales University-Providence",
+    "latitude":41.79999924,
+    "longitude":-71.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198756,
+    "name":"Johnson C Smith University",
+    "latitude":35.20000076,
+    "longitude":-80.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":146339,
+    "name":"Judson University",
+    "latitude":42.09999847,
+    "longitude":-88.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213251,
+    "name":"Juniata College",
+    "latitude":40.5,
+    "longitude":-78,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":170532,
+    "name":"Kalamazoo College",
+    "latitude":42.29999924,
+    "longitude":-85.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":177746,
+    "name":"Kansas City Art Institute",
+    "latitude":39,
+    "longitude":-94.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":203535,
+    "name":"Kenyon College",
+    "latitude":40.40000153,
+    "longitude":-82.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":203544,
+    "name":"Kettering College",
+    "latitude":39.70000076,
+    "longitude":-84.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":169983,
+    "name":"Kettering University",
+    "latitude":43,
+    "longitude":-83.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":192192,
+    "name":"Keuka College",
+    "latitude":42.59999847,
+    "longitude":-77.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213303,
+    "name":"Keystone College",
+    "latitude":41.59999847,
+    "longitude":-75.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":220516,
+    "name":"King University",
+    "latitude":36.59999847,
+    "longitude":-82.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213321,
+    "name":"King's College",
+    "latitude":41.20000076,
+    "longitude":-75.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":146427,
+    "name":"Knox College",
+    "latitude":40.90000153,
+    "longitude":-90.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213358,
+    "name":"La Roche College",
+    "latitude":40.59999847,
+    "longitude":-80,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213367,
+    "name":"La Salle University",
+    "latitude":40,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":117627,
+    "name":"La Sierra University",
+    "latitude":33.90000153,
+    "longitude":-117.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213385,
+    "name":"Lafayette College",
+    "latitude":40.70000076,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":140234,
+    "name":"LaGrange College",
+    "latitude":33,
+    "longitude":-85,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":203580,
+    "name":"Lake Erie College",
+    "latitude":41.70000076,
+    "longitude":-81.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":146481,
+    "name":"Lake Forest College",
+    "latitude":42.29999924,
+    "longitude":-87.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":238980,
+    "name":"Lakeland College",
+    "latitude":43.79999924,
+    "longitude":-87.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213400,
+    "name":"Lancaster Bible College",
+    "latitude":40.09999847,
+    "longitude":-76.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":220598,
+    "name":"Lane College",
+    "latitude":35.59999847,
+    "longitude":-88.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":166391,
+    "name":"Lasell College",
+    "latitude":42.29999924,
+    "longitude":-71.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":170675,
+    "name":"Lawrence Technological University",
+    "latitude":42.5,
+    "longitude":-83.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":239017,
+    "name":"Lawrence University",
+    "latitude":44.29999924,
+    "longitude":-88.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":192323,
+    "name":"Le Moyne College",
+    "latitude":43,
+    "longitude":-76.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213507,
+    "name":"Lebanon Valley College",
+    "latitude":40.29999924,
+    "longitude":-76.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":220613,
+    "name":"Lee University",
+    "latitude":35.20000076,
+    "longitude":-84.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198808,
+    "name":"Lees-McRae College",
+    "latitude":36.20000076,
+    "longitude":-81.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213543,
+    "name":"Lehigh University",
+    "latitude":40.59999847,
+    "longitude":-75.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198835,
+    "name":"Lenoir-Rhyne University",
+    "latitude":35.70000076,
+    "longitude":-81.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":166452,
+    "name":"Lesley University",
+    "latitude":42.40000153,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":226231,
+    "name":"LeTourneau University",
+    "latitude":32.5,
+    "longitude":-94.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":209056,
+    "name":"Lewis & Clark College",
+    "latitude":45.5,
+    "longitude":-122.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":146612,
+    "name":"Lewis University",
+    "latitude":41.59999847,
+    "longitude":-88.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":232557,
+    "name":"Liberty University",
+    "latitude":37.40000153,
+    "longitude":-79.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":218238,
+    "name":"Limestone College",
+    "latitude":35.09999847,
+    "longitude":-81.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":146667,
+    "name":"Lincoln Christian University",
+    "latitude":40.09999847,
+    "longitude":-89.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":146676,
+    "name":"Lincoln College",
+    "latitude":40.20000076,
+    "longitude":-89.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":177968,
+    "name":"Lindenwood University",
+    "latitude":38.79999924,
+    "longitude":-90.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":157216,
+    "name":"Lindsey Wilson College",
+    "latitude":37.09999847,
+    "longitude":-85.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":209065,
+    "name":"Linfield College-McMinnville Campus",
+    "latitude":45.20000076,
+    "longitude":-123.1999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":219976,
+    "name":"Lipscomb University",
+    "latitude":36.09999847,
+    "longitude":-86.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198862,
+    "name":"Livingstone College",
+    "latitude":35.70000076,
+    "longitude":-80.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153825,
+    "name":"Loras College",
+    "latitude":42.5,
+    "longitude":-90.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":159568,
+    "name":"Louisiana College",
+    "latitude":31.29999924,
+    "longitude":-92.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":203757,
+    "name":"Lourdes University",
+    "latitude":41.70000076,
+    "longitude":-83.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":117946,
+    "name":"Loyola Marymount University",
+    "latitude":34,
+    "longitude":-118.4000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":146719,
+    "name":"Loyola University Chicago",
+    "latitude":42,
+    "longitude":-87.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":163046,
+    "name":"Loyola University Maryland",
+    "latitude":39.29999924,
+    "longitude":-76.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":159656,
+    "name":"Loyola University New Orleans",
+    "latitude":29.89999962,
+    "longitude":-90.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":226383,
+    "name":"Lubbock Christian University",
+    "latitude":33.59999847,
+    "longitude":-101.9000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153834,
+    "name":"Luther College",
+    "latitude":43.29999924,
+    "longitude":-91.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":135364,
+    "name":"Luther Rice University & Seminary",
+    "latitude":33.70000076,
+    "longitude":-84.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213668,
+    "name":"Lycoming College",
+    "latitude":41.20000076,
+    "longitude":-77,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":232609,
+    "name":"Lynchburg College",
+    "latitude":37.40000153,
+    "longitude":-79.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":132657,
+    "name":"Lynn University",
+    "latitude":26.39999962,
+    "longitude":-80.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":173902,
+    "name":"Macalester College",
+    "latitude":44.90000153,
+    "longitude":-93.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":170806,
+    "name":"Madonna University",
+    "latitude":42.40000153,
+    "longitude":-83.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153861,
+    "name":"Maharishi University of Management",
+    "latitude":41,
+    "longitude":-92,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":203775,
+    "name":"Malone University",
+    "latitude":40.79999924,
+    "longitude":-81.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":151777,
+    "name":"Manchester University",
+    "latitude":41,
+    "longitude":-85.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":192703,
+    "name":"Manhattan College",
+    "latitude":40.90000153,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":192712,
+    "name":"Manhattan School of Music",
+    "latitude":40.79999924,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":192749,
+    "name":"Manhattanville College",
+    "latitude":41,
+    "longitude":-73.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":239071,
+    "name":"Maranatha Baptist University",
+    "latitude":43.20000076,
+    "longitude":-88.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":151786,
+    "name":"Marian University",
+    "latitude":39.79999924,
+    "longitude":-86.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":239080,
+    "name":"Marian University",
+    "latitude":43.79999924,
+    "longitude":-88.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":203845,
+    "name":"Marietta College",
+    "latitude":39.40000153,
+    "longitude":-81.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":192819,
+    "name":"Marist College",
+    "latitude":41.70000076,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":239105,
+    "name":"Marquette University",
+    "latitude":43,
+    "longitude":-87.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198899,
+    "name":"Mars Hill University",
+    "latitude":35.79999924,
+    "longitude":-82.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":173452,
+    "name":"Martin Luther College",
+    "latitude":44.29999924,
+    "longitude":-94.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":220701,
+    "name":"Martin Methodist College",
+    "latitude":35.20000076,
+    "longitude":-87,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":232672,
+    "name":"Mary Baldwin College",
+    "latitude":38.20000076,
+    "longitude":-79.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":170842,
+    "name":"Marygrove College",
+    "latitude":42.40000153,
+    "longitude":-83.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":163295,
+    "name":"Maryland Institute College of Art",
+    "latitude":39.29999924,
+    "longitude":-76.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":209108,
+    "name":"Marylhurst University",
+    "latitude":45.40000153,
+    "longitude":-122.5999985,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":192864,
+    "name":"Marymount Manhattan College",
+    "latitude":40.79999924,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":232706,
+    "name":"Marymount University",
+    "latitude":38.90000153,
+    "longitude":-77.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":220710,
+    "name":"Maryville College",
+    "latitude":35.79999924,
+    "longitude":-84,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":178059,
+    "name":"Maryville University of Saint Louis",
+    "latitude":38.59999847,
+    "longitude":-90.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213826,
+    "name":"Marywood University",
+    "latitude":41.40000153,
+    "longitude":-75.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":166683,
+    "name":"Massachusetts Institute of Technology",
+    "latitude":42.40000153,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164270,
+    "name":"McDaniel College",
+    "latitude":39.59999847,
+    "longitude":-77,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":226587,
+    "name":"McMurry University",
+    "latitude":32.40000153,
+    "longitude":-99.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":155511,
+    "name":"McPherson College",
+    "latitude":38.40000153,
+    "longitude":-97.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":192925,
+    "name":"Medaille College",
+    "latitude":42.90000153,
+    "longitude":-78.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":140447,
+    "name":"Mercer University",
+    "latitude":32.79999924,
+    "longitude":-83.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":193016,
+    "name":"Mercy College",
+    "latitude":41,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153977,
+    "name":"Mercy College of Health Sciences",
+    "latitude":41.59999847,
+    "longitude":-93.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":203960,
+    "name":"Mercy College of Ohio",
+    "latitude":41.70000076,
+    "longitude":-83.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213987,
+    "name":"Mercyhurst University",
+    "latitude":42.09999847,
+    "longitude":-80.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198950,
+    "name":"Meredith College",
+    "latitude":35.79999924,
+    "longitude":-78.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":166850,
+    "name":"Merrimack College",
+    "latitude":42.70000076,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":213996,
+    "name":"Messiah College",
+    "latitude":40.20000076,
+    "longitude":-77,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":198969,
+    "name":"Methodist University",
+    "latitude":35.09999847,
+    "longitude":-78.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":190114,
+    "name":"Metropolitan College of New York",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":245953,
+    "name":"Mid-America Christian University",
+    "latitude":35.29999924,
+    "longitude":-97.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":155520,
+    "name":"MidAmerica Nazarene University",
+    "latitude":38.90000153,
+    "longitude":-94.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":157359,
+    "name":"Mid-Continent University",
+    "latitude":36.79999924,
+    "longitude":-88.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":230959,
+    "name":"Middlebury College",
+    "latitude":44,
+    "longitude":-73.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":181330,
+    "name":"Midland University",
+    "latitude":41.40000153,
+    "longitude":-96.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":157377,
+    "name":"Midway College",
+    "latitude":38.09999847,
+    "longitude":-84.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":101675,
+    "name":"Miles College",
+    "latitude":33.5,
+    "longitude":-86.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":221014,
+    "name":"Milligan College",
+    "latitude":36.29999924,
+    "longitude":-82.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":147244,
+    "name":"Millikin University",
+    "latitude":39.79999924,
+    "longitude":-89,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":118888,
+    "name":"Mills College",
+    "latitude":37.79999924,
+    "longitude":-122.1999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":175980,
+    "name":"Millsaps College",
+    "latitude":32.29999924,
+    "longitude":-90.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":239318,
+    "name":"Milwaukee School of Engineering",
+    "latitude":43,
+    "longitude":-87.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":214069,
+    "name":"Misericordia University",
+    "latitude":41.29999924,
+    "longitude":-76,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":176053,
+    "name":"Mississippi College",
+    "latitude":32.29999924,
+    "longitude":-90.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":178244,
+    "name":"Missouri Baptist University",
+    "latitude":38.59999847,
+    "longitude":-90.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":178369,
+    "name":"Missouri Valley College",
+    "latitude":39.09999847,
+    "longitude":-93.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":129774,
+    "name":"Mitchell College",
+    "latitude":41.29999924,
+    "longitude":-72.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":193292,
+    "name":"Molloy College",
+    "latitude":40.70000076,
+    "longitude":-73.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":147341,
+    "name":"Monmouth College",
+    "latitude":40.90000153,
+    "longitude":-90.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":185572,
+    "name":"Monmouth University",
+    "latitude":40.29999924,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":199032,
+    "name":"Montreat College",
+    "latitude":35.59999847,
+    "longitude":-82.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":214157,
+    "name":"Moravian College",
+    "latitude":40.59999847,
+    "longitude":-75.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":140553,
+    "name":"Morehouse College",
+    "latitude":33.70000076,
+    "longitude":-84.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154004,
+    "name":"Morningside College",
+    "latitude":42.5,
+    "longitude":-96.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":218399,
+    "name":"Morris College",
+    "latitude":33.90000153,
+    "longitude":-80.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":214166,
+    "name":"Mount Aloysius College",
+    "latitude":40.5,
+    "longitude":-78.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":166939,
+    "name":"Mount Holyoke College",
+    "latitude":42.29999924,
+    "longitude":-72.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":166948,
+    "name":"Mount Ida College",
+    "latitude":42.29999924,
+    "longitude":-71.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":219198,
+    "name":"Mount Marty College",
+    "latitude":42.90000153,
+    "longitude":-97.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154013,
+    "name":"Mount Mercy University",
+    "latitude":42,
+    "longitude":-91.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":199069,
+    "name":"Mount Olive College",
+    "latitude":35.20000076,
+    "longitude":-78.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":193353,
+    "name":"Mount Saint Mary College",
+    "latitude":41.5,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":119173,
+    "name":"Mount St Mary's College",
+    "latitude":34.09999847,
+    "longitude":-118.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":163462,
+    "name":"Mount St Mary's University",
+    "latitude":39.70000076,
+    "longitude":-77.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":204194,
+    "name":"Mount Vernon Nazarene University",
+    "latitude":40.40000153,
+    "longitude":-82.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":214175,
+    "name":"Muhlenberg College",
+    "latitude":40.59999847,
+    "longitude":-75.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":209287,
+    "name":"Multnomah University",
+    "latitude":45.5,
+    "longitude":-122.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":204264,
+    "name":"Muskingum University",
+    "latitude":40,
+    "longitude":-81.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":127653,
+    "name":"Naropa University",
+    "latitude":40,
+    "longitude":-105.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":147536,
+    "name":"National Louis University",
+    "latitude":41.90000153,
+    "longitude":-87.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":119605,
+    "name":"National University",
+    "latitude":32.90000153,
+    "longitude":-117.1999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":193584,
+    "name":"Nazareth College",
+    "latitude":43.09999847,
+    "longitude":-77.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":181446,
+    "name":"Nebraska Wesleyan University",
+    "latitude":40.79999924,
+    "longitude":-96.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":214272,
+    "name":"Neumann University",
+    "latitude":39.90000153,
+    "longitude":-75.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":182980,
+    "name":"New England College",
+    "latitude":43.20000076,
+    "longitude":-71.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217305,
+    "name":"New England Institute of Technology",
+    "latitude":41.70000076,
+    "longitude":-71.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":194091,
+    "name":"New York Institute of Technology",
+    "latitude":40.79999924,
+    "longitude":-73.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":193900,
+    "name":"New York University",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":218414,
+    "name":"Newberry College",
+    "latitude":34.29999924,
+    "longitude":-81.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":167251,
+    "name":"Newbury College",
+    "latitude":42.29999924,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":155335,
+    "name":"Newman University",
+    "latitude":37.70000076,
+    "longitude":-97.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":193973,
+    "name":"Niagara University",
+    "latitude":43.09999847,
+    "longitude":-79,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":167260,
+    "name":"Nichols College",
+    "latitude":42,
+    "longitude":-71.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":199209,
+    "name":"North Carolina Wesleyan College",
+    "latitude":36,
+    "longitude":-77.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":147660,
+    "name":"North Central College",
+    "latitude":41.79999924,
+    "longitude":-88.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":174437,
+    "name":"North Central University",
+    "latitude":45,
+    "longitude":-93.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":218441,
+    "name":"North Greenville University",
+    "latitude":35.09999847,
+    "longitude":-82.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":147679,
+    "name":"North Park University",
+    "latitude":42,
+    "longitude":-87.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":167358,
+    "name":"Northeastern University",
+    "latitude":42.29999924,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":239512,
+    "name":"Northland College",
+    "latitude":46.59999847,
+    "longitude":-90.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":142461,
+    "name":"Northwest Nazarene University",
+    "latitude":43.59999847,
+    "longitude":-116.5999985,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":236133,
+    "name":"Northwest University",
+    "latitude":47.70000076,
+    "longitude":-122.1999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154101,
+    "name":"Northwestern College",
+    "latitude":43,
+    "longitude":-96.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":147767,
+    "name":"Northwestern University",
+    "latitude":42.09999847,
+    "longitude":-87.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":171492,
+    "name":"Northwood University-Michigan",
+    "latitude":43.59999847,
+    "longitude":-84.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":230995,
+    "name":"Norwich University",
+    "latitude":44.09999847,
+    "longitude":-72.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":204468,
+    "name":"Notre Dame College",
+    "latitude":41.5,
+    "longitude":-81.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":120184,
+    "name":"Notre Dame de Namur University",
+    "latitude":37.5,
+    "longitude":-122.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":136215,
+    "name":"Nova Southeastern University",
+    "latitude":26.10000038,
+    "longitude":-80.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":194161,
+    "name":"Nyack College",
+    "latitude":41.09999847,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":101912,
+    "name":"Oakwood University",
+    "latitude":34.79999924,
+    "longitude":-86.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":204501,
+    "name":"Oberlin College",
+    "latitude":41.29999924,
+    "longitude":-82.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":120254,
+    "name":"Occidental College",
+    "latitude":34.09999847,
+    "longitude":-118.1999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":140696,
+    "name":"Oglethorpe University",
+    "latitude":33.90000153,
+    "longitude":-84.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":201964,
+    "name":"Ohio Christian University",
+    "latitude":39.59999847,
+    "longitude":-82.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":204617,
+    "name":"Ohio Dominican University",
+    "latitude":40,
+    "longitude":-82.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":204635,
+    "name":"Ohio Northern University",
+    "latitude":40.79999924,
+    "longitude":-83.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":204909,
+    "name":"Ohio Wesleyan University",
+    "latitude":40.29999924,
+    "longitude":-83.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":207403,
+    "name":"Oklahoma Baptist University",
+    "latitude":35.40000153,
+    "longitude":-96.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":207324,
+    "name":"Oklahoma Christian University",
+    "latitude":35.59999847,
+    "longitude":-97.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":207458,
+    "name":"Oklahoma City University",
+    "latitude":35.5,
+    "longitude":-97.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":206835,
+    "name":"Oklahoma Wesleyan University",
+    "latitude":36.70000076,
+    "longitude":-96,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":171599,
+    "name":"Olivet College",
+    "latitude":42.40000153,
+    "longitude":-84.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":147828,
+    "name":"Olivet Nazarene University",
+    "latitude":41.20000076,
+    "longitude":-87.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":207582,
+    "name":"Oral Roberts University",
+    "latitude":36.09999847,
+    "longitude":-96,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":120403,
+    "name":"Otis College of Art and Design",
+    "latitude":34,
+    "longitude":-118.4000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":204936,
+    "name":"Otterbein University",
+    "latitude":40.09999847,
+    "longitude":-82.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":107512,
+    "name":"Ouachita Baptist University",
+    "latitude":34.09999847,
+    "longitude":-93.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":160065,
+    "name":"Our Lady of Holy Cross College",
+    "latitude":29.89999962,
+    "longitude":-90,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":160074,
+    "name":"Our Lady of the Lake College",
+    "latitude":30.39999962,
+    "longitude":-91.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":227331,
+    "name":"Our Lady of the Lake University",
+    "latitude":29.39999962,
+    "longitude":-98.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":194310,
+    "name":"Pace University-New York",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":236230,
+    "name":"Pacific Lutheran University",
+    "latitude":47.09999847,
+    "longitude":-122.4000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":209603,
+    "name":"Pacific Northwest College of Art",
+    "latitude":45.5,
+    "longitude":-122.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":120865,
+    "name":"Pacific Union College",
+    "latitude":38.59999847,
+    "longitude":-122.4000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":209612,
+    "name":"Pacific University",
+    "latitude":45.5,
+    "longitude":-123.0999985,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":140720,
+    "name":"Paine College",
+    "latitude":33.5,
+    "longitude":-82,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":136330,
+    "name":"Palm Beach Atlantic University",
+    "latitude":26.70000076,
+    "longitude":-80,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154174,
+    "name":"Palmer College of Chiropractic-Davenport",
+    "latitude":41.5,
+    "longitude":-90.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":178721,
+    "name":"Park University",
+    "latitude":39.20000076,
+    "longitude":-94.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":194392,
+    "name":"Paul Smiths College of Arts and Science",
+    "latitude":44.40000153,
+    "longitude":-74.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":214883,
+    "name":"Peirce College",
+    "latitude":39.90000153,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":121150,
+    "name":"Pepperdine University",
+    "latitude":34,
+    "longitude":-118.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":199306,
+    "name":"Pfeiffer University",
+    "latitude":35.5,
+    "longitude":-80.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":215099,
+    "name":"Philadelphia University",
+    "latitude":40,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":140818,
+    "name":"Piedmont College",
+    "latitude":34.59999847,
+    "longitude":-83.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":121257,
+    "name":"Pitzer College",
+    "latitude":34.09999847,
+    "longitude":-117.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":121309,
+    "name":"Point Loma Nazarene University",
+    "latitude":32.70000076,
+    "longitude":-117.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":215442,
+    "name":"Point Park University",
+    "latitude":40.40000153,
+    "longitude":-80,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":194541,
+    "name":"Polytechnic Institute of New York University",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":456490,
+    "name":"Polytechnic University of Puerto Rico-Orlando",
+    "latitude":28.60000038,
+    "longitude":-81.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":194578,
+    "name":"Pratt Institute-Main",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":218539,
+    "name":"Presbyterian College",
+    "latitude":34.5,
+    "longitude":-81.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":105589,
+    "name":"Prescott College",
+    "latitude":34.5,
+    "longitude":-112.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":186131,
+    "name":"Princeton University",
+    "latitude":40.29999924,
+    "longitude":-74.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":199412,
+    "name":"Queens University of Charlotte",
+    "latitude":35.20000076,
+    "longitude":-80.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":148131,
+    "name":"Quincy University",
+    "latitude":39.90000153,
+    "longitude":-91.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":130226,
+    "name":"Quinnipiac University",
+    "latitude":41.40000153,
+    "longitude":-72.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":233295,
+    "name":"Randolph-Macon College",
+    "latitude":37.70000076,
+    "longitude":-77.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":178891,
+    "name":"Ranken Technical College",
+    "latitude":38.70000076,
+    "longitude":-90.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":209922,
+    "name":"Reed College",
+    "latitude":45.5,
+    "longitude":-122.5999985,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":231651,
+    "name":"Regent University",
+    "latitude":36.79999924,
+    "longitude":-76.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":167598,
+    "name":"Regis College",
+    "latitude":42.40000153,
+    "longitude":-71.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":127918,
+    "name":"Regis University",
+    "latitude":39.79999924,
+    "longitude":-105,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":140872,
+    "name":"Reinhardt University",
+    "latitude":34.29999924,
+    "longitude":-84.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":194824,
+    "name":"Rensselaer Polytechnic Institute",
+    "latitude":42.70000076,
+    "longitude":-73.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217493,
+    "name":"Rhode Island School of Design",
+    "latitude":41.79999924,
+    "longitude":-71.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":221351,
+    "name":"Rhodes College",
+    "latitude":35.20000076,
+    "longitude":-90,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":227757,
+    "name":"Rice University",
+    "latitude":29.70000076,
+    "longitude":-95.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":186283,
+    "name":"Rider University",
+    "latitude":40.29999924,
+    "longitude":-74.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":136774,
+    "name":"Ringling College of Art and Design",
+    "latitude":27.39999962,
+    "longitude":-82.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":239628,
+    "name":"Ripon College",
+    "latitude":43.79999924,
+    "longitude":-88.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":183211,
+    "name":"Rivier University",
+    "latitude":42.70000076,
+    "longitude":-71.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":233426,
+    "name":"Roanoke College",
+    "latitude":37.29999924,
+    "longitude":-80.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":215655,
+    "name":"Robert Morris University",
+    "latitude":40.5,
+    "longitude":-80.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":148335,
+    "name":"Robert Morris University Illinois",
+    "latitude":41.90000153,
+    "longitude":-87.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":194958,
+    "name":"Roberts Wesleyan College",
+    "latitude":43.09999847,
+    "longitude":-77.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":170967,
+    "name":"Rochester College",
+    "latitude":42.70000076,
+    "longitude":-83.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195003,
+    "name":"Rochester Institute of Technology",
+    "latitude":43.09999847,
+    "longitude":-77.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":148405,
+    "name":"Rockford University",
+    "latitude":42.29999924,
+    "longitude":-89,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":179043,
+    "name":"Rockhurst University",
+    "latitude":39,
+    "longitude":-94.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":180595,
+    "name":"Rocky Mountain College",
+    "latitude":45.79999924,
+    "longitude":-108.5999985,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":136950,
+    "name":"Rollins College",
+    "latitude":28.60000038,
+    "longitude":-81.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":148487,
+    "name":"Roosevelt University",
+    "latitude":41.90000153,
+    "longitude":-87.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":152318,
+    "name":"Rose-Hulman Institute of Technology",
+    "latitude":39.5,
+    "longitude":-87.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":215691,
+    "name":"Rosemont College",
+    "latitude":40,
+    "longitude":-75.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":176318,
+    "name":"Rust College",
+    "latitude":34.79999924,
+    "longitude":-89.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":130253,
+    "name":"Sacred Heart University",
+    "latitude":41.20000076,
+    "longitude":-73.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154235,
+    "name":"Saint Ambrose University",
+    "latitude":41.5,
+    "longitude":-90.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":183239,
+    "name":"Saint Anselm College",
+    "latitude":43,
+    "longitude":-71.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":199582,
+    "name":"Saint Augustine's University",
+    "latitude":35.79999924,
+    "longitude":-78.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":227845,
+    "name":"Saint Edward's University",
+    "latitude":30.20000076,
+    "longitude":-97.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":215743,
+    "name":"Saint Francis University",
+    "latitude":40.5,
+    "longitude":-78.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195720,
+    "name":"Saint John Fisher College",
+    "latitude":43.09999847,
+    "longitude":-77.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":174792,
+    "name":"Saint Johns University",
+    "latitude":45.59999847,
+    "longitude":-94.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":152363,
+    "name":"Saint Josephs College",
+    "latitude":40.90000153,
+    "longitude":-87.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":161518,
+    "name":"Saint Joseph's College of Maine",
+    "latitude":43.79999924,
+    "longitude":-70.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195544,
+    "name":"Saint Joseph's College-New York",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":215770,
+    "name":"Saint Joseph's University",
+    "latitude":40,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":137032,
+    "name":"Saint Leo University",
+    "latitude":28.29999924,
+    "longitude":-82.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":179159,
+    "name":"Saint Louis University",
+    "latitude":38.59999847,
+    "longitude":-90.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":236452,
+    "name":"Saint Martin's University",
+    "latitude":47,
+    "longitude":-122.8000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":152381,
+    "name":"Saint Mary-of-the-Woods College",
+    "latitude":39.5,
+    "longitude":-87.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":152390,
+    "name":"Saint Mary's College",
+    "latitude":41.70000076,
+    "longitude":-86.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":123554,
+    "name":"Saint Mary's College of California",
+    "latitude":37.79999924,
+    "longitude":-122.0999985,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":174817,
+    "name":"Saint Mary's University of Minnesota",
+    "latitude":44,
+    "longitude":-91.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":231059,
+    "name":"Saint Michael's College",
+    "latitude":44.5,
+    "longitude":-73.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":239716,
+    "name":"Saint Norbert College",
+    "latitude":44.40000153,
+    "longitude":-88.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":186432,
+    "name":"Saint Peter's University",
+    "latitude":40.70000076,
+    "longitude":-74.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":148627,
+    "name":"Saint Xavier University",
+    "latitude":41.70000076,
+    "longitude":-87.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":199607,
+    "name":"Salem College",
+    "latitude":36.09999847,
+    "longitude":-80.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217536,
+    "name":"Salve Regina University",
+    "latitude":41.5,
+    "longitude":-71.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":102049,
+    "name":"Samford University",
+    "latitude":33.5,
+    "longitude":-86.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":112084,
+    "name":"San Diego Christian College",
+    "latitude":32.79999924,
+    "longitude":-116.9000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":122931,
+    "name":"Santa Clara University",
+    "latitude":37.40000153,
+    "longitude":-121.9000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195304,
+    "name":"Sarah Lawrence College",
+    "latitude":40.90000153,
+    "longitude":-73.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":140951,
+    "name":"Savannah College of Art and Design",
+    "latitude":32.09999847,
+    "longitude":-81.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":143048,
+    "name":"School of the Art Institute of Chicago",
+    "latitude":41.90000153,
+    "longitude":-87.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":166984,
+    "name":"School of the Museum of Fine Arts-Boston",
+    "latitude":42.29999924,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":228042,
+    "name":"Schreiner University",
+    "latitude":30,
+    "longitude":-99.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":123165,
+    "name":"Scripps College",
+    "latitude":34.09999847,
+    "longitude":-117.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":236577,
+    "name":"Seattle Pacific University",
+    "latitude":47.59999847,
+    "longitude":-122.4000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":236595,
+    "name":"Seattle University",
+    "latitude":47.59999847,
+    "longitude":-122.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":186584,
+    "name":"Seton Hall University",
+    "latitude":40.70000076,
+    "longitude":-74.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":215947,
+    "name":"Seton Hill University",
+    "latitude":40.29999924,
+    "longitude":-79.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":199643,
+    "name":"Shaw University",
+    "latitude":35.79999924,
+    "longitude":-78.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":233541,
+    "name":"Shenandoah University",
+    "latitude":39.20000076,
+    "longitude":-78.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":140988,
+    "name":"Shorter University",
+    "latitude":34.29999924,
+    "longitude":-85.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195474,
+    "name":"Siena College",
+    "latitude":42.70000076,
+    "longitude":-73.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":172264,
+    "name":"Siena Heights University",
+    "latitude":41.90000153,
+    "longitude":-84,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":182458,
+    "name":"Sierra Nevada College",
+    "latitude":39.20000076,
+    "longitude":-119.9000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":167783,
+    "name":"Simmons College",
+    "latitude":42.29999924,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154350,
+    "name":"Simpson College",
+    "latitude":41.40000153,
+    "longitude":-93.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":123457,
+    "name":"Simpson University",
+    "latitude":40.59999847,
+    "longitude":-122.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195526,
+    "name":"Skidmore College",
+    "latitude":43.09999847,
+    "longitude":-73.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":167835,
+    "name":"Smith College",
+    "latitude":42.29999924,
+    "longitude":-72.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":137564,
+    "name":"Southeastern University",
+    "latitude":28,
+    "longitude":-81.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":221661,
+    "name":"Southern Adventist University",
+    "latitude":35,
+    "longitude":-85.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":228246,
+    "name":"Southern Methodist University",
+    "latitude":32.79999924,
+    "longitude":-96.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":206862,
+    "name":"Southern Nazarene University",
+    "latitude":35.5,
+    "longitude":-97.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":183026,
+    "name":"Southern New Hampshire University",
+    "latitude":43,
+    "longitude":-71.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217776,
+    "name":"Southern Wesleyan University",
+    "latitude":34.70000076,
+    "longitude":-82.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":179326,
+    "name":"Southwest Baptist University",
+    "latitude":37.59999847,
+    "longitude":-93.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":228325,
+    "name":"Southwestern Assemblies of God University",
+    "latitude":32.40000153,
+    "longitude":-96.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":155900,
+    "name":"Southwestern College",
+    "latitude":37.20000076,
+    "longitude":-97,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":228343,
+    "name":"Southwestern University",
+    "latitude":30.60000038,
+    "longitude":-97.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":157757,
+    "name":"Spalding University",
+    "latitude":38.20000076,
+    "longitude":-85.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":141060,
+    "name":"Spelman College",
+    "latitude":33.70000076,
+    "longitude":-84.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":172334,
+    "name":"Spring Arbor University",
+    "latitude":42.20000076,
+    "longitude":-84.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":102234,
+    "name":"Spring Hill College",
+    "latitude":30.70000076,
+    "longitude":-88.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":167899,
+    "name":"Springfield College",
+    "latitude":42.09999847,
+    "longitude":-72.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195164,
+    "name":"St Bonaventure University",
+    "latitude":42.09999847,
+    "longitude":-78.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":175005,
+    "name":"St Catherine University",
+    "latitude":44.90000153,
+    "longitude":-93.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195173,
+    "name":"St Francis College",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":163976,
+    "name":"St John's College",
+    "latitude":39,
+    "longitude":-76.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":245652,
+    "name":"St John's College",
+    "latitude":35.70000076,
+    "longitude":-105.9000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195809,
+    "name":"St John's University-New York",
+    "latitude":40.70000076,
+    "longitude":-73.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195216,
+    "name":"St Lawrence University",
+    "latitude":44.59999847,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":179265,
+    "name":"St Louis College of Pharmacy",
+    "latitude":38.59999847,
+    "longitude":-90.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":228149,
+    "name":"St Mary's University",
+    "latitude":29.5,
+    "longitude":-98.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":174844,
+    "name":"St Olaf College",
+    "latitude":44.5,
+    "longitude":-93.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195243,
+    "name":"St Thomas Aquinas College",
+    "latitude":41,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":137476,
+    "name":"St Thomas University",
+    "latitude":25.89999962,
+    "longitude":-80.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":243744,
+    "name":"Stanford University",
+    "latitude":37.40000153,
+    "longitude":-122.1999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":179548,
+    "name":"Stephens College",
+    "latitude":39,
+    "longitude":-92.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":137546,
+    "name":"Stetson University",
+    "latitude":29,
+    "longitude":-81.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":186867,
+    "name":"Stevens Institute of Technology",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164173,
+    "name":"Stevenson University",
+    "latitude":39.40000153,
+    "longitude":-76.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":102270,
+    "name":"Stillman College",
+    "latitude":33.20000076,
+    "longitude":-87.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":167996,
+    "name":"Stonehill College",
+    "latitude":42.09999847,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168005,
+    "name":"Suffolk University",
+    "latitude":42.40000153,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":216278,
+    "name":"Susquehanna University",
+    "latitude":40.79999924,
+    "longitude":-76.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":216287,
+    "name":"Swarthmore College",
+    "latitude":39.90000153,
+    "longitude":-75.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":233718,
+    "name":"Sweet Briar College",
+    "latitude":37.59999847,
+    "longitude":-79.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":196413,
+    "name":"Syracuse University",
+    "latitude":43,
+    "longitude":-76.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":155973,
+    "name":"Tabor College",
+    "latitude":38.29999924,
+    "longitude":-97.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":102298,
+    "name":"Talladega College",
+    "latitude":33.40000153,
+    "longitude":-86.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":152530,
+    "name":"Taylor University",
+    "latitude":40.5,
+    "longitude":-85.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":221856,
+    "name":"Tennessee Temple University",
+    "latitude":35,
+    "longitude":-85.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":228875,
+    "name":"Texas Christian University",
+    "latitude":32.70000076,
+    "longitude":-97.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":228884,
+    "name":"Texas College",
+    "latitude":32.40000153,
+    "longitude":-95.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":228981,
+    "name":"Texas Lutheran University",
+    "latitude":29.60000038,
+    "longitude":-98,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":229160,
+    "name":"Texas Wesleyan University",
+    "latitude":32.70000076,
+    "longitude":-97.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":142294,
+    "name":"The College of Idaho",
+    "latitude":43.70000076,
+    "longitude":-116.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":193645,
+    "name":"The College of New Rochelle",
+    "latitude":40.90000153,
+    "longitude":-73.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195234,
+    "name":"The College of Saint Rose",
+    "latitude":42.70000076,
+    "longitude":-73.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":174899,
+    "name":"The College of Saint Scholastica",
+    "latitude":46.79999924,
+    "longitude":-92.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":206589,
+    "name":"The College of Wooster",
+    "latitude":40.79999924,
+    "longitude":-81.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":167057,
+    "name":"The New England Conservatory of Music",
+    "latitude":42.29999924,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":193654,
+    "name":"The New School",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195128,
+    "name":"The Sage Colleges",
+    "latitude":42.70000076,
+    "longitude":-73.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":202763,
+    "name":"The University of Findlay",
+    "latitude":41.09999847,
+    "longitude":-83.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":137847,
+    "name":"The University of Tampa",
+    "latitude":27.89999962,
+    "longitude":-82.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":216357,
+    "name":"Thiel College",
+    "latitude":41.40000153,
+    "longitude":-80.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":161563,
+    "name":"Thomas College",
+    "latitude":44.5,
+    "longitude":-69.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":157809,
+    "name":"Thomas More College",
+    "latitude":39,
+    "longitude":-84.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":206048,
+    "name":"Tiffin University",
+    "latitude":41.09999847,
+    "longitude":-83.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":141185,
+    "name":"Toccoa Falls College",
+    "latitude":34.59999847,
+    "longitude":-83.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":196592,
+    "name":"Touro College",
+    "latitude":40.70000076,
+    "longitude":-74,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":157818,
+    "name":"Transylvania University",
+    "latitude":38.09999847,
+    "longitude":-84.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":221892,
+    "name":"Trevecca Nazarene University",
+    "latitude":36.09999847,
+    "longitude":-86.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":152567,
+    "name":"Trine University",
+    "latitude":41.59999847,
+    "longitude":-85,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":149505,
+    "name":"Trinity Christian College",
+    "latitude":41.70000076,
+    "longitude":-87.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":130590,
+    "name":"Trinity College",
+    "latitude":41.70000076,
+    "longitude":-72.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":149514,
+    "name":"Trinity International University-Illinois",
+    "latitude":42.20000076,
+    "longitude":-87.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":229267,
+    "name":"Trinity University",
+    "latitude":29.5,
+    "longitude":-98.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168148,
+    "name":"Tufts University",
+    "latitude":42.40000153,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":160755,
+    "name":"Tulane University of Louisiana",
+    "latitude":29.89999962,
+    "longitude":-90.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":221953,
+    "name":"Tusculum College",
+    "latitude":36.20000076,
+    "longitude":-82.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":102377,
+    "name":"Tuskegee University",
+    "latitude":32.40000153,
+    "longitude":-85.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":157863,
+    "name":"Union College",
+    "latitude":36.90000153,
+    "longitude":-83.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":181738,
+    "name":"Union College",
+    "latitude":40.79999924,
+    "longitude":-96.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":196866,
+    "name":"Union College",
+    "latitude":42.79999924,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":206279,
+    "name":"Union Institute & University",
+    "latitude":39.09999847,
+    "longitude":-84.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":221971,
+    "name":"Union University",
+    "latitude":35.70000076,
+    "longitude":-88.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":128744,
+    "name":"University of Bridgeport",
+    "latitude":41.20000076,
+    "longitude":-73.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":237312,
+    "name":"University of Charleston",
+    "latitude":38.29999924,
+    "longitude":-81.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":144050,
+    "name":"University of Chicago",
+    "latitude":41.79999924,
+    "longitude":-87.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":224323,
+    "name":"University of Dallas",
+    "latitude":32.79999924,
+    "longitude":-96.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":202480,
+    "name":"University of Dayton",
+    "latitude":39.70000076,
+    "longitude":-84.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":127060,
+    "name":"University of Denver",
+    "latitude":39.70000076,
+    "longitude":-105,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":169716,
+    "name":"University of Detroit Mercy",
+    "latitude":42.40000153,
+    "longitude":-83.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":153278,
+    "name":"University of Dubuque",
+    "latitude":42.5,
+    "longitude":-90.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":150534,
+    "name":"University of Evansville",
+    "latitude":38,
+    "longitude":-87.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":180258,
+    "name":"University of Great Falls",
+    "latitude":47.5,
+    "longitude":-111.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":129525,
+    "name":"University of Hartford",
+    "latitude":41.79999924,
+    "longitude":-72.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":151263,
+    "name":"University of Indianapolis",
+    "latitude":39.70000076,
+    "longitude":-86.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":117140,
+    "name":"University of La Verne",
+    "latitude":34.09999847,
+    "longitude":-117.8000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":200217,
+    "name":"University of Mary",
+    "latitude":46.70000076,
+    "longitude":-100.8000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":226471,
+    "name":"University of Mary Hardin-Baylor",
+    "latitude":31.10000038,
+    "longitude":-97.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":135726,
+    "name":"University of Miami",
+    "latitude":25.70000076,
+    "longitude":-80.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":101693,
+    "name":"University of Mobile",
+    "latitude":30.79999924,
+    "longitude":-88.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":204185,
+    "name":"University of Mount Union",
+    "latitude":40.90000153,
+    "longitude":-81.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":161457,
+    "name":"University of New England",
+    "latitude":43.5,
+    "longitude":-70.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":129941,
+    "name":"University of New Haven",
+    "latitude":41.29999924,
+    "longitude":-73,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":152080,
+    "name":"University of Notre Dame",
+    "latitude":41.70000076,
+    "longitude":-86.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":215062,
+    "name":"University of Pennsylvania",
+    "latitude":40,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":157535,
+    "name":"University of Pikeville",
+    "latitude":37.5,
+    "longitude":-82.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":209825,
+    "name":"University of Portland",
+    "latitude":45.59999847,
+    "longitude":-122.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":236328,
+    "name":"University of Puget Sound",
+    "latitude":47.29999924,
+    "longitude":-122.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":121691,
+    "name":"University of Redlands",
+    "latitude":34.09999847,
+    "longitude":-117.1999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":233374,
+    "name":"University of Richmond",
+    "latitude":37.59999847,
+    "longitude":-77.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":205203,
+    "name":"University of Rio Grande",
+    "latitude":38.90000153,
+    "longitude":-82.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":195030,
+    "name":"University of Rochester",
+    "latitude":43.09999847,
+    "longitude":-77.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":152336,
+    "name":"University of Saint Francis-Fort Wayne",
+    "latitude":41.09999847,
+    "longitude":-85.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":122436,
+    "name":"University of San Diego",
+    "latitude":32.79999924,
+    "longitude":-117.1999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":122612,
+    "name":"University of San Francisco",
+    "latitude":37.79999924,
+    "longitude":-122.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":215929,
+    "name":"University of Scranton",
+    "latitude":41.40000153,
+    "longitude":-75.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":219383,
+    "name":"University of Sioux Falls",
+    "latitude":43.5,
+    "longitude":-96.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":123961,
+    "name":"University of Southern California",
+    "latitude":34,
+    "longitude":-118.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":174914,
+    "name":"University of St Thomas",
+    "latitude":44.90000153,
+    "longitude":-93.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":227863,
+    "name":"University of St Thomas",
+    "latitude":29.70000076,
+    "longitude":-95.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":156541,
+    "name":"University of the Cumberlands",
+    "latitude":36.70000076,
+    "longitude":-84.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":225627,
+    "name":"University of the Incarnate Word",
+    "latitude":29.5,
+    "longitude":-98.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":107558,
+    "name":"University of the Ozarks",
+    "latitude":35.5,
+    "longitude":-93.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":120883,
+    "name":"University of the Pacific",
+    "latitude":38,
+    "longitude":-121.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":215132,
+    "name":"University of the Sciences",
+    "latitude":39.90000153,
+    "longitude":-75.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":207971,
+    "name":"University of Tulsa",
+    "latitude":36.20000076,
+    "longitude":-95.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154493,
+    "name":"Upper Iowa University",
+    "latitude":42.79999924,
+    "longitude":-91.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":206330,
+    "name":"Urbana University",
+    "latitude":40.09999847,
+    "longitude":-83.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":216524,
+    "name":"Ursinus College",
+    "latitude":40.20000076,
+    "longitude":-75.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":206349,
+    "name":"Ursuline College",
+    "latitude":41.5,
+    "longitude":-81.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":197045,
+    "name":"Utica College",
+    "latitude":43.09999847,
+    "longitude":-75.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":216542,
+    "name":"Valley Forge Christian College",
+    "latitude":40.09999847,
+    "longitude":-75.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":152600,
+    "name":"Valparaiso University",
+    "latitude":41.5,
+    "longitude":-87,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":221999,
+    "name":"Vanderbilt University",
+    "latitude":36.09999847,
+    "longitude":-86.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":123651,
+    "name":"Vanguard University of Southern California",
+    "latitude":33.70000076,
+    "longitude":-117.9000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":197133,
+    "name":"Vassar College",
+    "latitude":41.70000076,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":188340,
+    "name":"Vaughn College of Aeronautics and Technology",
+    "latitude":40.79999924,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":216597,
+    "name":"Villanova University",
+    "latitude":40,
+    "longitude":-75.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":234164,
+    "name":"Virginia Union University",
+    "latitude":37.59999847,
+    "longitude":-77.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":234137,
+    "name":"Virginia University of Lynchburg",
+    "latitude":37.40000153,
+    "longitude":-79.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":234173,
+    "name":"Virginia Wesleyan College",
+    "latitude":36.90000153,
+    "longitude":-76.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":240107,
+    "name":"Viterbo University",
+    "latitude":43.79999924,
+    "longitude":-91.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":152673,
+    "name":"Wabash College",
+    "latitude":40,
+    "longitude":-86.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":197197,
+    "name":"Wagner College",
+    "latitude":40.59999847,
+    "longitude":-74.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":199847,
+    "name":"Wake Forest University",
+    "latitude":36.09999847,
+    "longitude":-80.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":236896,
+    "name":"Walla Walla University",
+    "latitude":46,
+    "longitude":-118.4000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":206437,
+    "name":"Walsh University",
+    "latitude":40.90000153,
+    "longitude":-81.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":138275,
+    "name":"Warner University",
+    "latitude":27.79999924,
+    "longitude":-81.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":199865,
+    "name":"Warren Wilson College",
+    "latitude":35.59999847,
+    "longitude":-82.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154527,
+    "name":"Wartburg College",
+    "latitude":42.70000076,
+    "longitude":-92.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":216667,
+    "name":"Washington & Jefferson College",
+    "latitude":40.20000076,
+    "longitude":-80.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":162210,
+    "name":"Washington Adventist University",
+    "latitude":39,
+    "longitude":-77,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":234207,
+    "name":"Washington and Lee University",
+    "latitude":37.79999924,
+    "longitude":-79.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":164216,
+    "name":"Washington College",
+    "latitude":39.20000076,
+    "longitude":-76.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":179867,
+    "name":"Washington University in St Louis",
+    "latitude":38.59999847,
+    "longitude":-90.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":229780,
+    "name":"Wayland Baptist University",
+    "latitude":34.20000076,
+    "longitude":-101.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":216694,
+    "name":"Waynesburg University",
+    "latitude":39.90000153,
+    "longitude":-80.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":179894,
+    "name":"Webster University",
+    "latitude":38.59999847,
+    "longitude":-90.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168218,
+    "name":"Wellesley College",
+    "latitude":42.29999924,
+    "longitude":-71.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168227,
+    "name":"Wentworth Institute of Technology",
+    "latitude":42.29999924,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":131098,
+    "name":"Wesley College",
+    "latitude":39.20000076,
+    "longitude":-75.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":141325,
+    "name":"Wesleyan College",
+    "latitude":32.90000153,
+    "longitude":-83.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":130697,
+    "name":"Wesleyan University",
+    "latitude":41.59999847,
+    "longitude":-72.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":237969,
+    "name":"West Virginia Wesleyan College",
+    "latitude":39,
+    "longitude":-80.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168254,
+    "name":"Western New England University",
+    "latitude":42.09999847,
+    "longitude":-72.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":179946,
+    "name":"Westminster College",
+    "latitude":38.79999924,
+    "longitude":-92,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":216807,
+    "name":"Westminster College",
+    "latitude":41.09999847,
+    "longitude":-80.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":230807,
+    "name":"Westminster College",
+    "latitude":40.70000076,
+    "longitude":-111.9000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":125727,
+    "name":"Westmont College",
+    "latitude":34.40000153,
+    "longitude":-119.6999969,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":149781,
+    "name":"Wheaton College",
+    "latitude":41.90000153,
+    "longitude":-88.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168281,
+    "name":"Wheaton College",
+    "latitude":42,
+    "longitude":-71.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":238078,
+    "name":"Wheeling Jesuit University",
+    "latitude":40.09999847,
+    "longitude":-80.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168290,
+    "name":"Wheelock College",
+    "latitude":42.29999924,
+    "longitude":-71.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":237057,
+    "name":"Whitman College",
+    "latitude":46.09999847,
+    "longitude":-118.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":125763,
+    "name":"Whittier College",
+    "latitude":34,
+    "longitude":-118,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":237066,
+    "name":"Whitworth University",
+    "latitude":47.79999924,
+    "longitude":-117.4000015,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":216852,
+    "name":"Widener University-Main Campus",
+    "latitude":39.90000153,
+    "longitude":-75.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":229887,
+    "name":"Wiley College",
+    "latitude":32.5,
+    "longitude":-94.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":216931,
+    "name":"Wilkes University",
+    "latitude":41.20000076,
+    "longitude":-75.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":210401,
+    "name":"Willamette University",
+    "latitude":44.90000153,
+    "longitude":-123,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":176479,
+    "name":"William Carey University",
+    "latitude":31.29999924,
+    "longitude":-89.30000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":122728,
+    "name":"William Jessup University",
+    "latitude":38.79999924,
+    "longitude":-121.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":179955,
+    "name":"William Jewell College",
+    "latitude":39.20000076,
+    "longitude":-94.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":154590,
+    "name":"William Penn University",
+    "latitude":41.29999924,
+    "longitude":-92.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168342,
+    "name":"Williams College",
+    "latitude":42.70000076,
+    "longitude":-73.19999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":206507,
+    "name":"Wilmington College",
+    "latitude":39.40000153,
+    "longitude":-83.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":131113,
+    "name":"Wilmington University",
+    "latitude":39.70000076,
+    "longitude":-75.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217013,
+    "name":"Wilson College",
+    "latitude":39.90000153,
+    "longitude":-77.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":199962,
+    "name":"Wingate University",
+    "latitude":35,
+    "longitude":-80.40000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":240338,
+    "name":"Wisconsin Lutheran College",
+    "latitude":43,
+    "longitude":-88,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":206525,
+    "name":"Wittenberg University",
+    "latitude":39.90000153,
+    "longitude":-83.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":218973,
+    "name":"Wofford College",
+    "latitude":35,
+    "longitude":-81.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":125897,
+    "name":"Woodbury University",
+    "latitude":34.20000076,
+    "longitude":-118.3000031,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":168421,
+    "name":"Worcester Polytechnic Institute",
+    "latitude":42.29999924,
+    "longitude":-71.80000305,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":206622,
+    "name":"Xavier University",
+    "latitude":39.09999847,
+    "longitude":-84.5,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":160904,
+    "name":"Xavier University of Louisiana",
+    "latitude":30,
+    "longitude":-90.09999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":130794,
+    "name":"Yale University",
+    "latitude":41.29999924,
+    "longitude":-72.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":197708,
+    "name":"Yeshiva University",
+    "latitude":40.90000153,
+    "longitude":-73.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":181853,
+    "name":"York College",
+    "latitude":40.90000153,
+    "longitude":-97.59999847,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":217059,
+    "name":"York College Pennsylvania",
+    "latitude":39.90000153,
+    "longitude":-76.69999695,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":null,
+    "name":"Pomona College",
+    "latitude":null,
+    "longitude":null,
+    "control":""
+  },
+  {
+    "id":221519,
+    "name":"Sewanee-The University of the South",
+    "latitude":35.20000076,
+    "longitude":-85.90000153,
+    "control":"Private not-for-profit"
+  },
+  {
+    "id":null,
+    "name":"Randoph College",
+    "latitude":null,
+    "longitude":null,
+    "control":""
+  },
+  {
+    "id":null,
+    "name":"Mass. College of Pharmacy",
+    "latitude":null,
+    "longitude":null,
+    "control":""
+  },
+  {
+    "id":null,
+    "name":"Long Island University",
+    "latitude":null,
+    "longitude":null,
+    "control":""
+  },
+  {
+    "id":null,
+    "name":"Le Moyne-Owen College",
+    "latitude":null,
+    "longitude":null,
+    "control":""
+  }
+]
