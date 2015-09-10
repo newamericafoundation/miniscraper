@@ -1,4 +1,4 @@
-var http = require('http');
+var http = require('follow-redirects').http;
 
 var request = function(url, next) {
 
@@ -11,7 +11,13 @@ var request = function(url, next) {
 		});
 
 		resp.on('end', function() {
+			if (str === '') { console.log('empty response'); }
 			next(str);
+		});
+
+		resp.on('error', function() {
+			console.log('error');
+			next('');
 		});
 
 	}).end();
