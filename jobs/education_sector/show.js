@@ -6,7 +6,7 @@ module.exports = {
 
 	id: 'education_sector',
 
-	saveFileName: 'es_show.json',
+	saveFileName: 'es_show_1.json',
 
 	extractables: [
 
@@ -27,15 +27,6 @@ module.exports = {
 		},
 
 		{
-			field: 'file_url',
-			extractMethodName: 'extractOne',
-			location: {
-				selector: '.attachments a',
-				attributeName: 'href'
-			}
-		},
-
-		{
 			field: 'file',
 			urlPrefix: 'web.archive.org',
 			extractMethodName: 'extractOneUrlAndSave',
@@ -45,11 +36,13 @@ module.exports = {
 			},
 			options: {
 				urlPrefix: 'web.archive.org',
-				downloadFolderName: 'attachments'
+				downloadFolderName: 'attachments_1'
 			}
 		}
 
 	],
+
+	uniqueEntryField: 'urlFragment',
 
 	getEntries: function(index) {
 		return entries[index];

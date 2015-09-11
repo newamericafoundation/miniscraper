@@ -5,14 +5,49 @@ var fs = require('fs'),
     numeral = require('numeral'),
     json2csv = require('json2csv');
 
-var scraper = {
+class Scraper {
+
+	constructor(job, entriesIndex) {
+		this.job = job;
+		this.entriesIndex = entriesIndex;
+	}
+
+	scrape() {
+		var entries = this.job.getEntries(this.entriesIndex);
+		entries = this.cleanEntries(entries);
+
+		this.scrapeEntries(entries, this.saveJson.bind(this));
+	}
+
+	/*
+	 * Removes entries that have a duplicate unique field.
+	 *
+	 */
+	cleanEntries(entries) {
+		var uniqueFieldValues = [],
+			cleanedEntries = [];
+
+		var uniqueField = this.job.uniqueEntryField;
+
+		if (!uniqueField) { return entries; }
+
+		entries.forEach((entry, i) => {
+			var uniqueFieldValue = entry[uniqueField];
+			if (uniqueFieldValues.indexOf(uniqueFieldValue) === -1) {
+				cleanedEntries.push(entry);
+				uniqueFieldValues.push(uniqueFieldValue);
+			}
+		});
+
+		return cleanedEntries;
+	}
 
 	/*
 	 * Search tables in an HTML section for a give data point.
 	 * @param {object} $ - DOM image as a jQuery-like object.
 	 * @param {object} options - Selector, table name, row name, column name and format.
 	 */
-	extractTableField: function($, location, options) {
+	extractTableField($, location, options) {
 
 	    var selector = location.selector,
 	        tableName = location.tableName,
@@ -33,9 +68,9 @@ var scraper = {
 
 	    return result;
 
-	},
+	}
 
-	extractAll: function($, location, options) {
+	extractAll($, location, options) {
 
 		var selector = location.selector,
 			attributeName = location.attributeName,
@@ -43,14 +78,15 @@ var scraper = {
 
 		$(selector).each(function() {
 			var $el = $(this);
-			var item = itemAttributeName ? $el.attr(attributeName) : $el.html();
+			var item = attributeName ? $el.attr(attributeName) : $el.html();
+			list.push(item);
 		});
 
 		return list;
 
-	},
+	}
 
-	extractOne: function($, location, options) {
+	extractOne($, location, options) {
 
 		var selector = location.selector,
 			attributeName = location.attributeName;
@@ -61,9 +97,11 @@ var scraper = {
 
 		return item;
 
-	},
+	}
 
-	extractOneUrlAndSave: function($, location, options) {
+	extractOneUrlAndSave($, location, options, entryId) {
+
+		var fileName;
 
 		var self = this;
 
@@ -80,32 +118,34 @@ var scraper = {
 
 			var fileName = fileUrl.slice(fileUrl.lastIndexOf('/') + 1);
 
+			var newFileName = fileName.slice(0, -4) + '__' + entryId + fileName.slice(-4);
+
+			console.log(newFileName);
+
 			var requestOptions = {
 				host: options.urlPrefix,
 				port: 80,
 				path: fileUrl
 			};
 
-			request(requestOptions, function(err, response, body) {
+			var writePath = 'jobs/' + this.job.id + '/results/' + options.downloadFolderName + '/' + fileName;
 
-				fs.writeFile('jobs/' + self.job.id + '/results/' + options.downloadFolderName + '/' + fileName, body, function(err) {
-					if(err) { return console.log(err); }
-					console.log('write successful');
-				});
-			});
+			request('http://' + fileUrl).pipe(fs.createWriteStream(writePath));
 
 		}
 
-		return item;
+		if(fileName) { return fileName; }
 
-	},
+		return 'file_not_available';
+
+	}
 
 	/*
 	 * Scrape a single entry.
 	 * @param {object} entry
 	 * @param {function} next - Callback.
 	 */
-	scrapeEntry: function(entry, next) {
+	scrapeEntry(entry, next) {
 
 		var self = this;
 
@@ -118,21 +158,21 @@ var scraper = {
 	        var $ = cheerio.load(body);
 
 	        self.job.extractables.forEach(function(exbl) {
-	        	entry[exbl.field] = scraper[exbl.extractMethodName]($, exbl.location, exbl.options);
+	        	entry[exbl.field] = self[exbl.extractMethodName]($, exbl.location, exbl.options, entry.id);
 	        });
 
 	        next(entry);
 
 	    });
 
-	},
+	}
 
 	/*
 	 * Scrape entries.
 	 * @param {array} entries
 	 * @param {function} next - Callback.
 	 */
-	scrapeEntries: function(entries, next) {
+	scrapeEntries(entries, next) {
 		var self = this,
 			length = entries.length,
 			scraped = 0;
@@ -152,13 +192,13 @@ var scraper = {
 
 		});
 
-	},
+	}
 
 	/*
 	 * Save entries as csv.
 	 * @param {object} json
 	 */
-	saveCsv: function(json) {
+	saveCsv(json) {
 		var self = this;
 		console.log('saving csv..');
 		json2csv({ data: json }, function(err, csv) {
@@ -168,33 +208,28 @@ var scraper = {
 		        console.log('Saved completed file. Bye!');
 		    });
 		});
-	},
+	}
 
 	/*
 	 * Consolidate entries.
 	 */
-	beforeSave: function() {
+	beforeSave() {
 
-	},
+	}
 
 	/*
 	 * Save entries as csv.
 	 * @param {object} json
 	 */
-	saveJson: function(json) {
+	saveJson(json) {
 		var self = this;
 		console.log('saving json..');
 		fs.writeFile('jobs/' + self.job.id + '/results/' + self.job.saveFileName, JSON.stringify(json), function(err) {
 		    if (err) throw err;
 		    console.log('Saved completed file. Bye!');
 		});
-	},
-
-	scrape: function(job, entriesIndex) {
-		this.job = job;
-		this.scrapeEntries(job.getEntries(entriesIndex), this.saveJson.bind(this));
 	}
 
 };
 
-module.exports = scraper;
+module.exports = Scraper;
