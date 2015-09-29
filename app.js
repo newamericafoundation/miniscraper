@@ -8,6 +8,7 @@ var Scraper = require('./src/scraper.js');
 // Job description
 var job = require('./jobs/education_sector/show.js');
 //var job = require('./jobs/college_navigator/index.js');
+var job = require('./jobs/quick_and_ed/index.js');
 
 var scraper = new Scraper(job);
 

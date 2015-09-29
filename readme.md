@@ -4,7 +4,7 @@ A scraping utility for highly customized mass-data collection.
 
 The main scraper module expects a ``job`` object as follows:
 
-	job = {
+	var job = {
 
 		id: 'find_favorite_foods',
 
@@ -40,7 +40,15 @@ The main scraper module expects a ``job`` object as follows:
 
 	};
 
-The scraper generates a new, extended JSON object of the new entries by scraping each corresponding URL for the inner html of ``.favorite-food p``:
+The scraper generates a new, extended JSON object of the new entries by scraping each corresponding URL for the inner html of ``.favorite-food p``. The following code:
+
+	var scraper = new Scraper(job);
+
+	scraper.scrape(function(data) {
+		console.log(data);
+	});
+
+Will log:
 
 	{
 		name: 'Jerry',

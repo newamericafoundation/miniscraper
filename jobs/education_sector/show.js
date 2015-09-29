@@ -6,8 +6,6 @@ module.exports = {
 
 	id: 'education_sector',
 
-	saveFileName: 'es_show.json',
-
 	extractables: [
 
 		{
@@ -53,8 +51,7 @@ module.exports = {
 				attributeName: 'href'
 			},
 			options: {
-				urlPrefix: 'web.archive.org',
-				downloadFolderName: 'attachments'
+				urlPrefix: 'web.archive.org'
 			}
 		}
 

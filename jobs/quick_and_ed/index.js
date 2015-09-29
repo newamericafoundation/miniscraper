@@ -1,6 +1,4 @@
-var entries = [
-	require('./entries/research.json')
-];
+var entries = require('./entries/papers.json');
 
 module.exports = {
 
@@ -12,15 +10,15 @@ module.exports = {
 			field: 'urls',
 			extractMethodName: 'extractAll',
 			location: {
-				selector: '#zone2 h4 > a',
-				attributeName: 'href'
+				selector: '#mainColumn h3',
+				attributeName: null
 			}
 		}
 
 	],
 
 	getEntries: function() {
-		return entries[0];
+		return entries;
 	},
 
 	getEntryUrl: function(entry) {

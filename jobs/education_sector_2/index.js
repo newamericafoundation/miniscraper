@@ -1,5 +1,5 @@
 var entries = [
-	require('./entries/research.json')
+	require('./entries/analysis.json')
 ];
 
 module.exports = {
