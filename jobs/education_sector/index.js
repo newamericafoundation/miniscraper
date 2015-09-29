@@ -1,12 +1,12 @@
 var entries = [
-	require('./entries/research_1.json')
+	require('./entries/research.json')
 ];
 
 module.exports = {
 
 	id: 'education_sector',
 
-	saveFileName: 'es_index_1.json',
+	saveFileName: 'es_index.json',
 
 	extractables: [
 
@@ -21,8 +21,8 @@ module.exports = {
 
 	],
 
-	getEntries: function(index) {
-		return entries[index];
+	getEntries: function() {
+		return entries[0];
 	},
 
 	getEntryUrl: function(entry) {

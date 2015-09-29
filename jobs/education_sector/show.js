@@ -6,7 +6,7 @@ module.exports = {
 
 	id: 'education_sector',
 
-	saveFileName: 'es_show_1.json',
+	saveFileName: 'es_show.json',
 
 	extractables: [
 
@@ -27,6 +27,24 @@ module.exports = {
 		},
 
 		{
+			field: 'publication_date',
+			extractMethodName: 'extractDescriptionListField',
+			location: {
+				selector: '.containerCntDetails dl',
+				rowName: 'Publication Date:'
+			}
+		},
+
+		{
+			field: 'author',
+			extractMethodName: 'extractDescriptionListField',
+			location: {
+				selector: '.containerCntDetails dl',
+				rowName: 'Author:'
+			}
+		},
+
+		{
 			field: 'file',
 			urlPrefix: 'web.archive.org',
 			extractMethodName: 'extractOneUrlAndSave',
@@ -36,7 +54,7 @@ module.exports = {
 			},
 			options: {
 				urlPrefix: 'web.archive.org',
-				downloadFolderName: 'attachments_1'
+				downloadFolderName: 'attachments'
 			}
 		}
 
@@ -44,8 +62,8 @@ module.exports = {
 
 	uniqueEntryField: 'urlFragment',
 
-	getEntries: function(index) {
-		return entries[index];
+	getEntries: function() {
+		return entries[0];
 	},
 
 	getEntryUrl: function(entry) {

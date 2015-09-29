@@ -33,8 +33,8 @@ module.exports = {
 		}
 	],
 
-	getEntries: function(index) {
-		return entries[index];
+	getEntries: function() {
+		return entries[0];
 	},
 
 	getEntryUrl: function(entry) {

@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-fs.readFile('./jobs/education_sector/results/es_index_1.json', 'utf-8', function(err, file) {
+fs.readFile('./jobs/education_sector/results/es_index.json', 'utf-8', function(err, file) {
 	if (err) { return console.dir(err); }
 	var json = JSON.parse(file);
 	var arr = [];
@@ -13,7 +13,7 @@ fs.readFile('./jobs/education_sector/results/es_index_1.json', 'utf-8', function
 			urlFragment: item
 		};
 	});
-	fs.writeFile('./jobs/education_sector/entries/show_1.json', JSON.stringify(arr), function(err) {
+	fs.writeFile('./jobs/education_sector/entries/show.json', JSON.stringify(arr), function(err) {
 		if (err) { return console.log(err); }
 		console.log('saved successfully');
 	});
